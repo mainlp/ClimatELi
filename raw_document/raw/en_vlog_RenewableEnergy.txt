@@ -1,0 +1,114 @@
+Renewable Energy and the Energy Transition
+
+large wind farms
+solar panels on rooftops
+bio gas plants
+Germany is changing because of its energy transition
+but what is energy transition really mean
+why is it so important now
+and where are the opportunities and challenges
+we need energy in all areas of life
+for transportation and as heat and electricity
+today we get most of our energy from fossil fuels
+but there are many arguments against the use of fossil fuels
+two of the most important factors
+since the beginning of industrialization
+we burn more and more fossil fuels
+releasing large amounts of carbon dioxide
+this increases the greenhouse effect
+which is causing the earth to heat up rapidly
+we have induced manmade climate change
+which dramatically changes our planets natural processes
+and creates a number of problems
+fossil fuels are finite
+especially the amount of available oil our main energy resource is decreasing rapidly
+there is still some oil left
+but exploitation is becoming increasingly expensive unsafe and dangerous for the environment
+both factors are exacerbated by rapid economic development in emerging countries
+the result accelerated climate change and increasing resource scarcity
+to curb this trend a massive shift in energy policy is essential
+nuclear power is no solution
+the catastrophe of Fukushima has shown this once again
+Germany's energy transition involves two main changes
+first a shift to renewable energy instead of fossil fuel
+second a decrease in energy use through design technology and energy efficiency measures
+let's take a closer look at these issues
+renewable energy sources
+this means the extraction of energy from materials that are not finite or that regenerate themselves
+this can happen in large plants but also on a small scale in private households close to the consumer
+wind turbines have rotors which are moved by the power of the wind
+a generator then creates electricity
+similar to wind power in hydroelectric power stations kinetic energy drives a generator which produces electricity
+wave and tidal power plants use the natural movement of the sea
+there are two major forms of solar energy
+solar collectors heat a transmission medium with the sun's energy
+on a small scale this includes hot water heaters for individual households
+on a large scale concentrated solar power plants produce electricity
+solar photovoltaic cells convert the sun's rays directly into electricity
+these systems are often installed on rooftops
+geothermal energy can also be absorbed by collectors
+just a few metres below the earth's surface
+the increased temperature can be high enough to supply the heating for private households
+in regions with high underground temperatures electricity can also be generated in this way
+biomass from animal and vegetable substances like organic waste from agriculture in households or specially grown energy crops can generate electricity or be converted into fuel
+the fermentation of these substances produces methane gas which is transformed into electricity and heat in cogeneration plants
+ethanol and biodiesel fuels can be produced with special energy crops
+solid biomass is burned in order to generate heat or electricity
+when burned plants only release the amount of co2 they have absorbed during their growth
+thus the carbon balance is neutral
+from the energy source to the consumer energy runs through various conversion processes
+in each of these steps energy is lost
+to increase energy efficiency means to minimize these losses
+or in other words to win as much a net energy as possible from the original energy source
+many losses in industry and households can be avoided
+in electricity production and in many industries a great amount of heat is released as a by-product
+heat and power cogeneration uses this energy to heat the surrounding community
+old appliances with a high power demand can be exchanged for more efficient ones
+this decreases power consumption and lowers costs for the consumer
+just as important as increasing efficiency is the reduction of overall consumption
+our way of life uses too much energy we need to conserve
+the energy transition is a very complex challenge
+what are the difficulties
+the use of renewable energy can have negative ecological consequences
+occasionally the interests of nature conservation conflict with the production of green power
+wind and hydroelectric power plants may damage the habitats of birds and fish
+for the cultivation of energy crops rainforests are cleared
+this destroys valuable ecosystems and important natural carbon sinks and increases co2 emissions
+energy crops are often grown on fields that previously grew food crops
+this increases world food prices
+residents in the vicinity of many power plants can complain about unsightly buildings and noise
+at times state funding practices have been criticised
+subsidies can hinder a complete restructuring and favor a few large energy producers
+businesses and households often cannot afford the upfront costs of buying more efficient equipment
+and sometimes it's very difficult for us to change our habits
+the reliable and constant supply of green electricity is a major technical challenge
+two points are particularly challenging
+the structure of power grids and the storage of power
+in Germany for example energy production and consumption are located in different regions
+the largest supplier of renewable electricity wind power plants are mostly located in the north due to good climate conditions
+much of the country's energy intensive industry however is located in the south
+currently the power grid lacks the capability to transport enough energy from north to south
+as a result energy often has to be bought from other sources
+even though enough energy is actually produced
+in addition renewable energy sources are heavily dependent on the weather
+their output fluctuates in times when power plants achieve a high performance
+for example when there is a strong wind
+there's a lack of sufficient storage capacity for the energy surplus
+pump storage stations are a way to store some electrical energy
+but these storage facilities take a lot of space and a certain geography
+at this time a well engineered storage technology that could
+be implemented nationwide doesn't exist
+a technical solution might be so-called smart grids
+these intelligent power grids observe and link production storage and consumption of energy in a large integrated system
+depending on the demand for energy at a certain time they can fine-tune energy production and moderate consumption
+they balance fluctuations between energy supply and demand and integrate the many new decentralized producers into the power
+grid
+thus the energy supply becomes more efficient and more reliable
+we see an energy transition is inevitable
+the change to renewable energy definitely poses many challenges
+but these are much smaller and easier to deal with than the consequences of continued reliance on fossil fuels
+and the energy transition also offers enormous opportunity
+the exploration and development of this new economic sector is creating many new jobs
+we also reduce our dependence on oil and gas imports
+with its energy transition Germany as well as other countries can play a leading role in developing new technologies
+and can make an important contribution to shaping a sustainable future

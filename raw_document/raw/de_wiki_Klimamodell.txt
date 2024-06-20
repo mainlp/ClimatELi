@@ -1,0 +1,59 @@
+Klimamodell
+
+Ein Klimamodell ist ein Computermodell zur Berechnung und Projektion des Klimas für einen bestimmten Zeitabschnitt. Das Modell basiert in der Regel auf einem Meteorologiemodell, wie es auch zur numerischen Wettervorhersage verwendet wird. Dieses Modell wird jedoch für die Klimamodellierung erweitert, um alle Erhaltungsgrößen korrekt abzubilden. In der Regel wird dabei ein Ozeanmodell, ein Schnee- und Eismodell für die Kryosphäre und ein Vegetationsmodell für die Biosphäre angekoppelt.
+
+Mathematisch entsteht dadurch ein gekoppeltes System von nicht-linearen, partiellen und gewöhnlichen Differentialgleichungen sowie einigen algebraischen Gleichungen. Die numerische Berechnung dieses Gleichungssystems erfordert eine sehr große Rechenleistung, wie sie von Supercomputern wie dem Earth Simulator bereitgestellt wird.
+
+Es werden globale Klimamodelle (sogenannte GCMs, general circulation models) und regionale Klimamodelle unterschieden. Der Hauptunterschied liegt zum einen darin, dass ein globales Klimamodell die gesamte Troposphäre beinhaltet, während ein regionales Modell in der Regel die gleiche Modellphysik abbildet, dies allerdings nur auf einen bestimmten geographischen Ausschnitt der Erde anwendet.
+
+Allgemeines
+
+Klimamodelle stellen die komplexesten und rechenaufwendigsten Computermodelle dar, welche bisher entwickelt wurden. Die „Hochrechnungen“ der Klimamodelle sind naturgemäß unsicherer als die der Wettermodelle, da hier wesentlich größere Zeiträume in Betracht gezogen und eine große Zahl zusätzlicher Parameter berücksichtigt werden müssen. Aus diesem Grunde spricht man bei diesen Einzelmodellen auch von Klimaszenarien und nicht von Klimavorhersagen. Eine Wettervorhersage beruht auf Datenmaterial, welches es ermöglicht, innerhalb einer Zeitspanne von derzeit bis zu einer Woche, die Entwicklung der chaotischen Dynamik innerhalb der Erdatmosphäre mit einer hohen Wahrscheinlichkeit vorherzusagen. Die Unsicherheit der Hochrechnung steigt dabei jedoch exponentiell mit dem hochgerechneten Zeitraum an und ist selbst unter anderem von der Wetterlage abhängig. Zwar spielen auch bei Wettermodellen die Erfahrung und die Einschätzung der Anwender in Form einer Kontrollinstanz zwischen dem reinen Computermodell und der letztendlichen Voraussage eine entscheidende Rolle, jedoch ist der Charakter eines Klimamodells hiervon trotzdem grundsätzlich verschieden.
+
+Klimamodelle dienen dem Auffinden möglicher Trends in der Entwicklung des Klimas und der Gewichtung einzelner Klimafaktoren. Sie beruhen auf einer Vielzahl von Annahmen und Methoden, beispielsweise zur Entwicklung der zukünftigen Treibhausgasemissionen und Rückkopplungsmechanismen. Zudem beruhen Klimamodelle im Gegensatz zu den Wettermodellen nicht auf einer feststehenden Dynamik und sind deswegen nicht durch deren chaotischen Charakter und die Begrenzung der Rechenleistung eingeschränkt. Einige Rückkopplungen, vor allem in Verbindung mit den Kippelementen im Erdsystem, sind noch ungenügend erforscht und können auch unter Einbeziehung der Klimageschichte nicht ausreichend rekonstruiert werden.
+
+Die Modellbildung, einschließlich geeigneter Parameterwerte, ist Gegenstand fortlaufender wissenschaftlicher Arbeit.
+
+Rolle von Klimamodellen bei der Simulation von Verlauf und Folgen der globalen Erwärmung
+
+Um zu prüfen, ob die Parameter, mit denen Klimamodelle durchgerechnet werden, korrekt sind, werden sie getestet, ob sie das gegenwärtige,[5][6] aber auch das Klima während der Eiszeiten[7][8][9] korrekt simulieren können. Im Rahmen solcher Simulationen werden über 1000 Modelle durchgerechnet, wobei Eingangsparameter innerhalb ihrer angenommenen Fehlerbreite variiert werden. Modelle, die den Temperaturverlauf im betrachteten Zeitraum nicht korrekt wiedergeben (>90 %), werden aussortiert.
+
+Obwohl sich seit den 1980er Jahren das Wissen zur Paläoklimatologie drastisch erweitert hat, ist die Datenlage zur Klimageschichte bis heute unvollständig;[10] aufgrund der Geschwindigkeit wie auch der Höhe der künftig erwarteten globalen Erwärmung wird man wahrscheinlich „Neuland“ mit teilweise unvorhergesehenen Folgen betreten.
+
+Die für die Modellierung notwendigen Voraussetzungen sind daher nur teilweise bekannt und müssen in der Regel mehr oder weniger willkürlich festgelegt werden, wobei man ein Set dieser Festlegungen und die hierauf basierende Modellierung als Klimaszenario bezeichnet. Der Unterschied zwischen einer Klimaprognose und einem Klimaszenario ist, dass man für ersteres eine Vielzahl verschiedener Szenarien modelliert, einerseits mit anderen Modellen und andererseits mit anderen Vorwegannahmen. Eine Klimaprognose basiert auf der Auswertung verschiedener Modellierungsversuche und ist auch aufgrund der schwierigen Vergleichbarkeit zwischen diesen nur sehr schwer und mit enormem Aufwand zu erstellen. Da die einzelnen Szenarien unterschiedliche Endresultate aufweisen, kann auch eine darauf basierende Klimaprognose nur eine Spannweite von Möglichkeiten aufzeigen. Im Falle der globalen Erwärmung entspricht diese Spannweite einer möglichen Erwärmung der durchschnittlichen, globalen und bodennahen Lufttemperatur von 1,1 bis 6,4 °C bis zum Jahr 2100 (IPCC 2007). Ähnliche Schwankungsbereiche zeigen sich jedoch bei nahezu allen aus Klimamodellen abgeleiteten Hochrechnungen.
+
+Globale Klimamodelle – GCM (General Circulation Model)
+
+Ein globales Klimamodell beschreibt die wichtigsten klimarelevanten physikalischen Vorgänge in der Erdatmosphäre, den Ozeanen und auf der Erdoberfläche. Die Prozesse sind dabei aber sehr vereinfacht abgebildet. Vor allem die Prozesse in der Biosphäre werden im Augenblick noch als Größen und Parameter vorgegeben. Diese Größen sind aber Systemgrößen und sollten sich während der Simulation dem globalen Wandel anpassen können, um realistische Projektionen auf die Zukunft abgeben zu können. Solche Rückkopplungsprozesse von gekoppelten Systemen sind im Augenblick die große Herausforderung in der Modellierung. Die Modelle sind so umfangreich, dass sie nur in sehr grober Auflösung (mehrere hundert Kilometer Gitterweite) betrieben werden können. Das erste GCM wurde im Jahr 1967 von Syukuro Manabe und Richard Wetherald erstellt.
+
+Beispiele globaler Klimamodelle sind:
+
+HadCM3 (Hadley coupled model, version 3): Dieses Klimamodell wurde, neben einigen anderen, für den dritten (TAR) und vierten (AR4) Sachstandsbericht des IPCC verwendet[14][15]
+
+HadGEM1 (Hadley global environment model 1): Weiterentwicklung des HadCM3 Klimamodells. Es wurde die Repräsentation des Einflusses von Wolken und Seeeis verbessert; ebenso verbessert wurde die Abbildung folgender Parameter: Wasserhaushalt, Atmosphärenchemie und die Effekte von Aerosolen. Die Repräsentation der Einflüsse des El Nino, des Monsuns sowie pazifischer Oberflächentemperaturen haben sich jedoch verschlechtert und sind Gegenstand laufender Forschungsarbeit, wobei bereits Fortschritte zu verzeichnen sind.
+
+Regionale Klimamodelle
+
+Regionale Klimamodelle betrachten lediglich einen Ausschnitt der Atmosphäre und benötigen deshalb geeignete Randbedingungen an den Rändern des Simulationsgebietes. Diese Randbedingungen stammen aus Simulationen der globalen Klimamodelle. Man spricht deshalb davon, dass ein regionales Klimamodell durch ein globales Klimamodell angetrieben wird. Dies wird als „Nesting“ oder „dynamic downscaling“ bezeichnet und beschreibt das Einbetten eines regionalen Modells mit einer hohen räumlichen Auflösung in ein globales Klimamodell mit einer geringen räumlichen Auflösung. Die Abstände der Gitternetzpunkte bei einem globalen Klimamodell sind in der Regel recht groß und liegen zwischen 150 und 500 km. Regionale Modelle hingegen verfügen über eine sehr feine Auflösung. Die Gitternetzpunkte befinden sich hierbei in einem Abstand von zum Teil nur noch 1 km. Durch die Zunahme der Rechenkapazität moderner Supercomputer kann die räumliche Auflösung der Modelle ständig verbessert werden.
+
+Beispiele regionaler Modelle sind:
+
+ALADIN-Climate (Standardmodell Météo-France, ZAMG u. a.)
+
+ARPEGE-Climate modell
+
+COSMO-CLM (kurz CCLM), abgeleitet aus dem lokalen Vorhersagemodell des Deutschen Wetterdiensts; weiterentwickelt durch eine Gemeinschaft aus Forschungsinstituten und Universitäten
+
+MM5 (Mesoscale Meteorology Model 5; NCAR/NOAA USA)
+
+RegCM (ICTP Triest)
+
+REMO (Max-Planck-Institut für Meteorologie Hamburg)
+
+PRECIS
+
+STAR (statistisches Modell des PIK)
+
+Wettreg
+
+WRF (modulares mesoskaliges Modell)

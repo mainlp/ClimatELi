@@ -1,0 +1,1295 @@
+Chapter	NOUN	B	Chapter_(books)
+10	NUM	B	10
+Transport	NOUN	B	Transport
+
+Executive	ADJ	B	Executive_summary
+Summary	NOUN	I	Executive_summary
+
+Meeting	VERB	O
+climate	NOUN	B	Climate_change_mitigation
+mitigation	NOUN	I	Climate_change_mitigation
+goals	NOUN	B	Goal
+would	AUX	O
+require	VERB	O
+transformative	ADJ	O
+changes	NOUN	B	Change
+in	ADP	O
+the	DET	O
+transport	NOUN	B	Transport
+sector	NOUN	B	Public_sector
+.	PUNCT	O
+
+In	ADP	O
+2019	NUM	B	2019
+,	PUNCT	O
+direct	ADJ	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+(	PUNCT	I	Greenhouse_gas_emissions
+GHG	NOUN	I	Greenhouse_gas_emissions
+)	PUNCT	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+from	ADP	O
+the	DET	O
+transport	NOUN	B	Transport
+sector	NOUN	B	Public_sector
+were	AUX	O
+8.7	NUM	O
+GtCO2	NOUN	B	Climate_change
+-	PUNCT	I	Climate_change
+eq	NOUN	I	Climate_change
+(	PUNCT	O
+up	ADV	O
+from	ADP	O
+5.0	NUM	O
+GtCO2	NOUN	B	Climate_change
+-	PUNCT	I	Climate_change
+eq	NOUN	I	Climate_change
+in	ADP	O
+1990	NUM	B	1990
+)	PUNCT	O
+and	CCONJ	O
+accounted	VERB	O
+for	ADP	O
+23	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+global	ADJ	O
+energy	NOUN	B	Energy
+-	PUNCT	O
+related	ADJ	O
+CO2	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+70	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+direct	ADJ	O
+transport	NOUN	B	Transport
+emissions	NOUN	B	Greenhouse_gas_emissions
+came	VERB	O
+from	ADP	O
+road	NOUN	B	Motor_vehicle
+vehicles	NOUN	I	Motor_vehicle
+,	PUNCT	O
+while	SCONJ	O
+1	NUM	O
+%	SYM	B	Percentage
+,	PUNCT	O
+11	NUM	O
+%	SYM	B	Percentage
+,	PUNCT	O
+and	CCONJ	O
+12	NUM	O
+%	SYM	B	Percentage
+came	VERB	O
+from	ADP	O
+rail	NOUN	B	Rail_transport
+,	PUNCT	O
+shipping	NOUN	B	Freight_transport
+,	PUNCT	O
+and	CCONJ	O
+aviation	NOUN	B	Aviation
+,	PUNCT	O
+respectively	ADV	O
+.	PUNCT	O
+
+Emissions	NOUN	B	Greenhouse_gas_emissions
+from	ADP	O
+shipping	NOUN	B	Freight_transport
+and	CCONJ	O
+aviation	NOUN	B	Aviation
+continue	VERB	O
+to	PART	O
+grow	VERB	O
+rapidly	ADV	O
+.	PUNCT	O
+
+Transport	NOUN	B	Transport
+-	PUNCT	O
+related	VERB	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+in	ADP	O
+developing	VERB	B	Developing_country
+regions	NOUN	I	Developing_country
+of	ADP	I	Developing_country
+the	DET	I	Developing_country
+world	NOUN	I	Developing_country
+have	AUX	O
+increased	VERB	O
+more	ADV	O
+rapidly	ADV	O
+than	ADP	O
+in	ADP	O
+Europe	PROPN	B	Europe
+or	CCONJ	O
+North	PROPN	B	North_America
+America	PROPN	I	North_America
+,	PUNCT	O
+a	DET	O
+trend	NOUN	B	Fad
+that	PRON	O
+is	AUX	O
+likely	ADJ	O
+to	PART	O
+continue	VERB	O
+in	ADP	O
+coming	VERB	B	Future
+decades	NOUN	I	Future
+.	PUNCT	O
+
+Since	ADP	O
+the	DET	O
+IPCC	PROPN	B	IPCC_Fifth_Assessment_Report
+'s	PART	I	IPCC_Fifth_Assessment_Report
+Fifth	ADJ	I	IPCC_Fifth_Assessment_Report
+Assessment	PROPN	I	IPCC_Fifth_Assessment_Report
+Report	PROPN	I	IPCC_Fifth_Assessment_Report
+(	PUNCT	I	IPCC_Fifth_Assessment_Report
+AR5	PROPN	I	IPCC_Fifth_Assessment_Report
+)	PUNCT	I	IPCC_Fifth_Assessment_Report
+there	PRON	O
+has	AUX	O
+been	VERB	O
+a	DET	O
+growing	VERB	O
+awareness	NOUN	B	Awareness
+of	ADP	O
+the	DET	O
+need	NOUN	B	Need
+for	ADP	O
+demand	NOUN	B	Demand_management
+management	NOUN	I	Demand_management
+solutions	NOUN	B	Problem_solving
+combined	VERB	O
+with	ADP	O
+new	ADJ	O
+technologies	NOUN	B	Technology
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+the	DET	O
+rapidly	ADV	O
+growing	VERB	O
+use	NOUN	O
+of	ADP	O
+electromobility	NOUN	B	Electric_vehicle
+for	ADP	O
+land	NOUN	B	Land_transport
+transport	NOUN	I	Land_transport
+and	CCONJ	O
+the	DET	O
+emerging	VERB	B	Emergence
+options	NOUN	B	Choice
+in	ADP	O
+advanced	ADJ	B	Second-generation_biofuels
+biofuels	NOUN	I	Second-generation_biofuels
+and	CCONJ	O
+hydrogenbased	ADJ	B	Hydroelectricity
+fuels	NOUN	I	Hydroelectricity
+for	ADP	O
+shipping	NOUN	B	Freight_transport
+and	CCONJ	O
+aviation	NOUN	B	Aviation
+.	PUNCT	O
+
+There	PRON	O
+is	VERB	O
+a	DET	O
+growing	VERB	O
+need	NOUN	B	Need
+for	ADP	O
+systemic	ADJ	O
+infrastructure	NOUN	B	Infrastructure
+changes	NOUN	B	Technological_change
+that	PRON	O
+enable	VERB	O
+behavioural	ADJ	B	Behavior
+modifications	NOUN	O
+and	CCONJ	O
+reductions	NOUN	O
+in	ADP	O
+demand	NOUN	B	Supply_and_demand
+for	ADP	O
+transport	NOUN	B	Transport
+services	NOUN	B	Public_service
+that	PRON	O
+can	AUX	O
+in	ADP	O
+turn	NOUN	O
+reduce	VERB	O
+energy	NOUN	B	Energy
+demand	NOUN	B	Supply_and_demand
+.	PUNCT	O
+
+The	DET	O
+response	NOUN	O
+to	ADP	O
+the	DET	O
+COVID	PROPN	B	COVID-19_pandemic
+-	PUNCT	I	COVID-19_pandemic
+19	NUM	I	COVID-19_pandemic
+pandemic	NOUN	I	COVID-19_pandemic
+has	AUX	O
+also	ADV	O
+shown	VERB	O
+that	SCONJ	O
+behavioural	ADJ	B	Behavior
+interventions	NOUN	O
+can	AUX	O
+reduce	VERB	O
+transport	NOUN	B	Transport
+-	PUNCT	O
+related	ADJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+For	ADP	O
+example	NOUN	O
+,	PUNCT	O
+COVID	PROPN	B	COVID-19_lockdowns
+-	PUNCT	I	COVID-19_lockdowns
+19	NUM	I	COVID-19_lockdowns
+-	PUNCT	I	COVID-19_lockdowns
+based	VERB	I	COVID-19_lockdowns
+lockdowns	NOUN	I	COVID-19_lockdowns
+have	AUX	O
+confirmed	VERB	B	Confirmation
+the	DET	O
+transformative	ADJ	B	Transformative_social_change
+value	NOUN	B	Value
+of	SCONJ	O
+telecommuting	VERB	B	Remote_work
+replacing	VERB	O
+significant	ADJ	O
+numbers	NOUN	B	Number
+of	ADP	O
+work	NOUN	B	Employment
+and	CCONJ	O
+personal	ADJ	O
+journeys	NOUN	B	Travel
+as	ADV	O
+well	ADV	O
+as	SCONJ	O
+promoting	VERB	O
+local	ADJ	O
+active	ADJ	O
+transport	NOUN	B	Transport
+.	PUNCT	O
+
+There	PRON	O
+are	VERB	O
+growing	VERB	O
+opportunities	NOUN	O
+to	PART	O
+implement	VERB	O
+strategies	NOUN	B	Strategy
+that	PRON	O
+drive	VERB	O
+behavioural	ADJ	B	Behavior_change_(public_health)
+change	NOUN	I	Behavior_change_(public_health)
+and	CCONJ	O
+support	VERB	O
+the	DET	O
+adoption	NOUN	B	Adoption
+of	ADP	O
+new	ADJ	O
+transport	NOUN	B	Transport
+technology	NOUN	B	Technology
+options	NOUN	B	Choice
+.	PUNCT	O
+
+Changes	NOUN	B	Social_change
+in	ADP	O
+urban	ADJ	B	Urban_culture
+form	NOUN	O
+,	PUNCT	O
+behaviour	NOUN	B	Behavior
+programmes	NOUN	O
+,	PUNCT	O
+the	DET	O
+circular	ADJ	B	Circular_economy
+economy	NOUN	I	Circular_economy
+,	PUNCT	O
+the	DET	O
+shared	VERB	B	Sharing_economy
+economy	NOUN	I	Sharing_economy
+,	PUNCT	O
+and	CCONJ	O
+digitalisation	NOUN	B	Digital_transformation
+trends	NOUN	B	Fad
+can	AUX	O
+support	VERB	O
+systemic	ADJ	O
+changes	NOUN	B	Social_change
+that	PRON	O
+lead	VERB	B	Lead
+to	ADP	O
+reductions	NOUN	O
+in	ADP	O
+demand	NOUN	B	Supply_and_demand
+for	ADP	O
+transport	NOUN	B	Transport
+services	NOUN	B	Public_service
+or	CCONJ	O
+expand	VERB	O
+the	DET	O
+use	NOUN	O
+of	ADP	O
+more	ADV	O
+efficient	ADJ	O
+transport	NOUN	B	Mode_of_transport
+modes	NOUN	I	Mode_of_transport
+.	PUNCT	O
+
+Cities	NOUN	B	City
+can	AUX	O
+reduce	VERB	O
+their	PRON	O
+transport	NOUN	B	Transport
+-	PUNCT	O
+related	ADJ	O
+fuel	NOUN	B	Fuel_efficiency
+consumption	NOUN	I	Fuel_efficiency
+by	ADP	O
+around	ADV	O
+25	NUM	O
+%	SYM	B	Percentage
+through	ADP	O
+combinations	NOUN	B	Combination
+of	ADP	O
+more	ADJ	O
+compact	ADJ	O
+land	NOUN	B	Land_use
+use	NOUN	I	Land_use
+and	CCONJ	O
+the	DET	O
+provision	NOUN	O
+of	ADP	O
+less	ADJ	O
+car	NOUN	B	Car_dependency
+-	PUNCT	I	Car_dependency
+dependent	ADJ	I	Car_dependency
+transport	NOUN	B	Transport
+infrastructure	NOUN	B	Infrastructure
+.	PUNCT	O
+
+Appropriate	ADJ	O
+infrastructure	NOUN	B	Infrastructure
+,	PUNCT	O
+including	VERB	O
+protected	VERB	B	Protection
+pedestrian	NOUN	B	Pedestrian_zone
+and	CCONJ	O
+bike	NOUN	B	Bike_lane
+pathways	NOUN	I	Bike_lane
+,	PUNCT	O
+can	AUX	O
+also	ADV	O
+support	VERB	O
+much	ADV	O
+greater	ADJ	O
+localised	ADJ	O
+active	ADJ	B	Active_mobility
+travel	NOUN	I	Active_mobility
+.	PUNCT	O
+
+Transport	NOUN	B	Transportation_demand_management
+demand	NOUN	I	Transportation_demand_management
+management	NOUN	I	Transportation_demand_management
+incentives	NOUN	B	Incentive
+are	AUX	O
+expected	VERB	B	Expectation_(epistemic)
+to	PART	O
+be	AUX	O
+necessary	ADJ	B	Need
+to	PART	O
+support	VERB	O
+these	DET	O
+systemic	ADJ	B	Infrastructure
+changes	NOUN	B	Social_change
+.	PUNCT	O
+
+There	PRON	O
+is	VERB	O
+mixed	VERB	O
+evidence	NOUN	B	Evidence
+of	ADP	O
+the	DET	O
+effect	NOUN	O
+of	ADP	O
+circular	ADJ	B	Circular_economy
+economy	NOUN	I	Circular_economy
+initiatives	NOUN	B	Initiative
+,	PUNCT	O
+shared	VERB	B	Sharing_economy
+economy	NOUN	I	Sharing_economy
+initiatives	NOUN	B	Initiative
+,	PUNCT	O
+and	CCONJ	O
+digitalisation	NOUN	B	Digital_transformation
+on	ADP	O
+demand	NOUN	B	Supply_and_demand
+for	ADP	O
+transport	NOUN	B	Transport
+services	NOUN	B	Public_service
+.	PUNCT	O
+
+For	ADP	O
+example	NOUN	O
+,	PUNCT	O
+while	SCONJ	O
+dematerialisation	NOUN	B	Dematerialization_(economics)
+can	AUX	O
+reduce	VERB	O
+the	DET	O
+amount	NOUN	B	Quantity
+of	ADP	O
+material	NOUN	B	Material
+that	PRON	O
+needs	VERB	B	Need
+to	PART	O
+be	AUX	O
+transported	VERB	B	Transport
+to	ADP	O
+manufacturing	NOUN	B	Manufacturing
+facilities	NOUN	B	Building
+,	PUNCT	O
+an	DET	O
+increase	NOUN	O
+in	ADP	O
+online	ADJ	B	Online_shopping
+shopping	NOUN	I	Online_shopping
+with	ADP	O
+priority	NOUN	O
+delivery	NOUN	B	Mail
+can	AUX	O
+increase	VERB	O
+demand	NOUN	B	Supply_and_demand
+for	ADP	O
+freight	NOUN	B	Freight_transport
+transport	NOUN	I	Freight_transport
+.	PUNCT	O
+
+Similarly	ADV	O
+,	PUNCT	O
+while	SCONJ	O
+teleworking	NOUN	B	Remote_work
+could	AUX	O
+reduce	VERB	O
+travel	NOUN	B	Tourism
+demand	NOUN	B	Supply_and_demand
+,	PUNCT	O
+increased	VERB	O
+ridesharing	NOUN	B	Carpool
+could	AUX	O
+increase	VERB	O
+vehicle	NOUN	B	Vehicle
+-	PUNCT	O
+km	NOUN	B	Kilometre
+travelled	VERB	B	Travel
+.	PUNCT	O
+
+Battery	NOUN	B	Battery_electric_vehicle
+electric	ADJ	I	Battery_electric_vehicle
+vehicles	NOUN	I	Battery_electric_vehicle
+(	PUNCT	I	Battery_electric_vehicle
+BEVs	PROPN	I	Battery_electric_vehicle
+)	PUNCT	I	Battery_electric_vehicle
+have	VERB	O
+lower	ADJ	O
+lifecycle	NOUN	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+than	ADP	O
+internal	ADJ	B	Internal_combustion_engine
+combustion	NOUN	I	Internal_combustion_engine
+engine	NOUN	I	Internal_combustion_engine
+vehicles	NOUN	B	Vehicle
+(	PUNCT	O
+ICEVs	NOUN	O
+)	PUNCT	O
+when	ADV	O
+BEVs	NOUN	B	Battery_electric_vehicle
+are	AUX	O
+charged	VERB	B	Battery_charger
+with	ADP	O
+low	ADJ	B	Low-carbon_electricity
+-	PUNCT	I	Low-carbon_electricity
+carbon	NOUN	I	Low-carbon_electricity
+electricity	NOUN	I	Low-carbon_electricity
+.	PUNCT	O
+
+Electromobility	NOUN	B	Electric_vehicle
+is	AUX	O
+being	AUX	O
+rapidly	ADV	O
+implemented	VERB	B	Implementation
+in	ADP	O
+micromobility	NOUN	B	Micromobility
+(	PUNCT	O
+e	NOUN	B	Electric_rickshaw
+-	PUNCT	I	Electric_rickshaw
+autorickshaws	NOUN	I	Electric_rickshaw
+,	PUNCT	O
+e	NOUN	B	Electric_motorcycles_and_scooters
+-	PUNCT	I	Electric_motorcycles_and_scooters
+scooters	NOUN	I	Electric_motorcycles_and_scooters
+,	PUNCT	O
+e	NOUN	B	Electric_bicycle
+-	PUNCT	I	Electric_bicycle
+bikes	NOUN	I	Electric_bicycle
+)	PUNCT	O
+,	PUNCT	O
+in	ADP	O
+transit	NOUN	B	Public_transport
+systems	NOUN	I	Public_transport
+,	PUNCT	O
+especially	ADV	O
+buses	NOUN	B	Bus
+,	PUNCT	O
+and	CCONJ	O
+,	PUNCT	O
+to	ADP	O
+a	DET	O
+lesser	ADJ	O
+degree	NOUN	O
+,	PUNCT	O
+in	ADP	O
+the	DET	O
+electrification	NOUN	B	Electrification
+of	ADP	O
+personal	ADJ	O
+vehicles	NOUN	B	Vehicle
+.	PUNCT	O
+
+BEVs	PROPN	B	Battery_electric_vehicle
+could	AUX	O
+also	ADV	O
+have	VERB	O
+the	DET	O
+added	VERB	O
+benefit	NOUN	O
+of	SCONJ	O
+supporting	VERB	O
+grid	NOUN	B	Electrical_grid
+operations	NOUN	I	Electrical_grid
+.	PUNCT	O
+
+The	DET	O
+commercial	ADJ	B	Trade
+availability	NOUN	O
+of	ADP	O
+mature	ADJ	B	Mature_technology
+lithium	NOUN	B	Lithium-ion_battery
+-	PUNCT	I	Lithium-ion_battery
+ion	NOUN	I	Lithium-ion_battery
+batteries	NOUN	I	Lithium-ion_battery
+(	PUNCT	I	Lithium-ion_battery
+LIBs	NOUN	I	Lithium-ion_battery
+)	PUNCT	I	Lithium-ion_battery
+has	AUX	O
+underpinned	VERB	B	Underpinning
+this	DET	O
+growth	NOUN	B	Economic_growth
+in	ADP	O
+electromobility	NOUN	B	Electric_vehicle
+.	PUNCT	O
+
+As	SCONJ	O
+global	ADJ	O
+battery	NOUN	B	Electric_battery
+production	NOUN	B	Manufacturing
+increases	VERB	O
+,	PUNCT	O
+unit	NOUN	B	Unit_cost
+costs	NOUN	I	Unit_cost
+are	AUX	O
+declining	VERB	O
+.	PUNCT	O
+
+Further	ADJ	O
+efforts	NOUN	B	Manual_labour
+to	PART	O
+reduce	VERB	O
+the	DET	O
+GHG	NOUN	B	Carbon_footprint
+footprint	NOUN	I	Carbon_footprint
+of	ADP	O
+battery	NOUN	B	Electric_battery
+production	NOUN	B	Manufacturing
+,	PUNCT	O
+however	ADV	O
+,	PUNCT	O
+are	AUX	O
+essential	ADJ	B	Importance
+for	SCONJ	O
+maximising	VERB	O
+the	DET	O
+mitigation	NOUN	B	Climate_change_mitigation
+potential	NOUN	B	Potential
+of	ADP	O
+BEVs	NOUN	B	Battery_electric_vehicle
+.	PUNCT	O
+
+The	DET	O
+continued	VERB	O
+growth	NOUN	B	Economic_growth
+of	ADP	O
+electromobility	NOUN	B	Electric_vehicle
+for	ADP	O
+land	NOUN	B	Land_transport
+transport	NOUN	I	Land_transport
+would	AUX	O
+require	VERB	O
+investments	NOUN	B	Investment
+in	ADP	O
+electric	ADJ	B	Charging_station
+charging	NOUN	I	Charging_station
+and	CCONJ	O
+related	ADJ	O
+grid	NOUN	B	Electrical_grid
+infrastructure	NOUN	I	Electrical_grid
+.	PUNCT	O
+
+Electromobility	NOUN	B	Electric_vehicle
+powered	VERB	B	Electric_power
+by	ADP	O
+low	ADJ	B	Low-carbon_electricity
+-	PUNCT	I	Low-carbon_electricity
+carbon	NOUN	I	Low-carbon_electricity
+electricity	NOUN	I	Low-carbon_electricity
+has	VERB	O
+the	DET	O
+potential	NOUN	B	Potential
+to	PART	O
+rapidly	ADV	O
+reduce	VERB	O
+transport	NOUN	B	Environmental_effects_of_transport
+GHG	NOUN	I	Environmental_effects_of_transport
+and	CCONJ	O
+can	AUX	O
+be	AUX	O
+applied	VERB	B	Apply
+with	ADP	O
+multiple	ADJ	O
+co-benefits	NOUN	B	Co-benefits_of_climate_change_mitigation
+in	ADP	O
+the	DET	O
+developing	VERB	B	Developing_country
+world	NOUN	I	Developing_country
+'s	PART	O
+growing	VERB	B	Economic_growth
+cities	NOUN	B	City
+.	PUNCT	O
+
+Land	NOUN	B	Land
+-	PUNCT	O
+based	VERB	O
+,	PUNCT	O
+long	ADJ	O
+-	PUNCT	O
+range	NOUN	O
+,	PUNCT	O
+heavy	ADJ	B	Truck_classification
+-	PUNCT	I	Truck_classification
+duty	NOUN	I	Truck_classification
+trucks	NOUN	B	Truck
+can	AUX	O
+be	AUX	O
+decarbonised	VERB	O
+through	ADP	O
+battery	NOUN	B	Battery_electric_vehicle
+electric	ADJ	I	Battery_electric_vehicle
+haulage	NOUN	B	Haulage
+(	PUNCT	O
+including	VERB	O
+the	DET	O
+use	NOUN	O
+of	ADP	O
+electric	ADJ	B	Electric_road
+road	NOUN	I	Electric_road
+systems	NOUN	B	Systems_engineering
+)	PUNCT	O
+,	PUNCT	O
+complemented	VERB	O
+by	ADP	O
+hydrogen	NOUN	B	Hydrogen
+-	PUNCT	O
+and	CCONJ	O
+biofuel	NOUN	B	Biofuel
+based	VERB	O
+fuels	NOUN	B	Fuel
+in	ADP	O
+some	DET	O
+contexts	NOUN	B	Context_(language_use)
+.	PUNCT	O
+
+These	DET	O
+same	ADJ	B	Identity_(philosophy)
+technologies	NOUN	B	Technology
+and	CCONJ	O
+expanded	VERB	O
+use	NOUN	O
+of	ADP	O
+available	ADJ	B	Availability
+electric	ADJ	B	Railway_electrification
+rail	NOUN	I	Railway_electrification
+systems	NOUN	B	Systems_engineering
+can	AUX	O
+support	VERB	O
+rail	NOUN	B	Rail_transport
+decarbonisation	NOUN	B	Climate_change_mitigation
+.	PUNCT	O
+
+Initial	ADJ	O
+deployments	NOUN	B	System_deployment
+of	ADP	O
+battery	NOUN	B	Battery_electric_vehicle
+electric	NOUN	I	Battery_electric_vehicle
+,	PUNCT	O
+hydrogen	NOUN	B	Hydrogen
+-	PUNCT	O
+and	CCONJ	O
+bio	NOUN	B	Biofuel
+-	PUNCT	O
+based	VERB	O
+haulage	NOUN	B	Haulage
+are	AUX	O
+underway	ADJ	O
+,	PUNCT	O
+and	CCONJ	O
+commercial	ADJ	B	Commercial_vehicle_operation
+operations	NOUN	I	Commercial_vehicle_operation
+of	ADP	O
+some	DET	O
+of	ADP	O
+these	DET	B	These
+technologies	NOUN	B	Technology
+are	AUX	O
+considered	VERB	B	Point_of_view_(philosophy)
+feasible	ADJ	B	Logical_possibility
+by	ADP	O
+2030	NUM	B	2030s
+.	PUNCT	O
+
+These	DET	B	These
+technologies	NOUN	B	Technology
+nevertheless	ADV	O
+face	VERB	O
+challenges	NOUN	O
+regarding	VERB	O
+driving	NOUN	B	Driving
+range	NOUN	O
+,	PUNCT	O
+capital	NOUN	B	Capital_(economics)
+and	CCONJ	O
+operating	NOUN	B	Operating_cost
+costs	NOUN	I	Operating_cost
+,	PUNCT	O
+and	CCONJ	O
+infrastructure	NOUN	B	Infrastructure
+availability	NOUN	B	Availability
+.	PUNCT	O
+
+In	ADP	O
+particular	ADJ	B	Particular
+,	PUNCT	O
+fuel	NOUN	B	Fuel_cell
+cell	NOUN	I	Fuel_cell
+durability	NOUN	B	Durability
+,	PUNCT	O
+high	ADJ	O
+energy	NOUN	B	Energy_consumption
+consumption	NOUN	I	Energy_consumption
+,	PUNCT	O
+and	CCONJ	O
+costs	NOUN	B	Cost
+continue	VERB	O
+to	PART	O
+challenge	VERB	O
+the	DET	O
+commercialisation	NOUN	B	Commercialization
+of	ADP	O
+hydrogen	NOUN	B	Hydrogen_vehicle
+-	PUNCT	O
+based	VERB	O
+fuel	NOUN	B	Fuel_cell_vehicle
+cell	NOUN	I	Fuel_cell_vehicle
+vehicles	NOUN	I	Fuel_cell_vehicle
+.	PUNCT	O
+
+Increased	VERB	O
+capacity	NOUN	O
+for	ADP	O
+low	ADJ	B	Low-carbon_electricity
+-	PUNCT	I	Low-carbon_electricity
+carbon	NOUN	I	Low-carbon_electricity
+hydrogen	NOUN	B	Hydrogen_production
+production	NOUN	I	Hydrogen_production
+would	AUX	O
+also	ADV	O
+be	AUX	O
+essential	ADJ	O
+for	ADP	O
+hydrogen	NOUN	B	Hydrogen
+-	PUNCT	O
+based	VERB	O
+fuels	NOUN	B	Fuel
+to	PART	O
+serve	VERB	B	Public_service
+as	ADP	O
+an	DET	O
+emissions	NOUN	B	Climate_change_mitigation
+reduction	NOUN	I	Climate_change_mitigation
+strategy	NOUN	B	Strategy
+.	PUNCT	O
+
+Decarbonisation	NOUN	B	Climate_change_mitigation
+options	NOUN	B	Choice
+for	ADP	O
+shipping	NOUN	B	Freight_transport
+and	CCONJ	O
+aviation	NOUN	B	Aviation
+still	ADV	O
+require	VERB	O
+R&D	NOUN	B	Research_and_development
+,	PUNCT	O
+though	SCONJ	O
+advanced	ADJ	O
+biofuels	NOUN	B	Biofuel
+,	PUNCT	O
+ammonia	NOUN	B	Ammonia
+,	PUNCT	O
+and	CCONJ	O
+synthetic	ADJ	B	Synthetic_fuel
+fuels	NOUN	I	Synthetic_fuel
+are	AUX	O
+emerging	VERB	B	Emergence
+as	ADP	O
+viable	ADJ	B	Logical_possibility
+options	NOUN	B	Choice
+.	PUNCT	O
+
+Increased	VERB	O
+efficiency	NOUN	B	Efficiency
+has	AUX	O
+been	AUX	O
+insufficient	ADJ	B	Necessity_and_sufficiency
+to	PART	O
+limit	VERB	B	Climate_change_mitigation
+the	DET	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+from	ADP	O
+shipping	NOUN	B	Freight_transport
+and	CCONJ	O
+aviation	NOUN	B	Aviation
+,	PUNCT	O
+and	CCONJ	O
+natural	ADJ	B	Fuel_gas
+gas	NOUN	I	Fuel_gas
+-	PUNCT	O
+based	VERB	O
+fuels	NOUN	B	Fuel
+are	AUX	O
+likely	ADV	O
+inadequate	ADJ	O
+to	PART	O
+meet	VERB	O
+stringent	ADJ	O
+decarbonisation	NOUN	B	Climate_change_mitigation
+goals	NOUN	B	Goal
+for	ADP	O
+these	DET	O
+segments	NOUN	B	Market_segmentation
+.	PUNCT	O
+
+High	ADJ	O
+energy	NOUN	B	Energy_density
+density	NOUN	I	Energy_density
+,	PUNCT	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+fuels	NOUN	B	Fuel
+are	AUX	O
+required	VERB	O
+,	PUNCT	O
+but	CCONJ	O
+they	PRON	O
+have	AUX	O
+not	PART	O
+yet	ADV	O
+reached	VERB	O
+commercial	ADJ	B	Mass_production
+scale	NOUN	I	Mass_production
+.	PUNCT	O
+
+Advanced	ADJ	B	Second-generation_biofuels
+biofuels	NOUN	I	Second-generation_biofuels
+could	AUX	O
+provide	VERB	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+jet	NOUN	B	Jet_fuel
+fuel	NOUN	I	Jet_fuel
+.	PUNCT	O
+
+The	DET	O
+production	NOUN	B	Manufacturing
+of	ADP	O
+synthetic	ADJ	B	Synthetic_fuel
+fuels	NOUN	I	Synthetic_fuel
+using	VERB	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+hydrogen	NOUN	B	Hydrogen
+with	ADP	O
+CO2	NOUN	B	Carbon_dioxide
+captured	VERB	O
+through	ADP	O
+direct	ADJ	B	Direct_air_capture
+air	NOUN	I	Direct_air_capture
+capture	NOUN	I	Direct_air_capture
+(	PUNCT	I	Direct_air_capture
+DAC	NOUN	I	Direct_air_capture
+)	PUNCT	I	Direct_air_capture
+or	CCONJ	O
+bioenergy	NOUN	B	Bioenergy_with_carbon_capture_and_storage
+with	ADP	I	Bioenergy_with_carbon_capture_and_storage
+carbon	NOUN	I	Bioenergy_with_carbon_capture_and_storage
+capture	NOUN	I	Bioenergy_with_carbon_capture_and_storage
+and	CCONJ	I	Bioenergy_with_carbon_capture_and_storage
+storage	NOUN	I	Bioenergy_with_carbon_capture_and_storage
+(	PUNCT	I	Bioenergy_with_carbon_capture_and_storage
+BECCS	PROPN	I	Bioenergy_with_carbon_capture_and_storage
+)	PUNCT	I	Bioenergy_with_carbon_capture_and_storage
+could	AUX	O
+provide	VERB	O
+jet	NOUN	B	Jet_fuel
+and	CCONJ	O
+marine	ADJ	B	Ocean
+fuels	NOUN	B	Fuel_oil
+but	CCONJ	O
+these	DET	O
+options	NOUN	B	Choice
+still	ADV	O
+require	VERB	O
+demonstration	NOUN	B	Technology_demonstration
+at	ADP	O
+scale	NOUN	O
+.	PUNCT	O
+
+Ammonia	NOUN	B	Ammonia
+produced	VERB	B	Manufacturing
+with	ADP	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+hydrogen	NOUN	B	Hydrogen
+could	AUX	O
+also	ADV	O
+serve	VERB	B	Public_service
+as	ADP	O
+a	DET	O
+marine	ADJ	B	Ocean
+fuel	NOUN	B	Fuel_oil
+.	PUNCT	O
+
+Deployment	NOUN	O
+of	ADP	O
+these	DET	O
+fuels	NOUN	B	Fuel
+requires	VERB	B	Need
+reductions	NOUN	O
+in	ADP	O
+production	NOUN	B	Cost_of_goods_sold
+costs	NOUN	I	Cost_of_goods_sold
+.	PUNCT	O
+
+Scenarios	NOUN	B	Scenario
+from	ADP	O
+bottom	NOUN	B	Top-down_and_bottom-up_design
+-	PUNCT	I	Top-down_and_bottom-up_design
+up	NOUN	I	Top-down_and_bottom-up_design
+and	CCONJ	I	Top-down_and_bottom-up_design
+top	ADJ	I	Top-down_and_bottom-up_design
+-	PUNCT	I	Top-down_and_bottom-up_design
+down	ADJ	I	Top-down_and_bottom-up_design
+models	NOUN	I	Top-down_and_bottom-up_design
+indicate	VERB	O
+that	SCONJ	O
+without	ADP	O
+intervention	NOUN	B	Climate_change_mitigation
+,	PUNCT	O
+CO2	NOUN	B	Carbon_dioxide
+emissions	NOUN	B	Greenhouse_gas_emissions
+from	ADP	O
+transport	NOUN	B	Transport
+could	AUX	O
+grow	VERB	O
+in	ADP	O
+the	DET	O
+range	NOUN	O
+of	ADP	O
+16	NUM	O
+%	SYM	B	Percentage
+and	CCONJ	O
+50	NUM	O
+%	SYM	B	Percentage
+by	ADP	O
+2050	NUM	O
+.	PUNCT	O
+
+The	DET	O
+scenarios	NOUN	B	Climate_change_scenario
+literature	NOUN	B	Literature
+projects	VERB	B	Project
+continued	VERB	O
+growth	NOUN	O
+in	ADP	O
+demand	NOUN	B	Demand
+for	ADP	O
+freight	NOUN	B	Cargo
+and	CCONJ	O
+passenger	NOUN	B	Passenger
+services	NOUN	B	Public_service
+,	PUNCT	O
+particularly	ADV	O
+in	ADP	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+in	ADP	O
+Africa	PROPN	B	Africa
+and	CCONJ	O
+Asia	PROPN	B	Asia
+.	PUNCT	O
+
+This	DET	O
+growth	NOUN	O
+is	AUX	O
+projected	VERB	O
+to	PART	O
+take	VERB	O
+place	NOUN	O
+across	ADP	O
+all	DET	O
+transport	NOUN	B	Mode_of_transport
+modes	NOUN	I	Mode_of_transport
+.	PUNCT	O
+
+Increases	NOUN	O
+in	ADP	O
+demand	NOUN	B	Demand
+notwithstanding	ADV	O
+,	PUNCT	O
+scenarios	NOUN	B	Scenario
+that	PRON	O
+limit	VERB	B	Climate_change_mitigation
+warming	NOUN	B	Climate_change
+to	ADP	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+with	ADP	O
+no	DET	O
+or	CCONJ	O
+limited	VERB	O
+overshoot	NOUN	B	Ecological_overshoot
+suggest	VERB	O
+that	SCONJ	O
+a	DET	O
+59	NUM	O
+%	SYM	B	Percentage
+reduction	NOUN	B	Climate_change_mitigation
+(	PUNCT	O
+42	NUM	O
+–	PUNCT	O
+68	NUM	O
+%	SYM	B	Percentage
+interquartile	ADJ	B	Interquartile_range
+range	NOUN	I	Interquartile_range
+)	PUNCT	O
+in	ADP	O
+transport	NOUN	B	Transport
+-	PUNCT	O
+related	ADJ	O
+CO2	NOUN	B	Carbon_dioxide
+emissions	NOUN	B	Greenhouse_gas_emissions
+by	ADP	O
+2050	NUM	O
+,	PUNCT	O
+compared	VERB	B	Comparison
+to	ADP	O
+modelled	VERB	B	Mathematical_model
+2020	NUM	B	2020
+levels	NOUN	B	Quantity
+is	AUX	O
+required	VERB	B	Requirement
+.	PUNCT	O
+
+While	SCONJ	B	While
+many	ADJ	O
+global	ADJ	O
+scenarios	NOUN	B	Scenario
+place	VERB	O
+greater	ADJ	O
+reliance	NOUN	B	Climate_resilience
+on	ADP	O
+emissions	NOUN	B	Climate_change_mitigation
+reduction	NOUN	I	Climate_change_mitigation
+in	ADP	O
+sectors	NOUN	B	Public_sector
+other	ADJ	O
+than	ADP	O
+transport	NOUN	B	Transport
+,	PUNCT	O
+a	DET	O
+quarter	NOUN	O
+of	ADP	O
+the	DET	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+degree	NOUN	B	Degree_(temperature)
+scenarios	NOUN	B	Scenario
+describe	VERB	B	Description
+transport	NOUN	B	Transport
+-	PUNCT	O
+related	ADJ	O
+CO2	NOUN	B	Carbon_dioxide
+emissions	NOUN	B	Greenhouse_gas_emissions
+reductions	NOUN	B	Climate_change_mitigation
+in	ADP	O
+excess	NOUN	O
+of	ADP	O
+68	NUM	O
+%	SYM	B	Percentage
+(	PUNCT	O
+relative	ADJ	O
+to	ADP	O
+modelled	VERB	B	Mathematical_model
+2020	NUM	B	2020
+levels	NOUN	B	Quantity
+)	PUNCT	O
+.	PUNCT	O
+
+Illustrative	ADJ	B	Illustration
+mitigation	NOUN	B	Climate_change_mitigation
+pathways	NOUN	B	Climate_change_scenario
+1.5	NUM	O
+renewables	NOUN	B	Renewable_energy
+(	PUNCT	I	Renewable_energy
+REN	PROPN	I	Renewable_energy
+)	PUNCT	I	Renewable_energy
+and	CCONJ	O
+1.5	NUM	O
+low	ADJ	O
+demand	NOUN	B	Demand
+(	PUNCT	O
+LD	PROPN	O
+)	PUNCT	O
+describe	VERB	B	Description
+emission	NOUN	B	Greenhouse_gas_emissions
+reductions	NOUN	B	Climate_change_mitigation
+of	ADP	O
+80	NUM	O
+%	SYM	B	Percentage
+and	CCONJ	O
+90	NUM	O
+%	SYM	B	Percentage
+in	ADP	O
+the	DET	O
+transport	NOUN	B	Transport
+sector	NOUN	B	Public_sector
+,	PUNCT	O
+respectively	ADV	O
+,	PUNCT	O
+by	ADP	O
+2050	NUM	O
+.	PUNCT	O
+
+Transport	NOUN	B	Transport
+-	PUNCT	O
+related	ADJ	O
+emission	NOUN	B	Greenhouse_gas_emissions
+reductions	NOUN	B	Climate_change_mitigation
+,	PUNCT	O
+however	ADV	O
+,	PUNCT	O
+may	AUX	O
+not	PART	O
+happen	VERB	O
+uniformly	ADV	O
+across	ADP	O
+regions	NOUN	B	Region
+.	PUNCT	O
+
+For	ADP	O
+example	NOUN	O
+,	PUNCT	O
+transport	NOUN	B	Transport
+emissions	NOUN	B	Greenhouse_gas_emissions
+from	ADP	O
+the	DET	O
+Developed	ADJ	B	Developed_country
+Countries	PROPN	I	Developed_country
+and	CCONJ	O
+Eastern	ADJ	B	Eastern_Europe
+European	ADJ	I	Eastern_Europe
+and	CCONJ	O
+West	ADJ	B	West_Asia
+Central	ADJ	B	Central_Asia
+Asian	ADJ	I	Central_Asia
+countries	NOUN	B	Sovereign_state
+decrease	VERB	O
+from	ADP	O
+2020	NUM	B	2020
+levels	NOUN	B	Quantity
+by	ADP	O
+2050	NUM	O
+across	ADP	O
+all	DET	O
+scenarios	NOUN	B	Scenario
+compatible	ADJ	B	Consistency
+with	ADP	O
+a	DET	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+goal	NOUN	B	Goal
+(	PUNCT	O
+C1	PROPN	O
+–	PUNCT	O
+C2	PROPN	O
+group	NOUN	O
+)	PUNCT	O
+,	PUNCT	O
+but	CCONJ	O
+could	AUX	O
+increase	VERB	O
+in	ADP	O
+Africa	PROPN	B	Africa
+,	PUNCT	O
+Asia	PROPN	B	Asia
+and	CCONJ	O
+Pacific	PROPN	B	Pacific_Ocean
+,	PUNCT	O
+Latin	PROPN	B	Latin_America
+America	PROPN	I	Latin_America
+and	CCONJ	O
+Caribbean	PROPN	B	Caribbean
+,	PUNCT	O
+and	CCONJ	O
+the	DET	B	Middle_East
+Middle	ADJ	I	Middle_East
+East	PROPN	I	Middle_East
+in	ADP	O
+some	DET	O
+of	ADP	O
+these	DET	O
+scenarios	NOUN	B	Scenario
+.	PUNCT	O
+

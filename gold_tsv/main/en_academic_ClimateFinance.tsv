@@ -1,0 +1,1298 @@
+A	DET	O
+Relationship	NOUN	O
+between	ADP	O
+Climate	PROPN	B	Climate_finance
+Finance	NOUN	I	Climate_finance
+and	CCONJ	O
+Climate	NOUN	B	Climate_risk
+Risk	NOUN	I	Climate_risk
+:	PUNCT	O
+Evidence	NOUN	B	Evidence
+from	ADP	O
+the	DET	O
+South	PROPN	B	South_Asia
+Asian	ADJ	I	South_Asia
+Region	PROPN	I	South_Asia
+
+Abstract	NOUN	O
+
+South	PROPN	B	South_Asia
+Asia	PROPN	I	South_Asia
+is	AUX	O
+the	DET	O
+most	ADV	O
+vulnerable	ADJ	B	Climate_change_vulnerability
+region	NOUN	B	Region
+in	ADP	O
+the	DET	O
+context	NOUN	B	Context_(language_use)
+of	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+,	PUNCT	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+,	PUNCT	O
+and	CCONJ	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+is	AUX	O
+the	DET	O
+most	ADV	O
+useful	ADJ	O
+tool	NOUN	B	Tool
+for	SCONJ	O
+combating	VERB	O
+climate	NOUN	B	Climate_change
+challenges	NOUN	O
+worldwide	ADV	O
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+explores	VERB	O
+the	DET	O
+present	ADJ	O
+picture	NOUN	B	Image
+of	ADP	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+in	ADP	O
+South	PROPN	B	South_Asia
+Asian	ADJ	I	South_Asia
+(	PUNCT	I	South_Asia
+SA	PROPN	I	South_Asia
+)	PUNCT	I	South_Asia
+countries	NOUN	B	Sovereign_state
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+uses	VERB	O
+multilateral	ADJ	B	International_financial_institutions
+development	NOUN	I	International_financial_institutions
+bank	NOUN	I	International_financial_institutions
+(	PUNCT	I	International_financial_institutions
+MDB	NOUN	I	International_financial_institutions
+)	PUNCT	I	International_financial_institutions
+,	PUNCT	O
+Green	ADJ	B	Green_Climate_Fund
+Climate	PROPN	I	Green_Climate_Fund
+Fund	PROPN	I	Green_Climate_Fund
+(	PUNCT	I	Green_Climate_Fund
+GCF	PROPN	I	Green_Climate_Fund
+)	PUNCT	I	Green_Climate_Fund
+,	PUNCT	O
+and	CCONJ	O
+Germanwatch	PROPN	B	Germanwatch
+supplied	VERB	O
+data	NOUN	B	Data
+from	ADP	O
+2011	NUM	O
+to	ADP	O
+2021	NUM	O
+.	PUNCT	O
+
+Under	ADP	O
+the	DET	O
+theoretical	ADJ	B	Theory
+lens	NOUN	B	Lens
+of	ADP	O
+institutional	ADJ	B	Institution
+capacity	NOUN	B	Capacity_building
+development	NOUN	I	Capacity_building
+,	PUNCT	O
+the	DET	O
+study	NOUN	O
+attempts	VERB	B	Attempt
+to	PART	O
+correlate	VERB	B	Correlation
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+and	CCONJ	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+indicates	VERB	O
+an	DET	O
+increasing	VERB	O
+trend	NOUN	O
+of	ADP	O
+MDBs	NOUN	B	International_financial_institutions
+'	PART	O
+and	CCONJ	O
+the	DET	O
+GCF	PROPN	B	Green_Climate_Fund
+'s	PART	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+in	ADP	O
+many	ADJ	O
+countries	NOUN	B	Sovereign_state
+worldwide	ADV	O
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+finds	VERB	O
+that	SCONJ	O
+MDBs	NOUN	B	International_financial_institutions
+'	PART	O
+total	ADJ	O
+global	ADJ	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+is	AUX	O
+USD	SYM	B	United_States_dollar
+446,977	NUM	O
+million	NUM	B	1,000,000
+,	PUNCT	O
+while	SCONJ	O
+the	DET	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+has	AUX	O
+received	VERB	O
+USD	SYM	B	United_States_dollar
+59,301	NUM	O
+million	NUM	B	1,000,000
+since	ADP	O
+2011	NUM	O
+.	PUNCT	O
+
+It	PRON	O
+also	ADV	O
+reports	VERB	O
+that	SCONJ	O
+MDBs	NOUN	B	International_financial_institutions
+provide	VERB	O
+77	NUM	O
+%	SYM	B	Percentage
+and	CCONJ	O
+23	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+the	DET	O
+money	NOUN	B	Money
+to	ADP	O
+the	DET	O
+mitigation	NOUN	B	Climate_change_mitigation
+and	CCONJ	O
+adaptation	NOUN	B	Climate_change_adaptation
+areas	NOUN	B	Area
+.	PUNCT	O
+
+Moreover	ADV	O
+,	PUNCT	O
+the	DET	O
+study	NOUN	O
+reports	VERB	O
+that	SCONJ	O
+,	PUNCT	O
+after	ADP	O
+COVID	PROPN	B	COVID-19
+-	SYM	I	COVID-19
+19	NUM	I	COVID-19
+,	PUNCT	O
+MDBs	NOUN	B	International_financial_institutions
+substantially	ADV	O
+increased	VERB	O
+the	DET	O
+amount	NOUN	B	Quantity
+of	ADP	O
+global	ADJ	O
+climate	NOUN	B	Climate_finance
+financing	NOUN	I	Climate_finance
+,	PUNCT	O
+but	CCONJ	O
+this	DET	O
+increase	NOUN	O
+was	AUX	O
+not	PART	B	Unseen_character
+seen	VERB	I	Unseen_character
+in	ADP	O
+the	DET	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+.	PUNCT	O
+
+Our	PRON	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+data	NOUN	B	Data
+indicate	VERB	O
+that	SCONJ	O
+most	ADJ	O
+of	ADP	O
+the	DET	O
+SA	PROPN	B	South_Asia
+countries	NOUN	B	Sovereign_state
+are	AUX	O
+highly	ADV	O
+long	ADJ	O
+-	PUNCT	O
+term	NOUN	O
+climate	NOUN	B	Climate_risk
+risky	ADJ	I	Climate_risk
+and	CCONJ	O
+lose	VERB	O
+,	PUNCT	O
+on	ADP	B	Average
+average	NOUN	I	Average
+,	PUNCT	O
+0.378	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+GDP	NOUN	B	Gross_domestic_product
+.	PUNCT	O
+
+The	DET	O
+correlation	NOUN	B	Correlation
+matrix	NOUN	B	Matrix_(mathematics)
+finds	VERB	O
+a	DET	O
+negative	ADJ	O
+and	CCONJ	O
+significant	ADJ	B	Statistical_significance
+correlation	NOUN	B	Correlation
+between	ADP	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+and	CCONJ	O
+long	ADJ	O
+-	PUNCT	O
+term	NOUN	O
+and	CCONJ	O
+yearly	ADJ	B	Year
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+identifies	VERB	O
+that	SCONJ	O
+the	DET	O
+region	NOUN	O
+'s	PART	O
+climate	NOUN	B	Climate_finance
+financing	NOUN	I	Climate_finance
+flow	NOUN	O
+of	ADP	O
+money	NOUN	B	Money
+is	AUX	O
+not	PART	O
+rationally	ADV	B	Rationality
+distributed	VERB	O
+based	VERB	O
+on	ADP	O
+the	DET	O
+short	ADJ	B	Long_run_and_short_run
+-	PUNCT	I	Long_run_and_short_run
+run	NOUN	I	Long_run_and_short_run
+and	CCONJ	I	Long_run_and_short_run
+long	ADJ	I	Long_run_and_short_run
+-	PUNCT	I	Long_run_and_short_run
+run	VERB	I	Long_run_and_short_run
+climate	NOUN	B	Climate_risk
+risks	NOUN	I	Climate_risk
+.	PUNCT	O
+
+The	DET	O
+study	NOUN	O
+presumes	VERB	O
+that	SCONJ	O
+more	ADJ	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+would	AUX	O
+be	AUX	O
+the	DET	O
+most	ADV	O
+effective	ADJ	O
+mechanism	NOUN	B	Mechanism_design
+to	PART	O
+mitigate	VERB	B	Climate_change_mitigation
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+.	PUNCT	O
+
+Therefore	ADV	O
+,	PUNCT	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+leadership	NOUN	B	Leadership
+drastically	ADV	O
+requires	VERB	O
+a	DET	O
+holistic	ADJ	B	Holism
+framework	NOUN	O
+to	PART	O
+address	VERB	B	Public_speaking
+the	DET	O
+prevailing	VERB	O
+climate	NOUN	B	Climate_change
+problems	NOUN	I	Climate_change
+and	CCONJ	O
+to	PART	O
+ensure	VERB	O
+regional	ADJ	O
+coordination	NOUN	O
+and	CCONJ	O
+cooperation	NOUN	B	Cooperative
+toward	ADP	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+and	CCONJ	O
+policies	NOUN	B	Policy
+.	PUNCT	O
+
+The	DET	O
+research	NOUN	B	Research
+findings	NOUN	O
+have	VERB	O
+significant	ADJ	B	Statistical_significance
+implications	NOUN	O
+for	ADP	O
+climate	NOUN	B	Politics_of_climate_change
+policy	NOUN	I	Politics_of_climate_change
+and	CCONJ	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+.	PUNCT	O
+
+Keywords	NOUN	B	Index_term
+:	PUNCT	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+;	PUNCT	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+;	PUNCT	O
+South	PROPN	B	South_Asia
+Asia	PROPN	I	South_Asia
+;	PUNCT	O
+climate	NOUN	B	Politics_of_climate_change
+politics	NOUN	I	Politics_of_climate_change
+
+1.	X	O
+Introduction	NOUN	B	Introduction_(writing)
+
+Climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+and	CCONJ	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+are	AUX	O
+closely	ADV	O
+associated	VERB	B	Correlation
+issues	NOUN	B	Social_issue
+as	SCONJ	O
+they	PRON	O
+directly	ADV	O
+and	CCONJ	O
+indirectly	ADV	O
+affect	VERB	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+is	AUX	O
+a	DET	O
+major	ADJ	O
+challenge	NOUN	O
+in	ADP	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+because	ADP	O
+of	ADP	O
+limited	ADJ	O
+resources	NOUN	B	Resource
+,	PUNCT	O
+lack	NOUN	O
+of	ADP	O
+capability	NOUN	O
+,	PUNCT	O
+ineffective	ADJ	O
+institutional	ADJ	B	Institution
+atmosphere	NOUN	B	Atmosphere
+,	PUNCT	O
+and	CCONJ	O
+lack	NOUN	O
+of	ADP	O
+regional	ADJ	O
+and	CCONJ	O
+international	ADJ	B	International_relations
+cooperation	NOUN	I	International_relations
+.	PUNCT	O
+
+Prior	ADJ	O
+studies	NOUN	O
+also	ADV	O
+reported	VERB	O
+that	SCONJ	O
+poorer	ADJ	B	Developing_country
+(	PUNCT	I	Developing_country
+developing	VERB	I	Developing_country
+)	PUNCT	I	Developing_country
+countries	NOUN	I	Developing_country
+are	AUX	O
+more	ADV	O
+negatively	ADV	O
+affected	VERB	O
+by	ADP	O
+climate	NOUN	B	Climate_risk
+risks	NOUN	I	Climate_risk
+than	ADP	O
+richer	ADJ	B	Developed_country
+(	PUNCT	I	Developed_country
+developed	VERB	I	Developed_country
+)	PUNCT	I	Developed_country
+countries	NOUN	I	Developed_country
+because	ADP	O
+of	ADP	O
+several	ADJ	O
+reasons	NOUN	B	Reason
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+(	PUNCT	O
+1	NUM	O
+)	PUNCT	O
+insufficient	ADJ	B	Necessity_and_sufficiency
+resource	NOUN	B	Natural_resource
+capabilities	NOUN	B	Capability_approach
+and	CCONJ	O
+management	NOUN	O
+,	PUNCT	O
+(	PUNCT	O
+2	NUM	O
+)	PUNCT	O
+the	DET	O
+adversely	ADV	O
+affected	VERB	O
+health	NOUN	B	Health
+and	CCONJ	O
+productivity	NOUN	B	Productivity
+that	PRON	O
+decrease	VERB	O
+national	ADJ	O
+growth	NOUN	B	Economic_growth
+,	PUNCT	O
+and	CCONJ	O
+(	PUNCT	O
+3	NUM	O
+)	PUNCT	O
+financial	ADJ	B	Finance
+limitations	NOUN	O
+.	PUNCT	O
+
+Global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+,	PUNCT	O
+climate	NOUN	B	Climate_risk
+risks	NOUN	I	Climate_risk
+,	PUNCT	O
+and	CCONJ	O
+environmental	ADJ	B	Pollution
+problems	NOUN	I	Pollution
+are	AUX	O
+challenging	ADJ	O
+to	ADP	O
+developed	ADJ	B	Developed_country
+economics	NOUN	I	Developed_country
+and	CCONJ	O
+developing	VERB	B	Developing_country
+economics	NOUN	I	Developing_country
+as	SCONJ	O
+they	PRON	O
+create	VERB	B	Creativity
+economic	ADJ	B	Economic_inequality
+inequality	NOUN	I	Economic_inequality
+globally	ADV	B	Globalization
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+is	AUX	O
+the	DET	O
+impact	NOUN	B	Human_impact_on_the_environment
+of	ADP	O
+the	DET	O
+developed	ADJ	B	Developed_country
+countries	NOUN	I	Developed_country
+'	PART	O
+higher	ADJ	O
+emission	NOUN	B	Greenhouse_gas_emissions
+of	ADP	O
+CO2	NOUN	B	Carbon_dioxide
+while	SCONJ	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+are	AUX	O
+the	DET	O
+ultimate	ADJ	O
+sufferers	NOUN	B	Suffering
+.	PUNCT	O
+
+The	DET	O
+same	ADJ	O
+argument	NOUN	O
+is	AUX	O
+valid	ADJ	B	Validity_(logic)
+in	ADP	O
+the	DET	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+mechanism	NOUN	O
+where	ADV	O
+developed	ADJ	B	Developed_country
+countries	NOUN	I	Developed_country
+'	PART	O
+contribution	NOUN	O
+is	AUX	O
+insufficient	ADJ	B	Necessity_and_sufficiency
+,	PUNCT	O
+as	SCONJ	O
+expected	VERB	O
+by	ADP	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_justice
+injustice	NOUN	I	Climate_justice
+,	PUNCT	O
+climate	NOUN	B	Politics_of_climate_change
+politics	NOUN	I	Politics_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+economic	ADJ	B	Economic_inequality
+inequality	NOUN	I	Economic_inequality
+are	AUX	O
+in	ADP	O
+the	DET	O
+same	ADJ	O
+line	NOUN	O
+of	ADP	O
+discrimination	NOUN	B	Discrimination
+that	PRON	O
+is	AUX	O
+highly	ADV	O
+affected	VERB	O
+in	SCONJ	O
+developing	VERB	B	Developing_country
+and	CCONJ	O
+climate	NOUN	B	Climate_change_vulnerability
+-	PUNCT	I	Climate_change_vulnerability
+vulnerable	ADJ	I	Climate_change_vulnerability
+countries	NOUN	B	Sovereign_state
+.	PUNCT	O
+
+Globally	ADV	O
+,	PUNCT	O
+climate	NOUN	B	Climate_justice
+justice	NOUN	I	Climate_justice
+is	AUX	O
+a	DET	O
+significant	ADJ	B	Statistical_significance
+term	NOUN	O
+because	SCONJ	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+'	PART	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+burden	NOUN	O
+is	AUX	O
+due	ADP	O
+to	ADP	O
+the	DET	O
+developed	ADJ	B	Developed_country
+countries	NOUN	I	Developed_country
+'	PART	O
+higher	ADJ	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+Hence	ADV	O
+,	PUNCT	O
+climate	NOUN	B	Climate_finance
+finance	NOUN	I	Climate_finance
+is	AUX	O
+an	DET	O
+essential	ADJ	O
+and	CCONJ	O
+most	ADV	O
+effective	ADJ	O
+mechanism	NOUN	O
+to	PART	O
+mitigate	VERB	B	Climate_change_mitigation
+global	ADJ	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+and	CCONJ	O
+establish	VERB	O
+climate	NOUN	B	Climate_justice
+justice	NOUN	I	Climate_justice
+and	CCONJ	O
+economic	ADJ	B	Economic_inequality
+equality	NOUN	I	Economic_inequality
+.	PUNCT	O
+
+Another	DET	O
+logical	ADJ	B	Logic
+question	NOUN	B	Question
+has	AUX	O
+been	AUX	O
+raised	VERB	O
+as	SCONJ	O
+to	ADP	O
+why	ADV	O
+do	VERB	O
+low	ADJ	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+(	PUNCT	I	Greenhouse_gas_emissions
+GHG	NOUN	I	Greenhouse_gas_emissions
+)	PUNCT	I	Greenhouse_gas_emissions
+polluting	VERB	B	Pollution
+countries	NOUN	B	Sovereign_state
+face	VERB	O
+the	DET	O
+highest	ADJ	O
+burden	NOUN	O
+of	ADP	O
+climate	NOUN	B	Climate_change
+challenges	NOUN	I	Climate_change
+?	PUNCT	O
+
+The	DET	O
+International	ADJ	B	International_Energy_Agency
+Energy	PROPN	I	International_Energy_Agency
+Authority	PROPN	I	International_Energy_Agency
+(	PUNCT	I	International_Energy_Agency
+IEA	PROPN	I	International_Energy_Agency
+)	PUNCT	I	International_Energy_Agency
+states	VERB	O
+that	SCONJ	O
+China	PROPN	B	China
+,	PUNCT	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+,	PUNCT	O
+and	CCONJ	O
+India	PROPN	B	India
+'s	PART	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+are	AUX	O
+responsible	ADJ	O
+for	ADP	O
+85	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+the	DET	O
+world	NOUN	O
+'s	PART	O
+total	ADJ	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+It	PRON	O
+leads	VERB	O
+to	ADP	O
+an	DET	O
+academic	ADJ	B	Academic_discipline
+debate	NOUN	B	Debate
+on	ADP	O
+the	DET	O
+injustice	NOUN	B	Climate_justice
+of	ADP	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+emission	NOUN	I	Greenhouse_gas_emissions
+and	CCONJ	O
+economic	ADJ	B	Economic_development
+development	NOUN	I	Economic_development
+.	PUNCT	O
+
+For	ADP	B	Fornax
+example	NOUN	B	%2eexample
+,	PUNCT	O
+the	DET	O
+global	ADJ	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emission	NOUN	I	Greenhouse_gas_emissions
+of	ADP	O
+Bangladesh	PROPN	B	Bangladesh
+is	AUX	O
+less	ADJ	B	Inequality_(mathematics)
+than	ADP	I	Inequality_(mathematics)
+0.35	NUM	O
+%	SYM	B	Percentage
+,	PUNCT	O
+while	SCONJ	O
+the	DET	O
+country	NOUN	B	Sovereign_state
+is	AUX	O
+the	DET	O
+most	ADV	O
+vulnerable	ADJ	B	Climate_change_vulnerability
+country	NOUN	B	Sovereign_state
+due	ADP	O
+to	ADP	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+driven	VERB	O
+by	ADP	O
+extreme	ADJ	B	Extreme_weather
+weather	NOUN	I	Extreme_weather
+(	PUNCT	O
+global	ADJ	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+index	NOUN	O
+is	AUX	O
+prepared	VERB	O
+yearly	ADV	B	Year
+and	CCONJ	O
+published	VERB	O
+by	ADP	O
+Germanwatch	PROPN	B	Germanwatch
+,	PUNCT	O
+a	DET	O
+Germany	PROPN	O
+-	PUNCT	O
+based	VERB	O
+international	ADJ	B	International_organization
+organization	NOUN	I	International_organization
+)	PUNCT	O
+.	PUNCT	O
+
+It	PRON	O
+is	AUX	O
+estimated	VERB	B	Estimation
+that	SCONJ	O
+the	DET	O
+country	NOUN	B	Sovereign_state
+will	AUX	O
+lose	VERB	O
+2	NUM	O
+%	SYM	B	Percentage
+and	CCONJ	O
+9.4	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+its	PRON	O
+gross	ADJ	B	Gross_domestic_product
+domestic	ADJ	I	Gross_domestic_product
+product	NOUN	I	Gross_domestic_product
+(	PUNCT	I	Gross_domestic_product
+GDP	NOUN	I	Gross_domestic_product
+)	PUNCT	I	Gross_domestic_product
+by	ADP	O
+2050	NUM	B	3rd_millennium
+and	CCONJ	O
+2100	NUM	B	3rd_millennium
+due	ADP	O
+to	ADP	O
+climate	NOUN	B	Climate_risk
+risks	NOUN	I	Climate_risk
+.	PUNCT	O
+
+South	PROPN	B	South_Asia
+Asia	PROPN	I	South_Asia
+(	PUNCT	I	South_Asia
+SA	PROPN	I	South_Asia
+)	PUNCT	I	South_Asia
+is	AUX	O
+the	DET	O
+most	ADV	O
+vulnerable	ADJ	B	Climate_change_vulnerability
+to	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+,	PUNCT	O
+and	CCONJ	O
+most	ADJ	O
+of	ADP	O
+the	DET	O
+countries	NOUN	B	Sovereign_state
+in	ADP	O
+the	DET	O
+region	NOUN	B	Region
+are	AUX	O
+highly	ADV	O
+affected	VERB	O
+in	ADP	O
+terms	NOUN	O
+of	ADP	O
+environment	NOUN	B	Natural_environment
+,	PUNCT	O
+water	NOUN	B	Water
+,	PUNCT	O
+health	NOUN	B	Public_health
+,	PUNCT	O
+and	CCONJ	O
+many	ADJ	O
+other	ADJ	O
+public	ADJ	O
+issues	NOUN	B	Social_issue
+.	PUNCT	O
+
+Most	ADJ	O
+of	ADP	O
+the	DET	O
+countries	NOUN	B	Sovereign_state
+in	ADP	O
+the	DET	O
+region	NOUN	B	Region
+are	AUX	O
+highly	ADV	O
+affected	VERB	O
+by	ADP	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+.	PUNCT	O
+
+They	PRON	O
+face	VERB	O
+severe	ADJ	O
+problems	NOUN	B	Problem_solving
+of	ADP	O
+air	NOUN	B	Air_pollution
+pollution	NOUN	I	Air_pollution
+,	PUNCT	O
+water	NOUN	B	Water_pollution
+pollution	NOUN	I	Water_pollution
+,	PUNCT	O
+public	ADJ	B	Public_health
+health	NOUN	I	Public_health
+,	PUNCT	O
+biodiversity	NOUN	B	Biodiversity
+,	PUNCT	O
+waste	NOUN	B	Waste_management
+,	PUNCT	O
+and	CCONJ	O
+deforestation	NOUN	B	Deforestation
+.	PUNCT	O
+
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+countries	NOUN	B	Sovereign_state
+are	AUX	O
+the	DET	O
+top	ADJ	O
+climate	NOUN	B	Climate_change_vulnerability
+-	PUNCT	I	Climate_change_vulnerability
+vulnerable	ADJ	I	Climate_change_vulnerability
+countries	NOUN	B	Sovereign_state
+in	ADP	O
+the	DET	O
+long	ADJ	O
+term	NOUN	O
+and	CCONJ	O
+short	ADJ	O
+term	NOUN	O
+(	PUNCT	O
+most	ADJ	O
+of	ADP	O
+the	DET	O
+top	ADJ	O
+ten	NUM	O
+countries	NOUN	B	Sovereign_state
+are	AUX	O
+from	ADP	O
+the	DET	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+,	PUNCT	O
+see	VERB	O
+Table	PROPN	O
+1	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+Moreover	ADV	O
+,	PUNCT	O
+the	DET	O
+region	NOUN	O
+'s	PART	O
+CO2	NOUN	B	Carbon_dioxide
+contribution	NOUN	O
+is	AUX	O
+much	ADV	O
+lower	ADJ	O
+than	ADP	O
+other	ADJ	O
+developing	VERB	B	Developing_country
+and	CCONJ	O
+developed	ADJ	B	Developed_country
+countries	NOUN	I	Developed_country
+,	PUNCT	O
+but	CCONJ	O
+the	DET	O
+region	NOUN	O
+'s	PART	O
+countries	NOUN	B	Sovereign_state
+are	AUX	O
+paying	VERB	O
+the	DET	O
+most	ADV	O
+severe	ADJ	O
+damages	NOUN	B	Damages
+due	ADP	O
+to	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+.	PUNCT	O
+
+Furthermore	ADV	O
+,	PUNCT	O
+major	ADJ	O
+cities	NOUN	B	City
+are	AUX	O
+the	DET	O
+most	ADV	O
+environmentally	ADV	B	Natural_environment
+polluted	VERB	B	Pollution
+in	ADP	O
+terms	NOUN	O
+of	ADP	O
+air	NOUN	B	Air_pollution
+,	PUNCT	O
+water	NOUN	B	Water_pollution
+,	PUNCT	O
+and	CCONJ	O
+public	ADJ	B	Public_health
+health	NOUN	I	Public_health
+.	PUNCT	O
+
+According	VERB	O
+to	ADP	O
+the	DET	B	The_Economist
+Economist	PROPN	I	The_Economist
+Intelligence	PROPN	O
+global	ADJ	O
+survey	NOUN	O
+2021	NUM	O
+,	PUNCT	O
+Dhaka	PROPN	B	Dhaka
+is	AUX	O
+the	DET	O
+world	NOUN	O
+'s	PART	O
+least	ADV	O
+livable	ADJ	B	Quality_of_life
+capital	NOUN	B	Capital_city
+and	CCONJ	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+air	NOUN	B	Air_quality_index
+quality	NOUN	I	Air_quality_index
+index	NOUN	I	Air_quality_index
+(	PUNCT	I	Air_quality_index
+AQI	PROPN	I	Air_quality_index
+)	PUNCT	I	Air_quality_index
+of	ADP	O
+2022	NUM	O
+reports	VERB	O
+that	SCONJ	O
+Dhaka	PROPN	B	Dhaka
+is	AUX	O
+the	DET	O
+worst	ADJ	O
+city	NOUN	O
+in	ADP	O
+the	DET	O
+world	NOUN	O
+.	PUNCT	O
+
+According	VERB	O
+to	ADP	O
+the	DET	O
+AQI	PROPN	B	Air_quality_index
+,	PUNCT	O
+most	ADJ	O
+of	ADP	O
+the	DET	O
+worst	ADJ	O
+(	PUNCT	O
+polluted	VERB	B	Air_pollution
+)	PUNCT	O
+cities	NOUN	B	City
+belonging	VERB	O
+to	ADP	O
+the	DET	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+also	ADV	O
+indicate	VERB	O
+the	DET	O
+environmental	ADJ	B	Environmental_Vulnerability_Index
+vulnerabilities	NOUN	I	Environmental_Vulnerability_Index
+of	ADP	O
+the	DET	O
+region	NOUN	O
+'s	PART	O
+countries	NOUN	B	Sovereign_state
+(	PUNCT	O
+the	DET	O
+world	NOUN	O
+'s	PART	O
+ten	NUM	O
+most	ADV	O
+polluted	VERB	B	Air_pollution
+cities	NOUN	B	City
+include	VERB	O
+nine	NUM	O
+cities	NOUN	B	City
+in	ADP	O
+the	DET	O
+SA	PROPN	B	South_Asia
+region	NOUN	I	South_Asia
+)	PUNCT	O
+.	PUNCT	O
+
+Furthermore	ADV	O
+,	PUNCT	O
+Bangladesh	PROPN	B	Bangladesh
+faced	VERB	O
+an	DET	O
+extreme	ADJ	B	Heat_wave
+heatwave	NOUN	I	Heat_wave
+in	ADP	O
+April	PROPN	B	2023
+2023	NUM	I	2023
+and	CCONJ	O
+Dhaka	PROPN	B	Dhaka
+has	AUX	O
+broken	VERB	O
+the	DET	O
+last	ADJ	O
+fifty	NUM	O
+-	PUNCT	O
+eight	NUM	O
+years	NOUN	O
+'	PART	O
+temperature	NOUN	B	Global_temperature_record
+records	NOUN	I	Global_temperature_record
+.	PUNCT	O
+
+The	DET	B	Intergovernmental_Panel_on_Climate_Change
+United	VERB	I	Intergovernmental_Panel_on_Climate_Change
+Nations	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+Intergovernmental	ADJ	I	Intergovernmental_Panel_on_Climate_Change
+Panel	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+on	ADP	I	Intergovernmental_Panel_on_Climate_Change
+Climate	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+Change	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+(	PUNCT	I	Intergovernmental_Panel_on_Climate_Change
+IPCC	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+)	PUNCT	I	Intergovernmental_Panel_on_Climate_Change
+reported	VERB	O
+that	SCONJ	O
+climate	NOUN	B	Climate_crisis
+crises	NOUN	I	Climate_crisis
+in	ADP	O
+the	DET	B	Region
+region	NOUN	I	Region
+will	AUX	O
+be	AUX	O
+the	DET	O
+most	ADV	O
+challenging	ADJ	O
+issues	NOUN	B	Social_issue
+for	ADP	O
+the	DET	O
+next	ADJ	O
+two	NUM	O
+decades	NOUN	B	Decade
+.	PUNCT	O
+
+According	VERB	O
+to	ADP	O
+the	DET	O
+IPCC	PROPN	B	Intergovernmental_Panel_on_Climate_Change
+report	NOUN	O
+,	PUNCT	O
+Bangladesh	PROPN	B	Bangladesh
+,	PUNCT	O
+India	PROPN	B	India
+,	PUNCT	O
+Pakistan	PROPN	B	Pakistan
+,	PUNCT	O
+and	CCONJ	O
+Sri	PROPN	B	Sri_Lanka
+Lanka	PROPN	I	Sri_Lanka
+face	VERB	O
+rising	VERB	B	Sea_level_rise
+sea	NOUN	I	Sea_level_rise
+levels	NOUN	I	Sea_level_rise
+and	CCONJ	O
+severe	ADJ	O
+flooding	NOUN	B	Flood
+while	SCONJ	O
+landlocked	VERB	B	Landlocked_country
+Afghanistan	PROPN	B	Afghanistan
+,	PUNCT	O
+Bhutan	PROPN	B	Bhutan
+,	PUNCT	O
+and	CCONJ	O
+Nepal	PROPN	B	Nepal
+face	VERB	O
+higher	ADJ	O
+temperatures	NOUN	B	Temperature
+and	CCONJ	O
+drought	NOUN	B	Drought
+.	PUNCT	O
+
+The	DET	O
+report	NOUN	O
+also	ADV	O
+mentions	VERB	O
+the	DET	O
+small	ADJ	O
+island	NOUN	B	Island_country
+country	NOUN	I	Island_country
+of	ADP	O
+the	DET	O
+Maldives	PROPN	B	Maldives
+will	AUX	O
+be	AUX	O
+lost	VERB	O
+in	ADP	O
+the	DET	O
+future	NOUN	B	Future
+.	PUNCT	O
+
+Moreover	ADV	O
+,	PUNCT	O
+the	DET	O
+first	ADJ	O
+-	PUNCT	O
+ever	ADV	O
+report	NOUN	O
+of	ADP	O
+the	DET	O
+United	VERB	B	UNICEF
+Nations	PROPN	I	UNICEF
+International	ADJ	I	UNICEF
+Children	PROPN	I	UNICEF
+'s	PART	I	UNICEF
+Emergency	PROPN	I	UNICEF
+Fund	PROPN	I	UNICEF
+(	PUNCT	I	UNICEF
+UNICEF	PROPN	I	UNICEF
+)	PUNCT	I	UNICEF
+on	ADP	O
+a	DET	O
+children	NOUN	B	Child
+'s	PART	O
+climate	NOUN	B	Climate_risk
+risk	NOUN	I	Climate_risk
+index	NOUN	O
+reported	VERB	O
+that	SCONJ	O
+children	NOUN	B	Child
+in	ADP	O
+Afghanistan	PROPN	B	Afghanistan
+,	PUNCT	O
+Bangladesh	PROPN	B	Bangladesh
+,	PUNCT	O
+India	PROPN	B	India
+,	PUNCT	O
+and	CCONJ	O
+Pakistan	PROPN	B	Pakistan
+are	AUX	O
+extremely	ADV	O
+vulnerable	ADJ	B	Climate_change_vulnerability
+because	ADP	O
+of	ADP	O
+high	ADJ	O
+temperatures	NOUN	B	Temperature
+(	PUNCT	O
+heatwaves	NOUN	B	Heat_wave
+)	PUNCT	O
+and	CCONJ	O
+natural	ADJ	B	Natural_disaster
+calamities	NOUN	I	Natural_disaster
+(	PUNCT	O
+extreme	ADJ	B	Flood
+flooding	NOUN	I	Flood
+)	PUNCT	O
+.	PUNCT	O
+
+UNICEF	PROPN	B	UNICEF
+also	ADV	O
+mentioned	VERB	O
+this	DET	O
+climate	NOUN	B	Climate_crisis
+crisis	NOUN	I	Climate_crisis
+will	AUX	O
+impact	VERB	O
+children	NOUN	B	Child
+'s	PART	O
+health	NOUN	B	Public_health
+,	PUNCT	O
+education	NOUN	B	Education
+,	PUNCT	O
+and	CCONJ	O
+protection	NOUN	O
+.	PUNCT	O
+
+These	DET	O
+negative	ADJ	O
+signals	NOUN	O
+strongly	ADV	O
+pressure	VERB	O
+regulatory	ADJ	B	Regulatory_agency
+bodies	NOUN	I	Regulatory_agency
+and	CCONJ	O
+policymakers	NOUN	B	Policy
+to	PART	O
+do	VERB	O
+something	PRON	O
+for	ADP	O
+the	DET	O
+betterment	NOUN	O
+of	ADP	O
+these	DET	O
+countries	NOUN	B	Sovereign_state
+.	PUNCT	O
+
+Therefore	ADV	O
+,	PUNCT	O
+policymakers	NOUN	B	Policy
+promulgate	VERB	B	Promulgation
+many	ADJ	O
+policies	NOUN	B	Policy
+and	CCONJ	O
+rules	NOUN	O
+to	PART	O
+inspire	VERB	O
+and	CCONJ	O
+motivate	VERB	B	Motivation
+the	DET	O
+financial	ADJ	B	Financial_services
+sector	NOUN	I	Financial_services
+to	PART	O
+take	VERB	O
+more	ADJ	O
+action	NOUN	O
+on	ADP	O
+climate	NOUN	B	Climate_finance
+financing	NOUN	I	Climate_finance
+.	PUNCT	O
+

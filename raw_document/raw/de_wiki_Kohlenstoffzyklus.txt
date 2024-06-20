@@ -1,0 +1,73 @@
+Kohlenstoffzyklus
+
+Unter Kohlenstoffzyklus oder Kohlenstoffkreislauf versteht man das System der chemischen Umwandlungen kohlenstoffhaltiger Verbindungen in den globalen Systemen Lithosphäre, Hydrosphäre, Erdatmosphäre und Biosphäre sowie den Austausch dieser Verbindungen zwischen diesen Erdsphären. Die Kenntnis dieses Kreislaufs einschließlich seiner Teilprozesse ermöglicht es unter anderem, die Eingriffe des Menschen in das Klima und damit ihre Auswirkungen auf die globale Erwärmung abzuschätzen und angemessen zu reagieren.
+
+Kohlenstoff ist im Universum und auf der Erde ein relativ seltenes Element (Prozent-Angaben bedeuten Atomzahlenverhältnisse):[1]
+
+Häufigste Elemente im Universum: Wasserstoff (92,7 %) und Helium (7,2 %), (Kohlenstoff dagegen nur 0,008 %)
+
+Häufigste Elemente der Erdkruste: Sauerstoff 49 %, Eisen 19 %, Silicium 14 %, Magnesium 12,5 % (Kohlenstoff dagegen nur 0,099 %)
+
+Häufigste Elemente im menschlichen Körper: Wasserstoff (60,6 %), Sauerstoff (25,7 %) und Kohlenstoff (10,7 %)
+
+Systembetrachtung
+
+Das System „Erde“ wird als geschlossenes System betrachtet. Zufuhr von Kohlenstoff beispielsweise durch Meteorite oder kernchemische Vorgänge und Verlust von Kohlenstoff beispielsweise durch Raumfahrt werden dabei außer Acht gelassen. Unter dieser Bedingung kann man den Gesamtkohlenstoffgehalt des Systems „Erde“ als konstant betrachten.
+
+Der Kohlenstoffzyklus des Systems Erde gliedert sich in die fünf Teilsysteme Atmosphäre, Hydrosphäre, Lithosphäre, Biosphäre und Pedosphäre. Im Erdsystem Kryosphäre, also der Gesamtheit aller Eismassen des Planeten, ist nur wenig Kohlenstoff in Form von fossilem CO2 vorhanden. Sie enthalten alle Kohlenstoff in unterschiedlichen Formen. Unter diesem Aspekt können sie als Kohlenstoffspeicher verstanden werden. (Statt Kohlenstoffspeicher sagt man auch Kohlenstoffreservoir oder Kohlenstoffpool.) Ein solcher Speicher hat eine Speicherkapazität und einen gespeicherten Kohlenstoffvorrat. Ein Kohlenstoffspeicher ist durch die Speicherformen des Kohlenstoffs charakterisiert. So speichert die Lithosphäre Kohlenstoff unter anderem in Form von Carbonatgesteinen (Kalkstein), die Biosphäre in Form organischer Kohlenstoffverbindungen sowie in Kalkskeletten der Tiere.
+
+Zwischen den Kohlenstoffspeichern gibt es Kohlenstoffflüsse (auch Kohlenstoff-Fluxe). Wichtige Kenngrößen, die sich aus den Flüssen ergeben, sind Verweildauer im Speicher und die pro Zeitspanne zu- und abfließenden Mengen an Kohlenstoff (Flussraten).
+
+Gibt ein Speicher (S1) pro Zeitspanne mehr Kohlenstoff an einen anderen Speicher (S2) ab, als er aus diesem aufnimmt, handelt es sich bei S1 um eine Kohlenstoffquelle in Bezug auf S2, während S2 eine Kohlenstoffsenke ist. Im Zusammenhang mit dem Kohlenstoffzyklus ist das Kohlenstoffbudget, auch Kohlenstoffbilanz[6], eine budgetmäßige Aufstellung der Zu- und Abflüsse eines Kohlenstoffspeichers. (Der Begriff Kohlenstoffbudget kann – vor allem in der Klimapolitik – auch speziell die Aufnahmekapazität der Atmosphäre bezeichnen, die noch verbleibt, bis die globale Temperatur eine bestimmte Grenze überschreitet, siehe CO2-Budget.)
+
+Die hier skizzierten Begriffe werden in der Biogeochemie allgemein für beliebige Speicher und auch für andere Stoffkreisläufe als den des Kohlenstoffs verwendet. Im Zusammenhang mit dem gegenwärtigen Klimawandel werden sie oft in Bezug auf die Atmosphäre als Referenz-Kohlenstoffspeicher verwendet.
+
+Flussraten können sich ändern. Beispielsweise wird damit gerechnet, dass die Aufnahmefähigkeit der Ozeane mit zunehmender CO2-Konzentration in der Atmosphäre abnimmt.
+
+Kohlenstoffspeicher können infolge der relativen Änderung von Flussraten ihre Rolle vertauschen. Aus einer Kohlenstoffsenke kann eine Kohlenstoffquelle werden und umgekehrt.
+
+So tauschen beispielsweise die terrestrische Biosphäre und die Atmosphäre im Jahresverlauf ihre Rollen: Im nordhemisphärischen Winter ist die Biosphäre für die Atmosphäre eine Kohlenstoffquelle, im nordhemisphärischen Sommer wird sie zur Senke. Denn auf der Nordhalbkugel befindet sich erheblich mehr Vegetation in deutlichem Abstand zum Äquator als auf der Südhalbkugel (z. B. borealer Nadelwald, gemäßigter Regenwald). Sie betreibt im Winter kaum Photosynthese, weil es zu kalt ist und das Licht fehlt. Global betrachtet gibt deshalb die gesamte terrestrische Biosphäre im nordhemisphärischen Winter mehr CO2 ab, als sie aufnimmt. Dieser natürliche Rollenwechsel zeigt sich im halbjährlichen Auf und Ab der Keeling-Kurve, die den CO2-Gehalt der Atmosphäre darstellt.
+
+Aber auch durch menschliche Eingriffe können aus Kohlenstoffsenken Kohlenstoffquellen werden: In einem gesunden Moor mit ausreichend hohem Grundwasserspiegel versinken Pflanzen, die bei ihrem Wachstum CO2 aus der Atmosphäre entnommen haben. Dort verrotten sie nicht, weil der Sauerstoff fehlt. Langfristig entsteht aus ihnen Torf und später Braunkohle. Das Moor ist eine Kohlenstoffsenke in Bezug zur Atmosphäre. Wird aber der Grundwasserspiegel durch Drainagen abgesenkt oder gar Torf abgebaut, dann gerät Luft an das organische Material und es verrottet, CO2 wird frei. Aus der Kohlenstoffsenke ist eine Kohlenstoffquelle geworden. Alleine aus den trockengelegten Mooren Deutschlands entweichen jährlich 45 Millionen Tonnen CO2.
+
+Kohlenstoffspeicher
+
+Die globale Kohlenstoffmenge beträgt 75 Millionen Gt.
+
+Atmosphäre
+
+In der Atmosphäre befanden sich mit Stand 2017 ca. 850 Gt Kohlenstoff. Das sind rund 0,001 % des globalen Gesamt-Kohlenstoffes. Die Atmosphäre und die Biosphäre sind die kleinsten Kohlenstoffspeicher. Der Kohlenstoffgehalt der Atmosphäre reagiert also auf Änderung der Flussraten besonders empfindlich. Aufgrund biochemischer Vorgänge weist die Atmosphäre jedoch die höchsten Kohlenstoff-Flussraten auf und ist damit Bestandteil der kurzfristigen Kreisläufe.
+
+Die mengenmäßig dominierende Kohlenstoffverbindung (und Abbauprodukt weiterer Spurengase) ist das Kohlenstoffdioxid (CO2). Da durch die Verbrennung fossiler Energieträger seit Beginn der Industrialisierung den Stoffflüssen in der Umwelt zuvor langfristig gebundener Kohlenstoff als CO2 hinzugefügt wird, steigt die Konzentration von Kohlenstoffdioxid in der Erdatmosphäre. Sie betrug im Jahr 2017 406 ml/m³ (entspricht ppmv); ein Anstieg von ca. 130 Parts per million (ppm) gegenüber dem vorindustriellen Wert von knapp 280 ppm.
+
+Insgesamt wurden seit Beginn der Industrialisierung ca. 635 Gt Kohlenstoff (entspricht ca. 2300 Gt CO2) durch fossile Energieträger freigesetzt, von denen etwa knapp die Hälfte in der Atmosphäre verblieb und jeweils gut ein Viertel von Ozeanen und Landökosystemen aufgenommen wurde (Stand 2019).
+
+Weitere kohlenstoffhaltige Gase in der Atmosphäre sind Methan mit 1,7 ppm, das Kohlenmonoxid mit 50-200 ppb und die halogenierten Kohlenwasserstoffe mit ca. 0,7 ppb.
+
+Hydrosphäre
+
+Der Begriff der Hydrosphäre wurde in der Geschichte unterschiedlich verwendet und definiert. Teilweise verstand man darunter die Gesamtheit allen irdischen Wassers in allen Aggregatszuständen. Für den Kohlenstoffkreislauf ist nur das flüssige Wasser der Erdoberfläche relevant. Denn hier finden die Flüsse kohlenstoffhaltiger Gase und anderer Materialien statt. Modernere Definitionen von Hydrosphäre beschränken sich daher auf diesen Bereich. Nach dieser Definition enthält die Hydrosphäre 38.000 Gigatonnen Kohlenstoff,[5] wovon jedoch nur ein kleiner Teil (im Oberflächenwasser) in direktem Austausch mit der Atmosphäre steht, während sich über 97 % in der Tiefsee befinden.
+
+Die Polkappen, Eisschilde und Gletscher werden als Kryosphäre bezeichnet. In ihnen ist fossiles Kohlendioxid enthalten, das nicht am Kreislauf teilnimmt. Grundwasser wird zur Lithosphäre gerechnet, das Wasser im Erdboden zur Pedosphäre. Gasförmiges Wasser, also der Wasserdampf ist das wirksamste Treibhausgas und sorgt für den natürlichen Treibhauseffekt. Es gehört zur Atmosphäre.
+
+Lithosphäre
+
+Die Lithosphäre umfasst die äußeren festen Gesteinsschichten der Erde und stellt mit 99,95 % des globalen Gesamtkohlenstoffs den größten Kohlenstoffspeicher dar. Aufgrund der geringen Flussraten ist die Lithosphäre Bestandteil der langfristigen Kohlenstoffkreisläufe.
+
+Gashydrate sind Komplexe aus Wasser und Gas ohne feste chemische Verbindung. Wasser hat aufgrund der Wasserstoffbrückenbindung eine Art Gitterstruktur. Diese bietet Hohlräume oder Zwischenräume für andere Moleküle. Verschiedene Gase können diese Räume besetzen und mit dem Wasser einen räumlichen Komplex, das Gashydrat bilden. Natürliche Gashydrate bilden sich vor allem aus Methan, Kohlendioxid und Schwefelwasserstoff. Methanhydrate kommen auf dem Meeresboden oder in Lockersedimenten vor in einer Tiefe von 440 Meter bis 650 Meter. Nur in diesem Bereich sind die Temperatur- und Druckverhältnisse zu ihrer Bildung geeignet. Dort haben die Gashydrate dann eine feste Konsistenz.
+
+Biosphäre
+
+Der Begriff Biosphäre bezeichnet die Gesamtheit aller auf der Erde existierenden Lebewesen und den Raum in dem sie vorkommen.
+
+Das Leben auf der Erde basiert auf der Verwendung des Elements Kohlenstoff. Im Laufe der Evolution haben die Lebewesen die Fähigkeit erworben, daraus eine große Zahl unterschiedlicher Verbindungen und Produkte herzustellen. Sie machen sich die globalen Kohlenstoffkreisläufe zu Nutze, einzelne können sogar elementaren Kohlenstoff herstellen.
+
+Speicherformen des Kohlenstoffs in der Biosphäre sind vor allem organische Stoffe. 90 % der Biomasse besteht aus Polysacchariden. In der Reihenfolge der Häufigkeit sind dies Cellulose, Lignin und Chitin. Sie haben Strukturaufgaben bei Pflanzen, Pilzen und Gliederfüßern (hier als Außenskelette).
+
+Anorganische Kohlenstoffverbindungen haben nur einen geringen Anteil, beispielsweise Carbonate (in der Regel Calciumcarbonat CaCO3). Sie dienen als Baustoff für Außenskelette bei Mollusken, Foraminiferen und Coccolithophoridae, Innenskelette aus Carbonaten bei Korallen.
+
+Auf die Landlebewesen entfallen 700 GtC, auf die marinen Lebensformen 3 GtC. Insgesamt speichert die Biosphäre 703 GtC. Sie ist also ein kleiner Kohlenstoffspeicher. Wie bei der Atmosphäre sind jedoch die Kohlenstoff-Flüsse zu den anderen Systemen sehr lebhaft.
+
+Pedosphäre
+
+Als Pedospäre bezeichnet man die oberste Schicht der globalen Landflächen. Sie besteht aus Verwitterungsprodukten der Gesteine und aus organischem Material, dem Humus. Zusammen mit Wasser und Luft bietet sie Raum für verschiedene Lebensformen. Funktionell steht sie mit allen anderen Geosphären in Verbindung. Im Boden befindet sich mindestens die vierfache Menge Kohlenstoff wie in der Atmosphäre. Das Institut für Agrarwissenschaften −Fachbereich Bodenkunde− geht von einem globalen Kohlenstoffgehalt der Pedosphäre von 2500 Gt aus. Allein der weltweite C-Gehalt der Moore beträgt 900 Gt[21] Da sich ein großer Teil des im Boden gespeicherten Kohlenstoffs in Permafrostböden befindet, wird mit Fortschreiten der globalen Erwärmung und Abtauen der Permafrostböden ein Teil davon freigesetzt werden. Doch auch aus Böden in anderen Erdregionen können durch die globale Erwärmung zunehmend gewaltige Mengen Kohlenstoff freigesetzt werden. Der Boden Deutschlands (0-90 cm Tiefe) enthält 5 Gt C, die landwirtschaftlich genutzten Böden 2,4 Gt C und die Böden der Wälder 1,3 Gt C. Die größten Kohlenstoffvorräte befinden dabei sich in Böden unter Dauergrünland (181 Tonnen Kohlenstoff pro Hektar). Deutlich weniger ist es beim Waldboden (100tC/ha), dicht gefolgt vom Ackerboden (95tC/ha).

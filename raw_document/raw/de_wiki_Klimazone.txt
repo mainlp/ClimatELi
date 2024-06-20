@@ -1,0 +1,47 @@
+Klimazone
+
+Eine Klimazone (auch Klimagürtel) ist im engen Sinne ein (gedanklich konstruierter), sich parallel zu den Breitenkreisen in Ost-West-Richtung um die ganze Erde erstreckender (geozonaler) Bereich der Biosphäre, der durch mehrere bestimmte Klimatypen gekennzeichnet ist, die nur innerhalb dieser Zone vorkommen. Die Abgrenzung zu anderen Klimazonen erfolgt ausschließlich über gleichartige geophysikalische Bedingungen (Globalstrahlung, Lufttemperatur oder Wind- und Luftdruckgürtel), die eine direkte Folge der zonentypisch wechselnden Sonnenstände im Tages- und Jahresverlauf sind.
+
+Allein aus der Zuordnung eines geographischen Raumes zu einer (globalen) Klimazone lässt sich kein vollständiges Klima ableiten. Dies leistet erst die Untergliederung einer Zone durch sekundäre Klimaelemente und -faktoren wie Niederschlag oder Luftfeuchtigkeit. Dabei ergeben sich (in der Regel) für jede Zone mehrere Regionen gleichartiger Makroklimate, die sich zwischen der gedachten Nord- und Südgrenze einer Zone auf verschiedenen Kontinenten mehrfach wiederfinden und als Klimatypen bezeichnet werden. Allgemeine Bezeichnungen wie „tropisches-" oder "gemäßigtes Klima“ usw. sind daher immer unvollständig und müssten korrekterweise mindestens einen Hinweis auf die Niederschlagsverhältnisse enthalten (etwa „immerfeuchtes Tropenklima“ oder „trocken-kontinentales Klima der gemäßigten Zonen“).[A 1]
+
+Im weiteren Sinne wird der Klimazonenbegriff häufig auch als Synonym für die einzelnen Klimaregionen einer Zone verwendet (beispielsweise: USDA-Klimazonen oder Höhenzone im Gebirge) und verliert dadurch seinen eindeutig geozonalen Bezug. Diese unscharfe Verwendung des Zonenbegriffes auf Teilräume ist in Biogeographie, Geobotanik und Ökologie üblich (siehe etwa Ökozone oder Vegetationszone) und führt außerhalb der Wissenschaften häufig zu Missverständnissen.[A 2]
+
+Grundsätzlich werden zwei geozonale Klimazonenmodelle unterschieden: Die primären Beleuchtungsklimazonen – die nach der Sonneneinstrahlung und dem Strahlungshaushalt der Erde festgelegt werden – und die sekundären Thermischen Klimazonen (in Schulbüchern auch Temperaturzonen genannt)[A 3] – die insbesondere durch Lufttemperaturen (bestimmte Mittelwerte), Frost und Temperaturverläufe der Jahres- oder Tageszeitenklimata; nachrangig etwa durch die thermische Vegetationsperiode oder typische Luftdruck- und Windsysteme sowie Bewölkungsgrade – gebildet werden.
+
+Die Grundlage für die Tatsache, dass die durchschnittliche Wärmemenge auf der Erdoberfläche von den Polen in Richtung Äquator zunimmt, liegt an der Kugelgestalt der Erde, die je nach Breitenkreis unterschiedliche Einfallswinkel der Sonnenstrahlen bedingt (am Nord- und Südpol ganzjährig sehr tief, am Äquator ganzjährig sehr hoch). Damit nimmt die Strahlungsenergie (geomathematisch berechenbar) Richtung Äquator entsprechend zu. Dies ist die primäre Ursache für die Entstehung der unterschiedlichen Klimate auf dem Planeten.
+
+Klimazonen sind die Grundlage der meisten geografischen Klimamodelle, mit deren Hilfe eine erste Gliederung der Erde nach den thermischen Verhältnissen vorgenommen wird.
+
+Das Klima der Erde unterliegt einem steten Wandel, der sich in der Regel in sehr langen Zeiträumen von mehrere tausend bis Millionen von Jahren vollzieht. Die derzeit stattfindende, vom Menschen verursachte Klimaerwärmung wird zu einer ungewöhnlich schnellen Verschiebung der Klimazonen innerhalb weniger Jahrhunderte – und damit auch aller anderen Geozonen – führen. Obgleich die Übergänge fließend sind und der globale Maßstab enorm groß ist, wird es bei allen Szenarien des IPCC – insbesondere in den Mittelbreiten – zu Verschiebungen kommen, die zu einer Anpassung der Modelle zwingt: Beim bestdenkbaren Szenario etwa ab 2040 und bei Worst-Case ab 2020.
+
+Grundlagen der globalen Klimazonen
+
+Daten
+
+Da das Klima der Erde mehr oder weniger großen Schwankungen unterliegt, werden zur Abgrenzung der Klimazonen und aller untergeordneten Klimate die häufigsten, mittleren und extremen Werte aus Zeiträumen von mindestens 30 Jahren verwendet. Sie werden in der Meteorologie als Normalperiode bezeichnet.
+
+Gliederung der Klimazonen im Überblick
+
+Das lateinische Wort clima – griechisch κλίμα klíma – stand ursprünglich für die „Neigung der Erde vom Äquator gegen die Pole“ und gibt damit Beobachtungen wieder, die bereits in der griechischen Antike zur Einteilung der Erde in drei bestimmbare Klimazonen zwischen zwei geomathematisch bestimmbaren Breitenkreisen führte: Dem Sonnwendkreis, an dem die Sonne zur Sommersonnenwende im Zenit (senkrecht am Himmel) steht, während dies nördlich davon nicht vorkommt – und dem Polarkreis, auf dem die Sonne am Tag der Sommersonnenwende nicht untergeht. Folgerichtig wurde diese Abfolge bereits von den damaligen Denkern von der Nordhalbkugel auf die Südhalbkugel projiziert.
+
+So wurden die drei grundlegenden solaren Zonen begrenzt, die nach dem saisonalen Verlauf der Sonnenstände definiert werden. Mit neutralen Bezeichnungen:
+
+Niedere Breiten – zwischen den Wendekreisen nördlich und südlich des Äquators, mit ein bis (meistens) zwei zenitalen Sonnenständen im Jahr
+
+Hohe Breiten – von den Polarkreisen bis zu den geographischen Polen, mit polwärts zunehmend längerem Polartag/-nacht
+
+Mittelbreiten – zwischen den beiden Polar- und Wendekreisen, ohne zenitale Sonnenstände und ohne Polartag/-nacht
+
+Dies ist wohlgemerkt nur eine tabellarische Darstellung der häufigsten Bezeichnungen und Untergliederungen. Darüber hinaus gibt es weitere abweichende Bezeichnungen (die in den Artikeln zu den einzelnen Klimazonen genannt werden) und weitere Untergliederungen je nach Zielsetzung. So wird beispielsweise die Arktis für die „Circumpolar arctic vegetation map“ statt in zwei, in fünf Subklimazonen eingeteilt (vom Nordpol ausgehend: Hocharktis, nördliche Mittelarktis, südliche Mittelarktis, nördliche Niederarktis, südliche Niederarktis).
+
+Anordnung und Grenzverläufe
+
+Per Definition sind Klimazonen gürtelförmig, in den Polarregionen kreisförmig. Der Verlauf der Zonengrenzen ist modellabhängig konstruiert und gibt keine absoluten Verhältnisse wieder. Je nach Art der verwendeten Klima- oder „Hilfselemente“ (z. B. Lufttemperatur oder Vegetation) können sie aufgrund ausgedehnter Gebirge auch unterbrochen oder unregelmäßig verschoben sein (Zu den Problemen zusätzlicher Höhenklimate siehe beispielhaft die Abweichungen der Klimaklassifikation von Siegmund & Frankenberg gegenüber anderen Modellen).
+
+Bei genetischen Klassifikationsmodellen werden die Grenzen der Klimazonen aus großräumigen Klimafaktoren (vor allem Windsystemen) abgeleitet, die als Planetarische Zirkulation eine direkte Folge der Sonneneinstrahlung und der Erdrotation sind (siehe auch Corioliskraft). Diese Modelle orientieren sich eher an den Ursachen des Klimas.[A 4] Die Zonengrenzen sind aufgrund der jährlichen Dynamik des atmosphärischen Geschehens und einer „unscharfen“ Datenlage durch schwer zu verortende Messungen nur vage.
+
+Für effektive Klassifikationen werden die Grenzen der Klimazonen (und der untergeordneten Klimaregionen) mit Hilfe der Wirkungen des Klimas am Boden ermittelt, indem die umfangreichen Daten lokaler Wetterstationen genutzt werden. Außerdem wird häufig auf die Verbreitung bestimmter Pflanzenformationen zurückgegriffen, die einen Rückschluss auf die sehr langfristigen Temperatur- und Klimabedingungen in deren Wuchsgebieten zulassen.[A 4] Dadurch entsteht eine deutliche Übereinstimmung solcher konstruierter Klimatypenmodelle mit den tatsächlichen Vegetationszonen.
+
+Die jüngste Form der Klimaklassifikation ist der integrative Ansatz, für den sowohl genetische als auch effektive Grundlagen verwendet werden.
+
+Die geomathematisch definierten Wende- und Polarkreise suggerieren relativ plötzliche Übergänge zwischen den Beleuchtungsklimazonen. Noch deutlicher erscheint dies beim Blick auf die Grenzlinien in Klimazonenkarten. Tatsächlich sind die Übergänge bei den solaren Zonen vollkommen „stufenlos“ ineinander übergehend. Die große Gleichmäßigkeit macht es andererseits wiederum einfacher, sie im Modell „künstlich“ voneinander abzugrenzen als bei den thermischen Modellen. Die Übergänge sind dort zwar ebenfalls fließend, jedoch führen die komplexeren Grundlagen zu großen Unterschieden: So ist etwa der Wechsel von den Tropen in die Subtropen thermisch nur schwer fassbar und hat bei verschiedenen Ansätzen ganz unterschiedliche Grenzverläufe, während Hochgebirge viel schmalere Übergangsräume verursachen (vgl. Karte der Klimazonen).

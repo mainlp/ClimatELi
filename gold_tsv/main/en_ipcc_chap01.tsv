@@ -1,0 +1,1169 @@
+Chapter	NOUN	B	Chapter_(books)
+1	NUM	O
+Introduction	NOUN	B	Introduction_(writing)
+and	CCONJ	O
+Framing	NOUN	B	Framing_(social_sciences)
+
+Executive	ADJ	B	Executive_summary
+Summary	NOUN	I	Executive_summary
+
+Global	ADJ	O
+greenhouse	NOUN	B	Greenhouse_gas
+gas	NOUN	I	Greenhouse_gas
+(	PUNCT	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+)	PUNCT	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+continued	VERB	O
+to	PART	O
+rise	VERB	O
+to	ADP	O
+2019	NUM	O
+:	PUNCT	O
+the	DET	O
+aggregate	ADJ	O
+reductions	NOUN	O
+implied	VERB	B	Implicature
+by	ADP	O
+current	ADJ	O
+Nationally	ADV	B	Nationally_determined_contribution
+Determined	VERB	I	Nationally_determined_contribution
+Contributions	PROPN	I	Nationally_determined_contribution
+(	PUNCT	I	Nationally_determined_contribution
+NDCs	PROPN	I	Nationally_determined_contribution
+)	PUNCT	I	Nationally_determined_contribution
+to	ADP	O
+2030	NUM	B	2030s
+would	AUX	O
+still	ADV	O
+make	VERB	O
+it	PRON	O
+impossible	ADJ	B	Impossibility
+to	PART	O
+limit	VERB	B	Climate_change_mitigation
+warming	NOUN	I	Climate_change_mitigation
+to	ADP	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+with	ADP	O
+no	DET	O
+or	CCONJ	O
+limited	ADJ	O
+overshoot	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+would	AUX	O
+only	ADV	O
+be	AUX	O
+compatible	ADJ	O
+with	SCONJ	O
+likely	ADV	O
+limiting	VERB	B	Climate_change_mitigation
+warming	NOUN	I	Climate_change_mitigation
+below	ADP	O
+2	NUM	O
+°C	NOUN	B	Celsius
+if	SCONJ	B	If_and_only_if
+followed	VERB	O
+by	ADP	O
+much	ADV	O
+steeper	ADJ	O
+decline	NOUN	O
+,	PUNCT	O
+hence	ADV	O
+limiting	VERB	B	Climate_change_mitigation
+warming	NOUN	I	Climate_change_mitigation
+to	ADP	O
+either	CCONJ	O
+level	NOUN	O
+implies	VERB	O
+accelerated	VERB	B	Acceleration
+mitigation	NOUN	B	Climate_change_mitigation
+actions	NOUN	I	Climate_change_mitigation
+at	ADP	O
+all	DET	O
+scales	NOUN	B	Weighing_scale
+.	PUNCT	O
+
+Since	ADP	O
+the	DET	O
+IPCC	PROPN	B	IPCC_Fifth_Assessment_Report
+'s	PART	I	IPCC_Fifth_Assessment_Report
+Fifth	ADJ	I	IPCC_Fifth_Assessment_Report
+Assessment	PROPN	I	IPCC_Fifth_Assessment_Report
+Report	PROPN	I	IPCC_Fifth_Assessment_Report
+(	PUNCT	O
+AR5	PROPN	B	IPCC_Fifth_Assessment_Report
+)	PUNCT	O
+,	PUNCT	O
+important	ADJ	O
+changes	NOUN	O
+that	PRON	O
+have	AUX	O
+emerged	VERB	B	Emergence
+include	VERB	O
+the	DET	O
+specific	ADJ	O
+objectives	NOUN	B	Goal
+established	VERB	O
+in	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+of	ADP	I	Paris_Agreement
+2015	NUM	I	Paris_Agreement
+(	PUNCT	O
+for	ADP	O
+temperature	NOUN	B	Temperature
+,	PUNCT	O
+adaptation	NOUN	B	Climate_change_adaptation
+and	CCONJ	O
+finance	NOUN	B	Finance
+)	PUNCT	O
+,	PUNCT	O
+rising	VERB	O
+climate	NOUN	B	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+higher	ADJ	O
+levels	NOUN	O
+of	ADP	O
+societal	ADJ	B	Society
+awareness	NOUN	B	Awareness
+and	CCONJ	O
+support	NOUN	O
+for	ADP	O
+climate	NOUN	B	Climate_change_mitigation
+action	NOUN	I	Climate_change_mitigation
+.	PUNCT	O
+
+The	DET	O
+growth	NOUN	O
+of	ADP	O
+global	ADJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+has	AUX	O
+slowed	VERB	O
+over	ADP	O
+the	DET	B	Past
+past	ADJ	I	Past
+decade	NOUN	B	Decade
+,	PUNCT	O
+and	CCONJ	O
+delivering	VERB	O
+the	DET	O
+updated	VERB	O
+NDCs	NOUN	B	Nationally_determined_contribution
+to	ADP	O
+2030	NUM	B	2030s
+would	AUX	O
+turn	VERB	O
+this	PRON	O
+into	ADP	O
+decline	NOUN	O
+,	PUNCT	O
+but	CCONJ	O
+the	DET	O
+implied	VERB	B	Implicature
+global	ADJ	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+by	ADP	O
+2030	NUM	B	2030s
+exceed	VERB	O
+pathways	NOUN	O
+consistent	ADJ	B	Consistency
+with	ADP	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+by	ADP	O
+a	DET	O
+large	ADJ	O
+margin	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+are	AUX	O
+near	ADP	O
+the	DET	O
+upper	ADJ	O
+end	NOUN	O
+of	ADP	O
+the	DET	O
+range	NOUN	O
+of	ADP	O
+modelled	VERB	O
+pathways	NOUN	O
+which	PRON	O
+keep	VERB	O
+temperatures	NOUN	B	Temperature
+likely	ADV	O
+limit	VERB	B	Climate_change_mitigation
+warming	NOUN	I	Climate_change_mitigation
+to	ADP	O
+2	NUM	O
+°C	NOUN	B	Celsius
+(	PUNCT	O
+with	ADP	O
+>	SYM	O
+65	NUM	O
+%	SYM	B	Percentage
+probability	NOUN	B	Probability
+)	PUNCT	O
+.	PUNCT	O
+
+Continuing	VERB	O
+investments	NOUN	B	Investment
+in	ADP	O
+carbon	NOUN	B	Emission_intensity
+-	PUNCT	I	Emission_intensity
+intensive	ADJ	I	Emission_intensity
+activities	NOUN	I	Emission_intensity
+at	ADP	O
+scale	NOUN	O
+will	AUX	O
+heighten	VERB	O
+the	DET	O
+multitude	NOUN	B	Multitude
+of	ADP	O
+risks	NOUN	B	Risk
+associated	VERB	B	Correlation
+with	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+and	CCONJ	O
+impede	VERB	O
+societal	ADJ	O
+and	CCONJ	O
+industrial	ADJ	O
+transformation	NOUN	O
+towards	ADP	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+development	NOUN	O
+.	PUNCT	O
+
+Meeting	VERB	O
+the	DET	O
+longterm	ADJ	O
+temperature	NOUN	B	Temperature
+objective	NOUN	B	Goal
+in	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+therefore	ADV	O
+implies	VERB	B	Logical_consequence
+a	DET	O
+rapid	ADJ	B	Tachycardia
+turn	NOUN	B	Turn_(angle)
+to	ADP	O
+an	DET	O
+accelerating	VERB	B	Acceleration
+decline	NOUN	O
+of	ADP	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	B	Greenhouse_gas_emissions
+towards	ADP	O
+‘	PUNCT	O
+net	ADJ	B	Carbon_neutrality
+zero	NUM	I	Carbon_neutrality
+'	PUNCT	O
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+implausible	ADJ	O
+without	ADP	O
+urgent	ADJ	O
+and	CCONJ	O
+ambitious	ADJ	O
+action	NOUN	O
+at	ADP	O
+all	DET	O
+scales	NOUN	B	Weighing_scale
+.	PUNCT	O
+
+The	DET	O
+unprecedented	ADJ	O
+COVID	PROPN	B	COVID-19_pandemic
+-	PUNCT	I	COVID-19_pandemic
+19	NUM	I	COVID-19_pandemic
+pandemic	NOUN	I	COVID-19_pandemic
+has	AUX	O
+had	VERB	O
+far	ADV	O
+-	PUNCT	O
+reaching	VERB	O
+impacts	NOUN	B	Effects_of_climate_change
+on	ADP	O
+the	DET	O
+global	ADJ	O
+economic	ADJ	B	Economic_growth
+and	CCONJ	O
+social	ADJ	B	Social_system
+system	NOUN	I	Social_system
+,	PUNCT	O
+and	CCONJ	O
+recovery	NOUN	O
+will	AUX	O
+present	VERB	O
+both	CCONJ	O
+challenges	NOUN	O
+and	CCONJ	O
+opportunities	NOUN	O
+for	ADP	O
+climate	NOUN	B	Climate_change_mitigation
+mitigation	NOUN	I	Climate_change_mitigation
+.	PUNCT	O
+
+While	SCONJ	O
+there	PRON	O
+are	VERB	O
+some	DET	O
+trade	NOUN	B	Trade-off
+-	PUNCT	I	Trade-off
+offs	NOUN	I	Trade-off
+,	PUNCT	O
+effective	ADJ	O
+and	CCONJ	O
+equitable	ADJ	O
+climate	NOUN	B	Climate_change_mitigation
+policies	NOUN	I	Climate_change_mitigation
+are	AUX	O
+largely	ADV	O
+compatible	ADJ	O
+with	ADP	O
+the	DET	O
+broader	ADJ	O
+goal	NOUN	B	Goal
+of	ADP	O
+sustainable	ADJ	B	Sustainable_development
+development	NOUN	I	Sustainable_development
+and	CCONJ	O
+efforts	NOUN	O
+to	PART	O
+eradicate	VERB	B	Poverty_reduction
+poverty	NOUN	I	Poverty_reduction
+as	SCONJ	O
+enshrined	VERB	B	Shrine
+in	ADP	O
+the	DET	O
+17	NUM	O
+Sustainable	ADJ	B	Sustainable_development
+Development	PROPN	I	Sustainable_development
+Goals	PROPN	B	Goal
+(	PUNCT	O
+SDGs	PROPN	B	Sustainable_Development_Goals
+)	PUNCT	O
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_change
+mitigation	NOUN	B	Climate_change_mitigation
+is	AUX	O
+one	NUM	O
+of	ADP	O
+many	ADJ	O
+goals	NOUN	B	Goal
+that	PRON	O
+societies	NOUN	B	Society
+pursue	VERB	O
+in	ADP	O
+the	DET	O
+context	NOUN	B	Context_(language_use)
+of	ADP	O
+sustainable	ADJ	B	Sustainable_development
+development	NOUN	O
+,	PUNCT	O
+as	SCONJ	O
+evidenced	VERB	O
+by	ADP	O
+the	DET	O
+wide	ADJ	B	Wide_area_network
+range	NOUN	O
+of	ADP	O
+the	DET	O
+SDGs	PROPN	B	Sustainable_Development_Goals
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_change
+mitigation	NOUN	B	Climate_change_mitigation
+has	VERB	O
+synergies	NOUN	B	Synergy
+and	CCONJ	O
+/	SYM	O
+or	CCONJ	O
+trade	NOUN	B	Trade-off
+-	PUNCT	I	Trade-off
+offs	NOUN	I	Trade-off
+with	ADP	O
+many	ADJ	O
+other	ADJ	O
+SDGs	NOUN	B	Sustainable_Development_Goals
+.	PUNCT	O
+
+There	PRON	B	There_(virtual_world)
+has	AUX	O
+been	VERB	O
+a	DET	O
+strong	ADJ	B	Base_(chemistry)
+relationship	NOUN	B	Correlation
+between	ADP	O
+development	NOUN	O
+and	CCONJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	B	Greenhouse_gas_emissions
+,	PUNCT	O
+as	SCONJ	O
+historically	ADV	B	History
+both	CCONJ	O
+per	ADP	B	Persian_language
+capita	NOUN	B	Capita
+and	CCONJ	O
+absolute	ADJ	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+have	AUX	O
+risen	VERB	B	Resurrection
+with	ADP	O
+industrialisation	NOUN	B	Industrialisation
+.	PUNCT	O
+
+However	ADV	B	However_(song)
+,	PUNCT	O
+recent	ADJ	B	Holocene
+evidence	NOUN	B	Scientific_method
+shows	VERB	B	Performance
+countries	NOUN	B	Sovereign_state
+can	AUX	B	Canning
+grow	VERB	B	Economic_growth
+their	PRON	O
+economies	NOUN	B	Economy
+while	SCONJ	O
+reducing	VERB	B	Redox
+emissions	NOUN	B	Greenhouse_gas_emissions
+.	PUNCT	O
+
+Countries	NOUN	B	Countries_of_the_United_Kingdom
+have	VERB	O
+different	ADJ	B	Difference_(philosophy)
+priorities	NOUN	B	Prioritization
+in	SCONJ	O
+achieving	VERB	O
+the	DET	O
+SDGs	PROPN	B	Sustainable_Development_Goals
+and	CCONJ	O
+reducing	VERB	B	Redox
+emissions	NOUN	B	Greenhouse_gas_emissions
+as	SCONJ	O
+informed	VERB	B	Informed_consent
+by	ADP	O
+their	PRON	O
+respective	ADJ	O
+national	ADJ	O
+conditions	NOUN	B	Disease
+and	CCONJ	O
+capabilities	NOUN	B	Capability_approach
+.	PUNCT	O
+
+Given	VERB	B	Shay_Given
+the	DET	O
+differences	NOUN	B	Sexual_dimorphism
+in	ADP	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	B	Greenhouse_gas_emissions
+contributions	NOUN	B	Donation
+,	PUNCT	O
+degree	NOUN	B	Academic_degree
+of	ADP	O
+vulnerabilities	NOUN	B	Vulnerability
+and	CCONJ	O
+impacts	NOUN	B	Effects_of_climate_change
+,	PUNCT	O
+as	ADV	O
+well	ADV	O
+as	ADP	O
+capacities	NOUN	B	Nameplate_capacity
+within	ADP	O
+and	CCONJ	O
+between	ADP	O
+nations	NOUN	B	Sovereign_state
+,	PUNCT	O
+equity	NOUN	B	Justice
+and	CCONJ	O
+justice	NOUN	B	Social_justice
+are	AUX	O
+important	ADJ	B	Important_Bird_Area
+considerations	NOUN	O
+for	ADP	O
+effective	ADJ	O
+climate	NOUN	B	Climate_change_mitigation
+policy	NOUN	B	Policy
+and	CCONJ	O
+for	SCONJ	O
+securing	VERB	O
+national	ADJ	O
+and	CCONJ	O
+international	ADJ	O
+support	NOUN	O
+for	ADP	O
+deep	ADJ	O
+decarbonisation	NOUN	B	Climate_change_mitigation
+.	PUNCT	O
+
+Achieving	VERB	O
+sustainable	ADJ	B	Sustainable_development
+global	ADJ	B	International_development
+development	NOUN	I	International_development
+and	CCONJ	O
+eradicating	VERB	O
+poverty	NOUN	B	Poverty
+as	SCONJ	O
+enshrined	VERB	B	Shrine
+in	ADP	O
+the	DET	O
+17	NUM	O
+SDGS	PROPN	O
+would	AUX	O
+involve	VERB	O
+effective	ADJ	O
+and	CCONJ	O
+equitable	ADJ	B	Equity_(economics)
+climate	NOUN	B	Climate_change_mitigation
+policies	NOUN	B	Policy
+at	ADP	O
+all	DET	O
+levels	NOUN	B	Hierarchy
+from	ADP	O
+local	ADJ	O
+to	ADP	O
+global	ADJ	O
+scale	NOUN	O
+.	PUNCT	O
+
+Failure	NOUN	B	Failure
+to	PART	O
+address	VERB	B	Public_speaking
+questions	NOUN	B	Prime_Minister%27s_Questions
+of	ADP	O
+equity	NOUN	B	Justice
+and	CCONJ	O
+justice	NOUN	B	Social_justice
+over	ADP	O
+time	NOUN	O
+can	AUX	B	Canning
+undermine	VERB	B	Tunnel_warfare
+social	ADJ	B	Group_cohesiveness
+cohesion	NOUN	I	Group_cohesiveness
+and	CCONJ	O
+stability	NOUN	O
+.	PUNCT	O
+
+International	ADJ	B	Multilateralism
+cooperation	NOUN	I	Multilateralism
+can	AUX	B	Canning
+enhance	VERB	B	Human_enhancement
+efforts	NOUN	B	Linguistic_purism
+to	PART	O
+achieve	VERB	O
+ambitious	ADJ	B	Ambition_(character_trait)
+global	ADJ	B	Climate_change
+climate	NOUN	I	Climate_change
+mitigation	NOUN	B	Climate_change_mitigation
+in	ADP	O
+the	DET	O
+context	NOUN	B	Context_(language_use)
+of	ADP	O
+sustainable	ADJ	B	Sustainable_development
+development	NOUN	O
+.	PUNCT	O
+
+The	DET	B	Spanish_transition_to_democracy
+transition	NOUN	I	Spanish_transition_to_democracy
+to	ADP	O
+a	DET	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+economy	NOUN	B	Economy
+depends	VERB	B	Speed_of_sound
+on	ADP	O
+a	DET	O
+wide	ADJ	B	Wide_area_network
+range	NOUN	O
+of	ADP	O
+closely	ADV	O
+intertwined	VERB	O
+drivers	NOUN	B	Driver%27s_license
+and	CCONJ	O
+constraints	NOUN	B	Relational_database
+,	PUNCT	O
+including	VERB	O
+policies	NOUN	B	Policy
+and	CCONJ	O
+technologies	NOUN	B	Technology
+where	ADV	O
+notable	ADJ	B	Notability
+advances	NOUN	B	Advance_payment
+over	ADP	O
+the	DET	B	Past
+past	ADJ	I	Past
+decade	NOUN	B	Decade_(log_scale)
+have	AUX	O
+opened	VERB	B	Chinese_economic_reform
+up	ADP	I	Chinese_economic_reform
+new	ADJ	O
+and	CCONJ	O
+large	ADJ	B	Integrated_circuit
+-	PUNCT	I	Integrated_circuit
+scale	NOUN	I	Integrated_circuit
+opportunities	NOUN	B	Equal_opportunity
+for	ADP	O
+deep	ADJ	O
+decarbonisation	NOUN	B	Low-carbon_economy
+,	PUNCT	O
+and	CCONJ	O
+for	ADP	O
+alternative	ADJ	B	Renewable_energy
+development	NOUN	O
+pathways	NOUN	B	Metabolic_pathway
+which	PRON	O
+could	AUX	O
+deliver	VERB	B	Childbirth
+multiple	ADJ	B	Multiple_unit
+social	ADJ	O
+and	CCONJ	O
+developmental	ADJ	O
+goals	NOUN	B	Goal
+(	PUNCT	O
+robust	ADJ	B	Robust_statistics
+evidence	NOUN	B	Scientific_method
+,	PUNCT	O
+medium	ADJ	B	Mass_media
+agreement	NOUN	O
+)	PUNCT	O
+.	PUNCT	O
+
+Drivers	NOUN	B	Driving
+for	ADP	O
+and	CCONJ	O
+constraints	NOUN	B	Relational_database
+against	ADP	B	Opposition_to_United_States_involvement_in_the_Vietnam_War
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+societal	ADJ	B	Society
+transition	NOUN	O
+comprise	VERB	O
+economic	ADJ	B	Economy
+and	CCONJ	O
+technological	ADJ	B	Technology
+factors	NOUN	O
+(	PUNCT	O
+the	DET	O
+means	NOUN	B	Wealth
+by	ADP	O
+which	PRON	O
+services	NOUN	B	Service_(economics)
+such	ADJ	O
+as	ADP	B	Fish_as_food
+food	NOUN	I	Fish_as_food
+,	PUNCT	O
+heating	NOUN	B	Heat
+and	CCONJ	O
+shelter	NOUN	B	Housing
+are	AUX	O
+provided	VERB	B	Canonical_provision
+and	CCONJ	O
+for	ADP	O
+whom	PRON	O
+,	PUNCT	O
+the	DET	O
+emissions	NOUN	B	Emission_intensity
+intensity	NOUN	B	Irradiance
+of	ADP	O
+traded	VERB	B	Trade
+products	NOUN	B	Production_(economics)
+,	PUNCT	O
+finance	NOUN	B	Finance
+,	PUNCT	O
+and	CCONJ	O
+investment	NOUN	B	Investment
+)	PUNCT	O
+,	PUNCT	O
+socio	ADJ	B	Political_sociology
+-	PUNCT	I	Political_sociology
+political	ADJ	I	Political_sociology
+issues	NOUN	B	Social_issue
+(	PUNCT	O
+political	ADJ	B	Politics
+economy	NOUN	B	Economy
+,	PUNCT	O
+equity	NOUN	B	Justice
+and	CCONJ	O
+fairness	NOUN	B	Social_justice
+,	PUNCT	O
+social	ADJ	B	Social_innovation
+innovation	NOUN	I	Social_innovation
+and	CCONJ	O
+behaviour	NOUN	B	Behavior
+change	NOUN	O
+)	PUNCT	O
+,	PUNCT	O
+and	CCONJ	O
+institutional	ADJ	B	Institution
+factors	NOUN	O
+(	PUNCT	O
+legal	ADJ	B	Law
+framework	NOUN	B	Conceptual_framework
+and	CCONJ	O
+institutions	NOUN	B	Institution
+,	PUNCT	O
+and	CCONJ	O
+the	DET	O
+quality	NOUN	B	Quality_control
+of	ADP	O
+international	ADJ	B	International_relations
+cooperation	NOUN	I	International_relations
+)	PUNCT	O
+.	PUNCT	O
+
+In	ADP	O
+addition	NOUN	B	Addition
+to	SCONJ	O
+being	AUX	O
+deeply	ADV	O
+intertwined	VERB	O
+all	DET	O
+the	DET	O
+factors	NOUN	O
+matter	VERB	B	Matter
+to	ADP	B	Rhenish_fan
+varying	ADJ	I	Rhenish_fan
+degrees	NOUN	I	Rhenish_fan
+,	PUNCT	O
+depending	VERB	O
+on	ADP	O
+the	DET	O
+prevailing	VERB	B	Prevailing_winds
+social	ADJ	O
+,	PUNCT	O
+economic	ADJ	B	Economy
+,	PUNCT	O
+cultural	ADJ	B	Culture
+and	CCONJ	O
+political	ADJ	B	Politics
+context	NOUN	B	Context_(language_use)
+.	PUNCT	O
+
+They	PRON	O
+often	ADV	O
+exert	VERB	O
+both	CCONJ	O
+push	VERB	B	Push%e2%80%93pull_strategy
+and	CCONJ	O
+pull	VERB	B	Batting_(cricket)
+forces	NOUN	B	Military
+at	ADP	O
+the	DET	O
+same	ADJ	B	Sailing_at_the_2004_Summer_Olympics_%e2%80%93_Women%27s_Mistral_One_Design
+time	NOUN	O
+,	PUNCT	O
+within	ADP	O
+and	CCONJ	O
+across	ADP	B	Inner_German_border
+different	ADJ	B	Difference_(philosophy)
+scales	NOUN	B	Scalability
+.	PUNCT	O
+
+The	DET	B	Development_of_The_Last_of_Us_Part_II
+development	NOUN	I	Development_of_The_Last_of_Us_Part_II
+and	CCONJ	O
+deployment	NOUN	B	Implementation
+of	ADP	O
+innovative	ADJ	B	Innovation
+technologies	NOUN	B	Technology
+and	CCONJ	O
+systems	NOUN	B	Economy
+at	ADP	O
+scale	NOUN	O
+are	AUX	O
+important	ADJ	B	First-class_cricket
+for	SCONJ	O
+achieving	VERB	O
+deep	ADJ	O
+decarbonisation	NOUN	B	Low-carbon_economy
+.	PUNCT	O
+
+In	ADP	O
+recent	ADJ	B	Holocene
+years	NOUN	O
+,	PUNCT	O
+the	DET	O
+cost	NOUN	B	Cost
+of	ADP	O
+several	ADJ	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+technologies	NOUN	B	Technology
+has	AUX	O
+declined	VERB	B	Declension
+sharply	ADV	O
+,	PUNCT	O
+alongside	ADP	O
+rapid	ADJ	B	Tachycardia
+deployment	NOUN	B	Implementation
+.	PUNCT	O
+
+Over	ADV	O
+20	NUM	O
+countries	NOUN	B	Sovereign_state
+have	AUX	O
+also	ADV	O
+sustained	VERB	B	Sustainability
+emission	NOUN	B	Air_pollution
+reductions	NOUN	B	Reductions
+,	PUNCT	O
+and	CCONJ	O
+many	ADJ	O
+more	ADJ	O
+have	AUX	O
+accelerated	VERB	B	Acceleration
+energy	NOUN	B	Energy
+efficiency	NOUN	O
+and	CCONJ	O
+/	SYM	O
+or	CCONJ	O
+land	NOUN	B	Land_use
+-	PUNCT	I	Land_use
+use	NOUN	I	Land_use
+improvements	NOUN	B	Land_development
+.	PUNCT	O
+
+Overall	ADV	O
+,	PUNCT	O
+however	ADV	O
+,	PUNCT	O
+the	DET	O
+global	ADJ	O
+contribution	NOUN	B	Donation
+is	AUX	O
+so	ADV	B	So_(dairy_product)
+far	ADV	O
+modest	ADJ	B	Humility
+,	PUNCT	O
+at	ADP	O
+a	DET	O
+few	ADJ	O
+billion	NUM	B	Billion
+tonnes	NOUN	B	Tonne
+(	PUNCT	O
+tCO2	NOUN	O
+-	PUNCT	O
+eq	NOUN	O
+)	PUNCT	O
+of	ADP	O
+avoided	VERB	B	Constitutional_avoidance
+emissions	NOUN	B	Emission_intensity
+annually	ADV	B	Annual_publication
+.	PUNCT	O
+
+Accelerating	VERB	O
+mitigation	NOUN	B	Climate_change_mitigation
+to	PART	O
+prevent	VERB	B	Preventive_healthcare
+dangerous	ADJ	B	Risk
+anthropogenic	ADJ	B	Human_impact_on_the_environment
+interference	NOUN	B	Wind_farm
+within	ADP	O
+the	DET	O
+climate	NOUN	B	Climate_change_mitigation
+system	NOUN	B	System
+will	AUX	O
+require	VERB	O
+the	DET	B	Cultural_assimilation
+integration	NOUN	I	Cultural_assimilation
+of	ADP	O
+broadened	VERB	O
+assessment	NOUN	B	Risk_assessment
+frameworks	NOUN	B	Software_framework
+and	CCONJ	O
+tools	NOUN	B	Tool
+that	PRON	O
+combine	VERB	B	Combine_harvester
+multiple	ADJ	B	Star_system
+perspectives	NOUN	B	Perspective_(graphical)
+,	PUNCT	O
+applied	VERB	B	Chemistry
+in	ADP	O
+a	DET	O
+context	NOUN	B	Context_(language_use)
+of	ADP	O
+multi-	ADJ	B	Bilevel_rail_car
+level	NOUN	I	Bilevel_rail_car
+governance	NOUN	B	Governance
+(	PUNCT	O
+robust	ADJ	B	Robust_statistics
+evidence	NOUN	B	Scientific_method
+,	PUNCT	O
+medium	ADJ	B	Mass_media
+agreement	NOUN	O
+)	PUNCT	O
+.	PUNCT	O
+
+Analysing	VERB	O
+a	DET	O
+challenge	NOUN	B	Tackle_(football_move)
+on	ADP	O
+the	DET	O
+scale	NOUN	O
+of	SCONJ	O
+fully	ADV	O
+decarbonising	VERB	B	Climate_change_mitigation
+our	PRON	B	Royal_we
+economies	NOUN	B	Economics
+entails	VERB	B	Logical_consequence
+integration	NOUN	O
+of	ADP	O
+multiple	ADJ	B	Star_system
+analytic	ADJ	O
+frameworks	NOUN	B	Software_framework
+.	PUNCT	O
+
+Approaches	NOUN	B	Hermeneutics
+to	ADP	O
+risk	NOUN	B	Risk_assessment
+assessment	NOUN	B	Risk_assessment
+and	CCONJ	O
+resilience	NOUN	B	Energy_development
+,	PUNCT	O
+established	VERB	O
+across	ADP	B	Inner_German_border
+IPCC	PROPN	B	Intergovernmental_Panel_on_Climate_Change
+Working	PROPN	B	Working_dog
+Groups	PROPN	B	Group_(mathematics)
+,	PUNCT	O
+are	AUX	O
+complemented	VERB	B	Complemented_lattice
+by	ADP	O
+frameworks	NOUN	B	Software_framework
+for	SCONJ	O
+probing	VERB	O
+the	DET	O
+challenges	NOUN	B	Internet_challenge
+in	SCONJ	O
+implementing	VERB	B	Implementation
+mitigation	NOUN	B	Climate_change_mitigation
+.	PUNCT	O
+
+Aggregate	ADJ	B	Aggregate_data
+frameworks	NOUN	B	Software_framework
+include	VERB	B	Include_directive
+cost	NOUN	B	Cost-effectiveness_analysis
+-	PUNCT	I	Cost-effectiveness_analysis
+effectiveness	NOUN	I	Cost-effectiveness_analysis
+analysis	NOUN	B	Analysis
+towards	ADP	O
+given	VERB	O
+objectives	NOUN	B	Goal
+,	PUNCT	O
+and	CCONJ	O
+cost	NOUN	B	Cost%e2%80%93benefit_analysis
+-	PUNCT	I	Cost%e2%80%93benefit_analysis
+benefit	NOUN	I	Cost%e2%80%93benefit_analysis
+analysis	NOUN	B	Analysis
+,	PUNCT	O
+both	DET	O
+of	ADP	O
+which	PRON	O
+have	AUX	O
+been	AUX	O
+developing	VERB	B	Developing_country
+to	PART	O
+take	VERB	B	Take
+fuller	ADJ	B	Fulling
+account	NOUN	B	Accounting
+of	ADP	O
+advances	NOUN	B	Advance_payment
+in	ADP	O
+understanding	NOUN	B	Understanding
+risks	NOUN	B	Risk
+and	CCONJ	O
+innovation	NOUN	B	Innovation
+,	PUNCT	O
+the	DET	O
+dynamics	NOUN	B	Meteorology
+of	ADP	O
+emitting	NOUN	O
+systems	NOUN	B	Economy
+and	CCONJ	O
+of	ADP	O
+climate	NOUN	B	Climate_change_mitigation
+impacts	NOUN	B	Effects_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+welfare	NOUN	B	Quality_of_life
+economic	ADJ	B	Economics
+theory	NOUN	B	Theory
+including	VERB	O
+growing	VERB	B	Economic_growth
+consensus	NOUN	B	Democracy
+on	ADP	O
+long	ADJ	B	Chronic_condition
+-	PUNCT	I	Chronic_condition
+term	NOUN	I	Chronic_condition
+discounting	NOUN	B	Discounting
+.	PUNCT	O
+
+Ethical	ADJ	B	Ethics
+frameworks	NOUN	B	Software_framework
+consider	VERB	O
+the	DET	O
+fairness	NOUN	B	Social_justice
+of	ADP	O
+processes	NOUN	B	Scientific_method
+and	CCONJ	O
+outcomes	NOUN	B	Prognosis
+which	PRON	O
+can	AUX	B	Canning
+help	VERB	B	Help_(command)
+ameliorate	VERB	B	Land_development
+distributional	ADJ	B	Distribution_(economics)
+impacts	NOUN	B	Effects_of_climate_change
+across	ADP	B	Inner_German_border
+income	NOUN	B	Gross_domestic_product
+groups	NOUN	B	Social_group
+,	PUNCT	O
+countries	NOUN	B	Sovereign_state
+and	CCONJ	O
+generations	NOUN	B	Generation
+.	PUNCT	O
+
+Transition	NOUN	B	Transition_economy
+and	CCONJ	O
+transformation	NOUN	O
+frameworks	NOUN	B	Software_framework
+explain	VERB	B	Explanation
+and	CCONJ	O
+evaluate	VERB	B	Evaluation
+the	DET	O
+dynamics	NOUN	B	Meteorology
+of	ADP	O
+transitions	NOUN	O
+to	ADP	O
+low	ADJ	B	Low-carbon_economy
+-	PUNCT	I	Low-carbon_economy
+carbon	NOUN	I	Low-carbon_economy
+systems	NOUN	B	Economy
+arising	VERB	O
+from	ADP	O
+interactions	NOUN	O
+amongst	ADP	O
+levels	NOUN	B	Hierarchy
+,	PUNCT	O
+with	ADP	O
+inevitable	ADJ	O
+resistance	NOUN	O
+from	ADP	O
+established	VERB	O
+socio	ADJ	B	Sociotechnical_system
+-	PUNCT	I	Sociotechnical_system
+technical	ADJ	I	Sociotechnical_system
+structures	NOUN	B	Structure
+.	PUNCT	O
+
+Psychological	ADJ	B	Psychology
+,	PUNCT	O
+behavioural	ADJ	B	Behavior
+and	CCONJ	O
+political	ADJ	B	Politics
+frameworks	NOUN	B	Software_framework
+outline	VERB	B	Outline_(list)
+the	DET	O
+constraints	NOUN	B	Relational_database
+(	PUNCT	O
+and	CCONJ	O
+opportunities	NOUN	B	Equal_opportunity
+)	PUNCT	O
+arising	VERB	O
+from	ADP	O
+human	ADJ	B	Psychology
+psychology	NOUN	I	Psychology
+and	CCONJ	O
+the	DET	O
+power	NOUN	O
+of	ADP	O
+incumbent	ADJ	B	Barack_Obama
+interests	NOUN	B	Interest
+.	PUNCT	O
+
+A	DET	O
+comprehensive	ADJ	B	Comprehensive_school
+understanding	NOUN	B	Understanding
+of	ADP	O
+climate	NOUN	B	Climate_change_mitigation
+mitigation	NOUN	B	Climate_change_mitigation
+must	AUX	B	Must
+combine	VERB	B	Combine_harvester
+these	DET	O
+multiple	ADJ	B	Star_system
+frameworks	NOUN	B	Software_framework
+.	PUNCT	O
+
+Together	ADV	O
+with	ADP	O
+established	VERB	O
+risk	NOUN	B	Risk_assessment
+frameworks	NOUN	B	Software_framework
+,	PUNCT	O
+collectively	ADV	B	Collective_bargaining
+these	DET	O
+help	VERB	B	Help_(command)
+to	PART	O
+explain	VERB	B	Explanation
+potential	ADJ	B	Voltage
+synergies	NOUN	B	Synergy
+and	CCONJ	O
+trade	NOUN	B	Trade-off
+-	PUNCT	I	Trade-off
+offs	NOUN	I	Trade-off
+in	ADP	O
+mitigation	NOUN	B	Climate_change_mitigation
+,	PUNCT	O
+imply	VERB	O
+a	DET	O
+need	NOUN	B	Need
+for	ADP	O
+a	DET	O
+wide	ADJ	B	Wide_area_network
+portfolio	NOUN	B	Modern_portfolio_theory
+of	ADP	O
+policies	NOUN	B	Policy
+attuned	VERB	O
+to	ADP	O
+different	ADJ	B	Difference_(philosophy)
+154	NUM	O
+Chapter	PROPN	B	Chapter_(books)
+1	NUM	O
+Introduction	NOUN	B	Introduced_species
+and	CCONJ	O
+Framing	NOUN	B	Framing_(social_sciences)
+1	NUM	O
+actors	NOUN	B	Free_will
+and	CCONJ	O
+levels	NOUN	B	Hierarchy
+of	ADP	O
+decision	NOUN	B	Decision-making
+-	PUNCT	I	Decision-making
+making	NOUN	I	Decision-making
+,	PUNCT	O
+and	CCONJ	O
+underpin	VERB	B	Underpinning
+Just	ADJ	B	Just_Blaze
+Transition	NOUN	B	Transition_economy
+strategies	NOUN	B	Strategy
+in	ADP	O
+diverse	ADJ	B	Biodiversity
+contexts	NOUN	B	Context_(language_use)
+.	PUNCT	O
+

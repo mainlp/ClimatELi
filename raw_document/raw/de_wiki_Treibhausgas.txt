@@ -1,0 +1,47 @@
+Treibhausgas
+
+Treibhausgase (THG) sind Spurengase, die zum Treibhauseffekt eines Planeten beitragen. Sie absorbieren einen Teil der von der Planetenoberfläche abgegebenen langwelligen Wärmestrahlung (Infrarote oder Thermische Strahlung), die sonst unmittelbar ins Weltall abgegeben werden würde. Die dabei aufgenommene Energie emittieren sie entsprechend ihrer lokalen Temperatur. Der dabei zur Planetenoberfläche gerichtete Anteil dieser Strahlung wird atmosphärische Gegenstrahlung genannt. Diese erwärmt die Oberfläche zusätzlich zum kurz- bis langwelligen direkten Sonnenlicht. Auf der Erde vollzieht sich dieser Effekt in der Troposphäre. Die beteiligten Treibhausgase können sowohl natürlichen Ursprungs sein, als auch durch menschliche Aktivitäten (anthropogen) entstanden sein.
+
+Die natürlichen Treibhausgase, insbesondere Wasserdampf, heben die durchschnittliche Temperatur an der Erdoberfläche um etwa 33 K auf +15 °C an. Ohne diesen natürlichen Treibhauseffekt hätte die Erdoberfläche im globalen Mittel nur eine Temperatur von −18 °C, was höher organisiertes Leben auf der Erde kaum möglich machen würde.
+
+Der gegenwärtige, anthropogen verursachte Anstieg der Konzentration verschiedener Treibhausgase, insbesondere von Kohlenstoffdioxid (CO2), verstärkt den natürlichen Treibhauseffekt und führt zur globalen Erwärmung, die ihrerseits mit zahlreichen Folgen verbunden ist. Diesen zusätzlichen, menschlich verursachten Anteil am Treibhauseffekt bezeichnet man als anthropogenen Treibhauseffekt.
+
+In der Klimarahmenkonvention erklärte 1992 die Staatengemeinschaft, die Treibhausgaskonzentrationen auf einem Niveau stabilisieren zu wollen, auf dem eine gefährliche Störung des Klimasystems verhindert wird. Sie vereinbarte im Kyoto-Protokoll (1997) und dem Übereinkommen von Paris (2015) die Begrenzung und Minderung ihrer Treibhausgasemissionen. Die Konzentrationen der wichtigsten langlebigen Treibhausgase Kohlenstoffdioxid (CO2), Methan (CH4) und Lachgas (N2O) steigen unterdessen an. Die Konzentration von CO2 stieg seit Beginn der Industrialisierung um 44 % auf rund 410 ppm (Stand 2019), den höchsten Wert seit mindestens 800.000 Jahren. Hauptursache ist die Nutzung fossiler Brennstoffe. Die energiebedingten CO2-Emissionen wuchsen im Jahr 2018 mit einer Rekordrate von 1,7 %. Die atmosphärische Konzentration von Methan stieg 2017 auf über 1850 ppb, die von Lachgas auf etwa 330 ppb.
+
+Treibhausgase des Kyoto-Protokolls
+
+Im Kyoto-Protokoll wurde ein völkerrechtlich verbindliches Abkommen zur Reduzierung des anthropogenen Ausstoßes von wichtigen Treibhausgasen (der direkten Treibhausgase) beschlossen. Die im Kyoto-Protokoll reglementierten Gase sind:
+
+Kohlendioxid (CO2) dient als Referenzwert,
+
+Methan (CH4),
+
+Distickstoffoxid (Lachgas, N2O),
+
+fluorierte Treibhausgase (F-Gase), die aufgrund ihrer Verweildauer in der Atmosphäre ein größeres Treibhauspotenzial aufweisen: teilhalogenierte Fluorkohlenwasserstoffe (H-FKW/HFC), perfluorierte Kohlenwasserstoffe (FKW/PFC), Schwefelhexafluorid (SF6).
+
+Seit 2012 wird auch Stickstofftrifluorid (NF3) reglementiert.
+
+Andere Treibhausgase, die indirekten Treibhausgase, wie z. B. Kohlenstoffmonoxid (CO), Stickoxide (NOx) oder flüchtige Kohlenwasserstoffe ohne Methan (sogenannte NMVOC), sind im Montreal-Protokoll geregelt, weil sie zur Zerstörung der Ozonschicht beitragen.
+
+Das Ziel, die Emissionen der an Phase I des Kyoto-Protokolls teilnehmenden Industrieländer um 5,2 % gegenüber 1990 zu senken, wurde zwar erreicht. Diese Emissionsminderungen reichen aber bei weitem nicht, um den Temperaturanstieg auf 2 °C zu begrenzen. Die USA verweigerten die Unterzeichnung des Kyoto-Protokolls – allerdings gibt es hier auf kommunaler und bundesstaatlicher Ebene Anstrengungen. So war 2013 Kalifornien auf dem Weg, sein selbst gestecktes Minderungsziel zu erreichen, im Jahr 2020 nicht mehr Treibhausgase als 1990 auszustoßen. China und Indien unterlagen keinen Minderungsverpflichtungen. Andere Staaten, wie Japan, erreichten ihre Minderungsziele nicht. Kanada trat aus dem Protokoll aus und entging so Strafzahlungen für das Verfehlen seiner Minderungsziele.
+
+Kohlenstoffdioxid
+
+Kohlenstoffdioxid (CO2) ist mit einem Anteil von etwa 0,04 % (ca. 410 ppm, Stand 2019) in der Atmosphäre enthalten und hat einen Anteil von 9 bis 26 % am natürlichen Treibhauseffekt.
+
+Die geo- und biogene, also natürliche CO2-Produktion beträgt ca. 550 Gt pro Jahr. Dieser steht im Kohlenstoffzyklus ein fast gleich hoher natürlicher Verbrauch, insbesondere durch Photosynthese, aber auch durch Bindung in kalkbildenden Organismen gegenüber.
+
+Kohlenstoffdioxid entsteht u. a. bei der „Verbrennung fossiler Energieträger“ (durch Verkehr, Heizen, Stromerzeugung, Industrie). Seine mittlere atmosphärische Verweilzeit beträgt ca. 120 Jahre. Der weltweite anthropogene CO2-Ausstoß betrug im Jahr 2006 ca. 32 Gigatonnen (Gt) und macht etwa 60 % des vom Menschen verursachten zusätzlichen Treibhauseffekts aus.
+
+Die Emissionen aus menschlicher Aktivität haben die Konzentration von CO2 in der Erdatmosphäre seit Beginn der Industrialisierung von 280 ppm um über 40 % auf deutlich über 400 ppm (2019) ansteigen lassen. Damit ist die gegenwärtige Konzentration höher als in den letzten 800.000 Jahren. Wahrscheinlich traten auch während der letzten 14 Millionen Jahre (seit dem Klimaoptimum des Mittleren Miozäns) keine signifikant höheren CO2-Werte als im bisherigen 21. Jahrhundert auf.
+
+CO2 besitzt eine jahrzehntelange Verweildauer in der Atmosphäre. Anthropogen emittiertes Kohlendioxid wird in der Erdatmosphäre durch die natürlichen physikalischen und biogeochemischen Prozesse im Erdsystem nur sehr langsam abgebaut. Das deutsche Bundesumweltamt geht davon aus, dass nach 1000 Jahren noch etwa 15 bis 40 Prozent in der Atmosphäre übrig ist. Der gesamte Abbau würde jedoch mehrere hunderttausend Jahre andauern.
+
+Eine Reihe natürlich stattfindender Prozesse dienen als Senke des atmosphärischen Kohlendioxids (d. h. sie entfernen CO2 aus der Atmosphäre); die anthropogene Zunahme der Konzentration kann aber nur über Zeiträume von Jahrhunderten und Jahrzehntausenden kompensiert werden. Diese Prozesse können aktuell den seit Mitte des 19. Jahrhunderts laufenden Anstieg der CO2-Konzentration nur dämpfen, nicht aber kompensieren. Der Grad der Bindung zusätzlichen Kohlenstoffdioxides ist ein Unsicherheitsfaktor bei der Parametrisierung von Klimamodellen.
+
+Die erhöhte Aufnahme durch Land- und Meerespflanzen im Rahmen ihrer Photosyntheseleistung ist der am schnellsten wirkende Mechanismus, der den Anstieg der atmosphärischen Gaskonzentration dämpft und unmittelbar wirkt. So wurde im Jahr 2010 von der Biosphäre doppelt so viel vom Menschen zusätzlich freigesetztes Kohlenstoffdioxid resorbiert wie im Jahr 1960, während sich die Emissionsrate jedoch vervierfachte.
+
+Der zweitschnellste Mechanismus ist die Lösung des Gases im Meerwasser, ein Prozess, der über einen Zeitraum von Jahrhunderten wirkt, da die Ozeane lange Zeit brauchen, um sich zu durchmischen. Die Lösung eines Teils des zusätzlichen Kohlenstoffdioxids im Meer dämpft zwar den Treibhauseffekt, führt aber durch die Bildung von Kohlensäure zu niedrigeren pH-Werten des Wassers (Versauerung der Meere). Es folgt die Reaktion des sauren Meerwassers mit dem Kalk der Ozeansedimente. Über einen Zeitraum von Jahrtausenden wird dadurch Kohlenstoffdioxid dem Kreislauf entzogen.
+
+Die am langsamsten wirkende Reaktion ist die Verwitterung von Gestein, ein Prozess, der sich über Jahrhunderttausende erstreckt. Klimasimulationen deuten darauf hin, dass sich aufgrund der langen Zeitkonstante der letztgenannten Prozesse die von erhöhter Kohlenstoffdioxidkonzentration aufgeheizte Erde nur um ca. 1 K pro 12.000 Jahre abkühlen wird.

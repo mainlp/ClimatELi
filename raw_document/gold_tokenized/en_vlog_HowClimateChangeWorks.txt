@@ -1,0 +1,60 @@
+How|ADV Climate|PROPN Change|NOUN Actually|ADV Works|PROPN ...|PUNCT in|ADP 4|NUM Minutes|NOUN
+Good|ADJ Morning|PROPN John|PROPN .|PUNCT
+So|ADV probably|ADV you|PRON have|AUX heard|VERB that|SCONJ for|ADP a|DET long|ADJ time|NOUN the|DET amount|NOUN of|ADP energy|NOUN entering|VERB the|DET earth|NOUN 's|PART atmosphere|NOUN and|CCONJ the|DET amount|NOUN leaving|VERB the|DET earth|NOUN 's|PART atmosphere|NOUN was|AUX about|ADV the|DET same|ADJ .|PUNCT
+And|CCONJ that|PRON was|AUX good|ADJ because|SCONJ if|SCONJ those|DET two|NUM numbers|NOUN are|AUX not|PART equal|ADJ then|ADV we|PRON are|AUX either|CCONJ getting|VERB colder|ADJ every|DET year|NOUN or|CCONJ we|PRON 're|AUX getting|VERB hotter|ADJ every|DET year|NOUN .|PUNCT
+But|CCONJ now|ADV it|PRON looks|VERB like|SCONJ there|PRON is|VERB in|ADP fact|NOUN more|ADJ energy|NOUN coming|VERB in|ADP than|ADP going|VERB out|ADP and|CCONJ that|PRON results|VERB in|ADP basically|ADV three|NUM things|NOUN .|PUNCT
+First|ADV ,|PUNCT more|ADJ heat|NOUN .|PUNCT
+Which|PRON is|AUX what|PRON we|PRON call|VERB like|ADP individual|ADJ molecules|NOUN moving|VERB faster|ADJ .|PUNCT
+Which|PRON is|AUX wild|ADJ .|PUNCT
+Like|INTJ ,|PUNCT when|ADV you|PRON are|AUX hot|ADJ it|PRON is|AUX because|SCONJ the|DET molecules|NOUN that|PRON make|VERB up|ADP your|PRON body|NOUN are|AUX jiggling|VERB more|ADJ .|PUNCT
+Does|AUX n't|PART seem|VERB real|ADJ ,|PUNCT but|CCONJ it|PRON is|AUX .|PUNCT
+Second|ADV you|PRON have|VERB more|ADJ severe|ADJ weather|NOUN ,|PUNCT which|PRON is|AUX when|ADV a|DET lot|NOUN of|ADP molecules|NOUN together|ADV move|VERB around|ADV .|PUNCT
+And|CCONJ because|ADP of|ADP those|DET two|NUM you|PRON have|VERB number|NOUN three|NUM which|PRON is|AUX probably|ADV the|DET worst|ADJ of|ADP them|PRON .|PUNCT
+Things|NOUN are|AUX different|ADJ .|PUNCT
+That|PRON does|AUX n't|PART sound|VERB so|ADV bad|ADJ except|SCONJ that|SCONJ we|PRON have|AUX built|VERB a|DET tremendous|ADJ amount|NOUN of|ADP our|PRON human|ADJ infrastructure|NOUN designed|VERB based|VERB on|ADP the|DET idea|NOUN that|SCONJ things|NOUN will|AUX be|AUX roughly|ADV the|DET same|ADJ now|ADV as|SCONJ they|PRON were|AUX in|ADP the|DET past|NOUN ,|PUNCT with|ADP regards|NOUN to|ADP rainfall|NOUN and|CCONJ temperature|NOUN and|CCONJ stuff|NOUN like|ADP that|PRON .|PUNCT
+When|ADV that|DET stuff|NOUN changes|VERB crops|NOUN might|AUX have|AUX dramatically|ADV lower|ADJ yields|NOUN ,|PUNCT resulting|VERB in|ADP very|ADV hungry|ADJ people|NOUN .|PUNCT
+People|NOUN might|AUX use|VERB their|PRON air|NOUN conditioners|NOUN way|ADV more|ADJ than|ADP in|ADP the|DET past|NOUN so|ADV entire|ADJ power|NOUN grids|NOUN fail|VERB .|PUNCT
+Forests|NOUN that|PRON grew|VERB in|ADP areas|NOUN that|PRON once|ADV had|VERB shorter|ADJ dry|ADJ seasons|NOUN might|AUX burn|VERB up|ADP in|ADP fires|NOUN .|PUNCT
+So|ADV that|PRON 's|AUX bad|ADJ .|PUNCT
+And|CCONJ always|ADV the|DET first|ADJ thing|NOUN you|PRON should|AUX ask|VERB when|ADV something|PRON bad|ADJ is|AUX happening|VERB is|AUX why|ADV is|AUX that|PRON happening|VERB ?|PUNCT
+So|ADV you|PRON know|VERB when|ADV you|PRON go|VERB outside|ADV wearing|VERB a|DET black|ADJ t-|PUNCT shirt|NOUN you|PRON get|VERB hotter|ADJ faster|ADJ then|ADV when|ADV you|PRON 're|AUX wearing|VERB a|DET white|ADJ t-|PUNCT shirt|NOUN .|PUNCT
+That|PRON 's|AUX because|SCONJ things|NOUN only|ADV look|VERB black|ADJ if|SCONJ they|PRON absorb|VERB all|DET of|ADP the|DET visible|ADJ light|NOUN that|PRON is|AUX hitting|VERB them|PRON .|PUNCT
+If|SCONJ the|DET light|NOUN was|AUX not|PART being|AUX absorbed|VERB it|PRON would|AUX either|CCONJ be|AUX reflected|VERB as|ADP white|ADJ light|NOUN or|CCONJ as|ADP a|DET mirror|NOUN .|PUNCT
+Or|CCONJ it|PRON would|AUX be|AUX clear|ADJ ,|PUNCT which|PRON would|AUX be|AUX a|DET strange|ADJ choice|NOUN for|ADP a|DET shirt|NOUN .|PUNCT
+So|ADV if|SCONJ you|PRON 're|AUX wearing|VERB a|DET white|ADJ shirt|NOUN the|DET visible|ADJ light|NOUN is|AUX n't|PART being|AUX absorbed|VERB ,|PUNCT it|PRON 's|AUX being|AUX reflected|VERB and|CCONJ that|PRON 's|AUX why|ADV you|PRON 're|AUX less|ADV hot|ADJ .|PUNCT
+Absorb|VERB ,|PUNCT reflect|VERB ,|PUNCT or|CCONJ let|VERB pass|VERB through|ADP that|PRON 's|AUX basically|ADV the|DET only|ADJ three|NUM things|NOUN that|PRON a|DET material|NOUN can|AUX do|VERB with|ADP light|NOUN .|PUNCT
+And|CCONJ if|SCONJ the|DET light|NOUN is|AUX being|AUX absorbed|VERB ,|PUNCT that|PRON means|VERB the|DET energy|NOUN of|ADP the|DET light|NOUN hit|VERB the|DET molecule|NOUN in|ADP such|DET a|DET way|NOUN that|SCONJ it|PRON 's|AUX creating|VERB movement|NOUN in|ADP the|DET molecule|NOUN .|PUNCT
+The|DET light|NOUN no|ADV longer|ADV exists|VERB the|DET energy|NOUN is|AUX now|ADV movement|NOUN ,|PUNCT and|CCONJ the|DET movement|NOUN can|AUX now|ADV be|AUX transferred|VERB to|ADP other|ADJ elements|NOUN .|PUNCT
+Just|ADV like|ADP a|DET cue|NOUN ball|NOUN hitting|VERB a|DET pool|NOUN ball|NOUN .|PUNCT
+There|PRON are|VERB basically|ADV two|NUM ways|NOUN a|DET molecule|NOUN can|AUX heat|VERB up|ADP and|CCONJ we|PRON just|ADV talked|VERB about|ADP both|DET of|ADP them|PRON .|PUNCT
+The|DET first|ADJ is|AUX that|SCONJ a|DET photon|NOUN travels|VERB through|ADP space|NOUN and|CCONJ then|ADV gets|AUX absorbed|VERB by|ADP a|DET molecule|NOUN and|CCONJ speeds|VERB up|ADP that|DET molecule|NOUN .|PUNCT
+That|PRON 's|AUX heat|NOUN from|ADP radiation|NOUN .|PUNCT
+And|CCONJ the|DET second|ADJ way|NOUN is|AUX that|SCONJ a|DET particle|NOUN that|PRON 's|AUX jiggling|VERB a|DET lot|NOUN hits|VERB a|DET particle|NOUN that|PRON 's|AUX jiggling|VERB less|ADJ and|CCONJ transfers|VERB its|PRON heat|NOUN to|ADP that|DET other|ADJ molecule|NOUN .|PUNCT
+When|ADV that|PRON happens|VERB in|ADP a|DET solid|NOUN we|PRON call|VERB it|PRON conduction|NOUN and|CCONJ when|ADV it|PRON happens|VERB in|ADP a|DET fluid|NOUN we|PRON call|VERB it|PRON convection|NOUN .|PUNCT
+So|ADV like|INTJ when|ADV we|PRON are|AUX in|ADP the|DET shade|NOUN 99|NUM %|SYM of|ADP the|DET heat|NOUN you|PRON are|AUX feeling|VERB is|AUX convection|NOUN .|PUNCT
+It|PRON 's|AUX molecules|NOUN in|ADP the|DET air|NOUN running|VERB to|ADP you|PRON and|CCONJ transferring|VERB their|PRON heat|NOUN to|ADP you|PRON .|PUNCT
+But|CCONJ when|ADV you|PRON 're|AUX in|ADP the|DET sun|NOUN it|PRON 's|AUX a|DET mix|NOUN of|ADP both|CCONJ the|DET radiation|NOUN and|CCONJ the|DET convection|NOUN ,|PUNCT which|PRON is|AUX why|ADV it|PRON 's|AUX hotter|ADJ in|ADP the|DET sun|NOUN .|PUNCT
+Now|ADV ,|PUNCT different|ADJ molecules|NOUN absorb|VERB different|ADJ wavelengths|NOUN of|ADP light|NOUN .|PUNCT
+Like|ADP this|DET book|NOUN cover|NOUN is|AUX mostly|ADV absorbing|VERB everything|PRON but|CCONJ yellow|ADJ ,|PUNCT and|CCONJ this|DET one|NOUN is|AUX mostly|ADV absorbing|VERB everything|PRON but|CCONJ red|ADJ ,|PUNCT and|CCONJ the|DET red|NOUN and|CCONJ the|DET yellow|NOUN are|AUX being|AUX reflected|VERB back|ADV .|PUNCT
+And|CCONJ this|PRON can|AUX also|ADV happen|VERB with|ADP gasses|NOUN .|PUNCT
+There|PRON can|AUX be|VERB green|ADJ gasses|NOUN and|CCONJ yellow|ADJ gasses|NOUN and|CCONJ brown|ADJ gasses|NOUN .|PUNCT
+But|CCONJ the|DET two|NUM molecules|NOUN of|ADP interest|NOUN here|ADV ,|PUNCT carbon|NOUN dioxide|NOUN and|CCONJ methane|NOUN ,|PUNCT they|PRON do|AUX n't|PART absorb|VERB any|DET light|NOUN in|ADP the|DET visible|ADJ spectrum|NOUN ,|PUNCT which|PRON means|VERB that|SCONJ they|PRON are|AUX clear|ADJ .|PUNCT
+We|PRON ca|AUX n't|PART see|VERB them|PRON .|PUNCT
+One|NUM of|ADP the|DET problems|NOUN with|ADP methane|NOUN ,|PUNCT actually|ADV .|PUNCT
+If|SCONJ your|PRON house|NOUN is|AUX filling|VERB up|ADP with|ADP it|PRON you|PRON need|VERB to|PART make|VERB sure|ADJ that|SCONJ you|PRON know|VERB that|SCONJ that|PRON 's|AUX happening|VERB ,|PUNCT but|CCONJ you|PRON ca|AUX n't|PART see|VERB it|PRON .|PUNCT
+But|CCONJ ,|PUNCT at|ADP certain|ADJ infrared|ADJ wavelengths|NOUN ,|PUNCT which|PRON the|DET sun|NOUN creates|VERB a|DET lot|NOUN of|ADP ,|PUNCT they|PRON are|AUX black|ADJ .|PUNCT
+And|CCONJ when|ADV we|PRON put|VERB more|ADJ of|ADP them|PRON in|ADP the|DET atmosphere|NOUN ,|PUNCT our|PRON atmosphere|NOUN is|AUX a|DET little|ADJ less|ADV clear|ADJ in|ADP the|DET wavelengths|NOUN and|CCONJ a|DET little|ADJ more|ADV black|ADJ .|PUNCT
+Those|DET molecules|NOUN absorb|VERB photons|NOUN they|PRON start|VERB to|PART move|VERB around|ADV faster|ADJ ,|PUNCT they|PRON knock|VERB into|ADP other|ADJ molecules|NOUN ,|PUNCT which|PRON also|ADV start|VERB to|PART move|VERB around|ADV faster|ADJ .|PUNCT
+They|PRON push|VERB on|ADP each|DET other|ADJ more|ADJ and|CCONJ more|ADJ until|SCONJ they|PRON have|VERB lower|ADJ pressure|NOUN and|CCONJ that|SCONJ hot|ADJ air|NOUN starts|VERB to|PART rise|VERB .|PUNCT
+Cooler|ADJ denser|ADJ air|NOUN rushes|VERB into|ADP take|VERB its|PRON place|NOUN and|CCONJ that|PRON 's|PART weather|NOUN now|ADV .|PUNCT
+Those|DET hot|ADJ air|NOUN molecules|NOUN might|AUX remove|VERB more|ADJ moisture|NOUN from|ADP the|DET soil|NOUN resulting|VERB in|ADP more|ADJ wildfires|NOUN .|PUNCT
+It|PRON might|AUX evaporate|VERB more|ADJ water|NOUN from|ADP the|DET ocean|NOUN resulting|VERB in|ADP bigger|ADJ storms|NOUN .|PUNCT
+We|PRON know|VERB that|SCONJ this|PRON happens|VERB ,|PUNCT we|PRON know|VERB how|ADV this|PRON happens|VERB ,|PUNCT we|PRON know|VERB why|ADV this|PRON happens|VERB and|CCONJ we|PRON know|VERB what|PRON the|DET effects|NOUN are|AUX .|PUNCT
+And|CCONJ we|PRON know|VERB that|SCONJ the|DET only|ADJ way|NOUN to|PART stop|VERB it|PRON is|AUX for|SCONJ there|PRON to|PART be|VERB more|ADJ co2|NOUN and|CCONJ methane|NOUN from|ADP the|DET atmosphere|NOUN .|PUNCT
+But|CCONJ that|PRON is|AUX a|DET very|ADV hard|ADJ thing|NOUN to|PART do|VERB .|PUNCT
+It|PRON 's|AUX very|ADV hard|ADJ and|CCONJ expensive|ADJ to|PART remove|VERB those|DET things|NOUN from|ADP the|DET atmosphere|NOUN .|PUNCT
+It|PRON 's|AUX very|ADV hard|ADJ and|CCONJ expensive|ADJ to|PART replace|VERB the|DET agriculture|NOUN and|CCONJ energy|NOUN and|CCONJ transportation|NOUN infrastructure|NOUN that|PRON results|VERB in|ADP the|DET release|NOUN of|ADP those|DET gasses|NOUN .|PUNCT
+It|PRON is|AUX not|PART an|DET easy|ADJ problem|NOUN to|PART solve|VERB .|PUNCT
+But|CCONJ we|PRON have|VERB a|DET very|ADV strong|ADJ grip|NOUN on|SCONJ what|PRON the|DET problem|NOUN is|AUX .|PUNCT
+And|CCONJ I|PRON think|VERB people|NOUN can|AUX basically|ADV solve|VERB any|DET problem|NOUN if|SCONJ only|ADV we|PRON can|AUX agree|VERB that|SCONJ it|PRON exists|VERB .|PUNCT
+John|PROPN ,|PUNCT I|PRON 'll|AUX see|VERB you|PRON on|ADP Tuesday|PROPN .|PUNCT

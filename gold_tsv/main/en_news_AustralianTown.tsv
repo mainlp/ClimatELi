@@ -1,0 +1,1133 @@
+Australian	ADJ	B	Australia
+town	NOUN	B	Town
+of	ADP	O
+Onslow	PROPN	B	Onslow,_Western_Australia
+hits	VERB	O
+record	NOUN	O
+50.7	NUM	O
+degrees	NOUN	B	Celsius
+Celsius	PROPN	I	Celsius
+,	PUNCT	O
+as	SCONJ	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+rolls	VERB	O
+on	ADP	O
+relentlessly	ADV	O
+
+Global	ADJ	B	Earth
+ocean	NOUN	B	Ocean
+and	CCONJ	O
+air	NOUN	B	Atmosphere
+temperatures	NOUN	B	Temperature
+at	ADP	O
+record	ADJ	O
+levels	NOUN	O
+
+When	ADV	O
+the	DET	O
+coastal	ADJ	B	Coast
+town	NOUN	B	Town
+of	ADP	O
+Onslow	PROPN	B	Onslow,_Western_Australia
+in	ADP	O
+Western	ADJ	B	Western_Australia
+Australia	PROPN	I	Western_Australia
+hit	VERB	O
+a	DET	O
+record	NOUN	O
+-	PUNCT	O
+setting	VERB	O
+50.7	NUM	O
+degrees	NOUN	B	Celsius
+Celsius	PROPN	I	Celsius
+(	PUNCT	O
+123.3	NUM	O
+degrees	NOUN	B	Fahrenheit
+Fahrenheit	PROPN	I	Fahrenheit
+)	PUNCT	O
+on	ADP	O
+January	PROPN	O
+13	NUM	O
+,	PUNCT	O
+2022	NUM	O
+,	PUNCT	O
+it	PRON	O
+was	AUX	O
+just	ADV	O
+another	DET	O
+day	NOUN	B	Day
+in	ADP	O
+the	DET	O
+unfolding	ADJ	O
+climate	NOUN	B	Climate_crisis
+crisis	NOUN	I	Climate_crisis
+.	PUNCT	O
+
+It	PRON	O
+matched	VERB	O
+the	DET	O
+1960	NUM	O
+temperature	NOUN	B	Temperature
+record	NOUN	O
+at	ADP	O
+inland	ADJ	B	Inland_port
+Oodnadatta	PROPN	B	Oodnadatta
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+the	DET	O
+high	ADJ	O
+mark	NOUN	O
+for	ADP	O
+the	DET	O
+Southern	ADJ	B	Southern_Hemisphere
+Hemisphere	PROPN	I	Southern_Hemisphere
+.	PUNCT	O
+
+Bureau	PROPN	B	Bureau_of_Meteorology
+of	ADP	I	Bureau_of_Meteorology
+Meteorology	PROPN	I	Bureau_of_Meteorology
+,	PUNCT	O
+Western	ADJ	B	Western_Australia
+Australia	PROPN	I	Western_Australia
+@BOM_WA	PROPN	B	Bureau_of_Meteorology
+
+NEW	ADJ	O
+Western	ADJ	B	Western_Australia
+Australian	ADJ	I	Western_Australia
+maximum	ADJ	O
+temperature	NOUN	B	Temperature
+record	NOUN	O
+and	CCONJ	O
+equal	ADJ	O
+National	ADJ	O
+temperature	NOUN	B	Temperature
+record	NOUN	O
+!	SYM	O
+
+Onslow	PROPN	B	Onslow,_Western_Australia
+reached	VERB	O
+an	DET	O
+unprecedented	ADJ	O
+-	SYM	O
+50.7	NUM	O
+°C	NOUN	B	Celsius
+which	PRON	O
+is	AUX	O
+a	DET	O
+WA	PROPN	B	Western_Australia
+record	NOUN	O
+and	CCONJ	O
+equals	VERB	O
+Australia	PROPN	B	Australia
+'s	PART	O
+hottest	ADJ	O
+day	NOUN	B	Day
+set	VERB	O
+62	NUM	O
+years	NOUN	B	Year
+ago	ADV	I	Year
+in	ADP	O
+Oodnadatta	PROPN	B	Oodnadatta
+SA	PROPN	O
+.	PUNCT	O
+
+Data	NOUN	B	Data
+not	PART	O
+official	ADJ	O
+until	ADP	O
+quality	NOUN	B	Quality_control
+controlled	VERB	I	Quality_control
+.	PUNCT	O
+
+Holly	PROPN	O
+Green	PROPN	O
+@HollyJGreen	X	O
+
+2022	NUM	O
+is	AUX	O
+the	DET	O
+year	NOUN	O
+we	PRON	O
+expect	VERB	O
+Carbon	NOUN	B	Carbon_dioxide
+Dioxide	NOUN	I	Carbon_dioxide
+levels	NOUN	O
+to	PART	O
+reach	VERB	O
+50	NUM	O
+%	SYM	B	Percentage
+above	ADP	O
+pre-industrial	ADJ	B	Industrial_Revolution
+levels	NOUN	O
+📈	PUNCT	O
+
+In	ADP	O
+other	ADJ	O
+(	PUNCT	O
+very	ADV	O
+much	ADV	O
+related	ADJ	O
+)	PUNCT	O
+news	NOUN	O
+,	PUNCT	O
+Australia	PROPN	B	Australia
+hit	VERB	O
+50.7C	NUM	O
+today	NOUN	O
+which	PRON	O
+is	AUX	O
+the	DET	O
+joint	ADJ	O
+#hottest	NOUN	O
+temperature	NOUN	B	Temperature
+ever	ADV	O
+recorded	VERB	O
+in	ADP	O
+the	DET	O
+southern	ADJ	B	Southern_Hemisphere
+hemisphere	NOUN	I	Southern_Hemisphere
+.	PUNCT	O
+
+Andrew	PROPN	O
+King	PROPN	O
+,	PUNCT	O
+senior	ADJ	B	Lecturer
+lecturer	NOUN	I	Lecturer
+in	ADP	O
+Climate	PROPN	B	Climatology
+Science	PROPN	I	Climatology
+at	ADP	O
+the	DET	B	University_of_Melbourne
+University	PROPN	I	University_of_Melbourne
+of	ADP	I	University_of_Melbourne
+Melbourne	PROPN	I	University_of_Melbourne
+,	PUNCT	O
+explored	VERB	B	Exploration
+the	DET	O
+implications	NOUN	B	Logical_consequence
+through	ADP	O
+an	DET	O
+article	NOUN	O
+in	ADP	O
+The	DET	B	The_Conversation_(website)
+Conversation	NOUN	I	The_Conversation_(website)
+:	PUNCT	O
+
+Unfortunately	ADV	O
+,	PUNCT	O
+this	DET	O
+extreme	ADJ	O
+heat	NOUN	B	Heat
+is	AUX	O
+becoming	VERB	O
+more	ADV	O
+common	ADJ	O
+as	SCONJ	O
+the	DET	B	Earth
+world	NOUN	I	Earth
+heats	VERB	B	Heat
+up	ADP	O
+.	PUNCT	O
+
+The	DET	O
+number	NOUN	B	Number
+of	ADP	O
+days	NOUN	B	Day
+over	ADV	O
+50	NUM	O
+°C	NOUN	B	Celsius
+has	AUX	O
+doubled	VERB	B	Gemination
+since	ADP	O
+the	DET	O
+1980s	NOUN	O
+.	PUNCT	O
+
+These	DET	O
+dangerous	ADJ	B	Risk
+temperatures	NOUN	B	Temperature
+are	AUX	O
+now	ADV	B	Present
+being	AUX	O
+recorded	VERB	O
+more	ADV	O
+often	ADV	O
+–	PUNCT	O
+not	PART	O
+just	ADV	O
+in	ADP	O
+Australia	PROPN	B	Australia
+but	CCONJ	O
+in	ADP	O
+cities	NOUN	B	City
+in	ADP	O
+Pakistan	PROPN	B	Pakistan
+,	PUNCT	B	India
+India	PROPN	I	India
+and	CCONJ	O
+the	DET	B	Persian_Gulf
+Persian	PROPN	I	Persian_Gulf
+Gulf	PROPN	I	Persian_Gulf
+.	PUNCT	O
+
+This	PRON	O
+poses	VERB	O
+real	ADJ	B	Real_estate
+threats	NOUN	O
+to	ADP	O
+the	DET	O
+health	NOUN	B	Health
+of	ADP	O
+people	NOUN	O
+enduring	VERB	O
+them	PRON	O
+.	PUNCT	O
+
+Should	AUX	O
+these	DET	O
+temperatures	NOUN	B	Temperature
+be	AUX	O
+a	DET	O
+surprise	NOUN	B	Surprise_(emotion)
+?	PUNCT	O
+
+Sadly	ADV	O
+,	PUNCT	O
+no	INTJ	O
+.	PUNCT	O
+
+Australia	PROPN	B	Australia
+has	AUX	O
+warmed	VERB	O
+by	ADP	O
+around	ADV	O
+1.4	NUM	O
+°C	NOUN	B	Celsius
+since	ADP	O
+1910	NUM	O
+,	PUNCT	O
+well	ADV	O
+ahead	ADV	O
+of	ADP	O
+the	DET	O
+global	ADJ	B	Global_temperature_record
+average	NOUN	I	Global_temperature_record
+of	ADP	O
+1.1	NUM	O
+°C	NOUN	B	Celsius
+.	PUNCT	O
+
+You	PRON	O
+may	AUX	O
+think	VERB	O
+Australians	PROPN	B	Australia
+are	AUX	O
+good	ADJ	O
+at	SCONJ	O
+surviving	VERB	O
+the	DET	O
+heat	NOUN	B	Heat_wave
+.	PUNCT	O
+
+But	CCONJ	O
+the	DET	O
+climate	NOUN	B	Climate
+you	PRON	O
+were	AUX	O
+born	VERB	O
+in	ADP	O
+does	AUX	O
+n't	PART	O
+exist	VERB	O
+any	DET	O
+more	ADJ	O
+.	PUNCT	O
+
+Sadly	ADV	O
+,	PUNCT	O
+our	PRON	O
+farms	NOUN	B	Agriculture
+,	PUNCT	O
+wildlife	NOUN	B	Wildlife
+,	PUNCT	O
+and	CCONJ	O
+suburbs	NOUN	B	Suburb
+will	AUX	O
+struggle	VERB	O
+to	PART	O
+cope	VERB	O
+with	ADP	O
+the	DET	O
+extreme	ADJ	B	Heat_wave
+heat	NOUN	I	Heat_wave
+projected	VERB	O
+for	ADP	O
+coming	VERB	O
+decades	NOUN	B	Decade
+.	PUNCT	O
+
+One	NUM	O
+institution	NOUN	O
+in	ADP	O
+nearby	ADJ	O
+Roebourne	PROPN	B	Roebourne,_Western_Australia
+grappled	VERB	O
+with	ADP	O
+the	DET	O
+dire	ADJ	O
+consequences	NOUN	B	Effects_of_climate_change
+for	ADP	O
+humans	NOUN	B	Human
+in	ADP	O
+these	DET	B	Heat_wave
+extreme	ADJ	I	Heat_wave
+temperates	NOUN	I	Heat_wave
+.	PUNCT	O
+
+The	DET	O
+majority	NOUN	O
+of	ADP	O
+the	DET	O
+prisoners	NOUN	B	Prison
+in	ADP	O
+the	DET	O
+Roebourne	PROPN	B	Roebourne,_Western_Australia
+prison	NOUN	B	Prison
+are	AUX	O
+Aboriginal	ADJ	B	Aboriginal_Australians
+people	NOUN	O
+.	PUNCT	O
+
+NITV	PROPN	B	National_Indigenous_Television
+(	PUNCT	I	National_Indigenous_Television
+National	ADJ	I	National_Indigenous_Television
+Indigenous	ADJ	I	National_Indigenous_Television
+Television	PROPN	I	National_Indigenous_Television
+)	PUNCT	I	National_Indigenous_Television
+reporting	VERB	B	Journalism
+claims	NOUN	O
+that	SCONJ	O
+inmates	NOUN	B	Prisoner
+at	ADP	O
+the	DET	O
+prison	NOUN	B	Prison
+“	PUNCT	O
+were	AUX	O
+left	VERB	O
+to	PART	O
+swelter	VERB	O
+in	ADP	O
+record	ADJ	O
+heat	NOUN	B	Heat_wave
+without	ADP	O
+adequate	ADJ	O
+air	NOUN	B	Air_conditioning
+conditioning	NOUN	I	Air_conditioning
+”	PUNCT	O
+:	PUNCT	O
+
+NITV	PROPN	B	National_Indigenous_Television
+@NITV	PROPN	B	National_Indigenous_Television
+
+Inmates	NOUN	B	Prisoner
+had	VERB	O
+to	PART	O
+swelter	VERB	O
+through	ADP	O
+50	NUM	O
+-	PUNCT	O
+degree	NOUN	O
+heat	NOUN	B	Heat
+without	ADP	O
+air	NOUN	B	Air_conditioning
+-	PUNCT	I	Air_conditioning
+conditioning	NOUN	I	Air_conditioning
+on	ADP	O
+January	PROPN	O
+14	NUM	O
+,	PUNCT	O
+the	DET	O
+second	ADV	O
+hottest	ADJ	O
+day	NOUN	B	Day
+recorded	VERB	O
+in	ADP	O
+national	ADJ	B	History_of_Australia
+history	NOUN	I	History_of_Australia
+.	PUNCT	O
+
+@rachaelknowles_	PROPN	O
+reports	NOUN	O
+.	PUNCT	O
+
+The	DET	O
+extreme	ADJ	B	Heat_wave
+heat	NOUN	I	Heat_wave
+also	ADV	O
+grounded	VERB	O
+the	DET	O
+Royal	ADJ	B	Royal_Flying_Doctor_Service
+Flying	VERB	I	Royal_Flying_Doctor_Service
+Doctor	PROPN	I	Royal_Flying_Doctor_Service
+Service	PROPN	I	Royal_Flying_Doctor_Service
+(	PUNCT	I	Royal_Flying_Doctor_Service
+RFDS	PROPN	I	Royal_Flying_Doctor_Service
+)	PUNCT	I	Royal_Flying_Doctor_Service
+:	PUNCT	O
+
+Laura	X	O
+Birch	X	O
+@laurabirch25	X	O
+
+Temperatures	NOUN	B	Temperature
+were	AUX	O
+so	ADV	O
+hot	ADJ	O
+in	ADP	O
+Onslow	PROPN	B	Onslow,_Western_Australia
+today	NOUN	O
+,	PUNCT	O
+the	DET	O
+RFDS	PROPN	B	Royal_Flying_Doctor_Service
+plane	NOUN	O
+could	AUX	O
+n't	PART	O
+take	VERB	O
+off	ADP	O
+😯	PUNCT	O
+@abcnews	X	O
+@stjohn_wa	X	O
+#	SYM	O
+StJohnOnslow	X	O
+
+Andrew	PROPN	O
+King	PROPN	O
+expects	VERB	O
+Australia	PROPN	B	Australia
+'s	PART	O
+largest	ADJ	O
+cities	NOUN	B	City
+,	PUNCT	O
+Sydney	PROPN	B	Sydney
+and	CCONJ	O
+Melbourne	PROPN	B	Melbourne
+,	PUNCT	O
+to	PART	O
+hit	VERB	O
+50	NUM	O
+degrees	NOUN	B	Celsius
+Celsius	PROPN	I	Celsius
+in	ADP	O
+the	DET	O
+near	ADJ	O
+future	NOUN	O
+.	PUNCT	O
+
+Melbourne	PROPN	B	Melbourne
+'s	PART	O
+highest	ADJ	O
+official	ADJ	O
+temperature	NOUN	B	Temperature
+of	ADP	O
+46.4	NUM	O
+degrees	NOUN	B	Celsius
+Celsius	PROPN	I	Celsius
+(	PUNCT	O
+115.5	NUM	O
+degrees	NOUN	B	Fahrenheit
+Farenheit	PROPN	I	Fahrenheit
+)	PUNCT	O
+was	AUX	O
+recorded	VERB	O
+on	ADP	O
+Black	PROPN	B	Black_Saturday_bushfires
+Saturday	PROPN	I	Black_Saturday_bushfires
+,	PUNCT	I	Black_Saturday_bushfires
+February	PROPN	I	Black_Saturday_bushfires
+7	NUM	I	Black_Saturday_bushfires
+,	PUNCT	I	Black_Saturday_bushfires
+2009	NUM	I	Black_Saturday_bushfires
+.	PUNCT	O
+
+It	PRON	O
+was	AUX	O
+the	DET	O
+day	NOUN	B	Day
+of	ADP	O
+Victoria	PROPN	B	Black_Saturday_bushfires
+'s	PART	I	Black_Saturday_bushfires
+devastating	ADJ	I	Black_Saturday_bushfires
+bushfires	NOUN	I	Black_Saturday_bushfires
+with	ADP	O
+108	NUM	O
+deaths	NOUN	O
+and	CCONJ	O
+more	ADJ	O
+than	ADP	O
+750	NUM	O
+houses	NOUN	B	House
+incinerated	VERB	O
+.	PUNCT	O
+
+Meanwhile	ADV	O
+at	ADP	O
+a	DET	O
+global	ADJ	O
+level	NOUN	O
+,	PUNCT	O
+Advances	PROPN	B	Advances_in_Atmospheric_Sciences
+in	ADP	I	Advances_in_Atmospheric_Sciences
+Atmospheric	ADJ	I	Advances_in_Atmospheric_Sciences
+Sciences	PROPN	I	Advances_in_Atmospheric_Sciences
+,	PUNCT	O
+2022	NUM	O
+released	VERB	O
+a	DET	O
+study	NOUN	O
+of	ADP	O
+ocean	NOUN	B	Ocean_temperature
+temperatures	NOUN	I	Ocean_temperature
+:	PUNCT	O
+Another	DET	O
+Record	NOUN	O
+:	PUNCT	O
+Ocean	PROPN	B	Ocean_heat_content
+Warming	PROPN	I	Ocean_heat_content
+Continues	VERB	O
+through	ADP	O
+2021	NUM	O
+despite	ADP	O
+La	PROPN	B	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+Niña	PROPN	I	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+Conditions	NOUN	O
+.	PUNCT	O
+
+It	PRON	O
+indicated	VERB	O
+that	SCONJ	O
+the	DET	O
+world	NOUN	B	Ocean
+ocean	NOUN	I	Ocean
+was	AUX	O
+the	DET	O
+hottest	ADJ	O
+ever	ADV	O
+recorded	VERB	O
+.	PUNCT	O
+
+The	DET	O
+authors	NOUN	O
+warn	VERB	O
+:	PUNCT	O
+
+As	SCONJ	O
+oceans	NOUN	B	Effects_of_climate_change_on_oceans
+warm	ADJ	I	Effects_of_climate_change_on_oceans
+,	PUNCT	O
+the	DET	O
+water	NOUN	B	Water_cycle
+expands	VERB	O
+,	PUNCT	O
+and	CCONJ	O
+sea	NOUN	B	Sea_level_rise
+level	NOUN	I	Sea_level_rise
+rises	VERB	I	Sea_level_rise
+.	PUNCT	O
+
+Preparing	VERB	O
+for	ADP	O
+sea	NOUN	B	Sea_level_rise
+level	NOUN	I	Sea_level_rise
+rise	NOUN	I	Sea_level_rise
+and	CCONJ	O
+its	PRON	O
+implications	NOUN	B	Logical_consequence
+for	ADP	O
+coastal	ADJ	B	Coast
+communities	NOUN	I	Coast
+are	AUX	O
+particularly	ADV	O
+important	ADJ	O
+.	PUNCT	O
+
+In	ADP	O
+addition	NOUN	O
+,	PUNCT	O
+warmer	ADJ	B	Effects_of_climate_change_on_oceans
+oceans	NOUN	I	Effects_of_climate_change_on_oceans
+supercharge	VERB	O
+the	DET	O
+weather	NOUN	B	Weather
+systems	NOUN	I	Weather
+,	PUNCT	O
+creating	VERB	O
+more	ADV	O
+powerful	ADJ	B	Storm
+storms	NOUN	I	Storm
+and	CCONJ	O
+hurricanes	NOUN	B	Tropical_cyclone
+,	PUNCT	O
+and	CCONJ	O
+increased	VERB	O
+precipitation	NOUN	B	Precipitation
+.	PUNCT	O
+
+Warmer	ADJ	B	Effects_of_climate_change_on_oceans
+oceans	NOUN	I	Effects_of_climate_change_on_oceans
+lead	VERB	O
+to	ADP	O
+a	DET	O
+warmer	ADJ	O
+and	CCONJ	O
+moister	ADJ	O
+atmosphere	NOUN	B	Atmosphere
+that	PRON	O
+promotes	VERB	O
+more	ADV	O
+intense	ADJ	B	Fujita_scale
+rainfall	NOUN	B	Precipitation
+in	ADP	O
+all	DET	O
+storms	NOUN	B	Storm
+,	PUNCT	O
+especially	ADV	O
+hurricanes	NOUN	B	Tropical_cyclone
+,	PUNCT	O
+thereby	ADV	O
+increasing	VERB	O
+the	DET	O
+risk	NOUN	B	Risk
+of	ADP	O
+flooding	NOUN	B	Flood
+.	PUNCT	O
+
+Warming	NOUN	B	Effects_of_climate_change_on_oceans
+ocean	NOUN	I	Effects_of_climate_change_on_oceans
+waters	NOUN	B	Water
+threaten	VERB	O
+marine	ADJ	B	Marine_ecosystem
+ecosystems	NOUN	I	Marine_ecosystem
+and	CCONJ	O
+human	ADJ	B	Livelihood
+livelihoods	NOUN	I	Livelihood
+,	PUNCT	O
+for	ADP	O
+example	NOUN	O
+,	PUNCT	O
+coral	ADJ	B	Coral_reef
+reefs	NOUN	I	Coral_reef
+and	CCONJ	O
+fisheries	NOUN	B	Fishery
+.	PUNCT	O
+
+Novelist	NOUN	B	Novelist
+and	CCONJ	O
+activist	NOUN	B	Activism
+Eliza	PROPN	O
+Todd	PROPN	O
+seems	VERB	O
+to	PART	O
+have	VERB	O
+an	DET	O
+angle	NOUN	B	Angle
+for	ADP	O
+an	DET	B	List_of_apocalyptic_films
+end	NOUN	I	List_of_apocalyptic_films
+-	PUNCT	I	List_of_apocalyptic_films
+of	ADP	I	List_of_apocalyptic_films
+-	PUNCT	I	List_of_apocalyptic_films
+world	NOUN	I	List_of_apocalyptic_films
+movie	NOUN	I	List_of_apocalyptic_films
+:	PUNCT	O
+
+🌎	PUNCT	O
+A	DET	O
+disaster	NOUN	B	Disaster_film
+film	NOUN	I	Disaster_film
+occurring	VERB	O
+daily	ADV	O
+in	ADP	O
+real	ADJ	O
+time	NOUN	O
+,	PUNCT	O
+2021	NUM	O
+world	NOUN	B	Ocean_temperature
+ocean	NOUN	I	Ocean_temperature
+temperatures	NOUN	I	Ocean_temperature
+are	AUX	O
+the	DET	O
+*	PUNCT	O
+hottest	ADJ	O
+ever	ADV	O
+recorded	VERB	O
+.	PUNCT	O
+
+Rising	VERB	B	Effects_of_climate_change_on_oceans
+ocean	NOUN	I	Effects_of_climate_change_on_oceans
+temps	NOUN	I	Effects_of_climate_change_on_oceans
+are	AUX	O
+inextricably	ADV	O
+linked	VERB	O
+to	ADP	O
+massive	ADJ	B	Effects_of_climate_change
+extreme	ADJ	I	Effects_of_climate_change
+weather	NOUN	I	Effects_of_climate_change
+/	SYM	I	Effects_of_climate_change
+climate	NOUN	I	Effects_of_climate_change
+events	NOUN	I	Effects_of_climate_change
+,	PUNCT	O
+destabilization	NOUN	B	Destabilisation
+of	ADP	O
+Antarctic	ADJ	B	Antarctic_ice_sheet
+ice	NOUN	I	Antarctic_ice_sheet
+shelves	NOUN	I	Antarctic_ice_sheet
+and	CCONJ	O
+massive	ADJ	B	Sea_level_rise
+sea	NOUN	I	Sea_level_rise
+level	NOUN	I	Sea_level_rise
+rise	NOUN	I	Sea_level_rise
+.	PUNCT	O
+
+—	PUNCT	O
+Eliza	PROPN	O
+Todd	PROPN	O
+(	PUNCT	O
+@Smilynntodd	PROPN	O
+)	PUNCT	O
+January	PROPN	O
+12	NUM	O
+,	PUNCT	O
+2022	NUM	O
+
+As	SCONJ	O
+New	ADJ	B	New_Scientist
+Scientist	PROPN	I	New_Scientist
+reported	VERB	O
+,	PUNCT	O
+the	DET	O
+last	ADJ	O
+seven	NUM	O
+years	NOUN	O
+were	AUX	O
+the	DET	O
+warmest	ADJ	O
+so	ADV	O
+far	ADV	O
+.	PUNCT	O
+
+Last	ADJ	O
+year	NOUN	O
+ranks	VERB	O
+fifth	ADJ	O
+,	PUNCT	O
+sixth	NOUN	O
+,	PUNCT	O
+or	CCONJ	O
+seventh	ADV	O
+based	VERB	O
+on	ADP	O
+the	DET	B	Political_international
+international	ADJ	I	Political_international
+datasets	NOUN	B	Data_set
+used	VERB	O
+by	ADP	O
+the	DET	O
+World	PROPN	B	World_Meteorological_Organization
+Meteorological	ADJ	I	World_Meteorological_Organization
+Organization	PROPN	I	World_Meteorological_Organization
+(	PUNCT	I	World_Meteorological_Organization
+WMO	PROPN	I	World_Meteorological_Organization
+)	PUNCT	I	World_Meteorological_Organization
+for	ADP	O
+their	PRON	O
+analysis	NOUN	B	Data_analysis
+.	PUNCT	O
+
+Although	SCONJ	O
+2021	NUM	O
+was	AUX	O
+not	PART	O
+the	DET	O
+hottest	ADJ	O
+year	NOUN	O
+on	ADP	O
+record	NOUN	O
+,	PUNCT	O
+that	PRON	O
+'s	AUX	O
+hardly	ADV	O
+cause	ADJ	O
+to	PART	O
+celebrate	VERB	O
+:	PUNCT	O
+
+The	DET	O
+past	ADJ	O
+seven	NUM	O
+years	NOUN	O
+were	AUX	O
+the	DET	O
+warmest	ADJ	O
+on	ADP	O
+record	NOUN	O
+as	SCONJ	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+continued	VERB	O
+apace	ADV	O
+,	PUNCT	O
+despite	ADP	O
+the	DET	O
+cooling	NOUN	B	Global_cooling
+effect	NOUN	I	Global_cooling
+of	ADP	O
+the	DET	O
+La	PROPN	B	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+Niña	PROPN	I	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+weather	NOUN	I	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+pattern	NOUN	I	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+in	ADP	O
+2021	NUM	O
+.	PUNCT	O
+
+…	PUNCT	O
+2021	NUM	O
+saw	VERB	O
+climate	NOUN	B	Climatology
+scientists	NOUN	B	Scientist
+shocked	VERB	O
+by	ADP	O
+several	ADJ	O
+temperature	NOUN	B	Global_temperature_record
+records	NOUN	I	Global_temperature_record
+broken	VERB	O
+by	ADP	O
+much	ADV	O
+larger	ADJ	O
+margins	NOUN	O
+than	ADP	O
+usual	ADJ	O
+in	ADP	O
+some	DET	O
+places	NOUN	O
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+the	DET	O
+near	ADJ	O
+-	PUNCT	O
+50	NUM	O
+°C	NOUN	B	Celsius
+record	NOUN	O
+set	VERB	O
+in	ADP	O
+Lytton	PROPN	B	Lytton,_British_Columbia
+,	PUNCT	O
+Canada	PROPN	B	Canada
+.	PUNCT	O
+
+Previous	ADJ	O
+research	NOUN	O
+showed	VERB	O
+this	DET	O
+event	NOUN	O
+would	AUX	O
+have	AUX	O
+been	AUX	O
+“	PUNCT	O
+virtually	ADV	O
+impossible	ADJ	O
+”	PUNCT	O
+without	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+.	PUNCT	O
+
+According	VERB	O
+to	ADP	O
+the	DET	O
+World	PROPN	B	World_Meteorological_Organization
+Meteorological	ADJ	I	World_Meteorological_Organization
+Organization	PROPN	I	World_Meteorological_Organization
+,	PUNCT	O
+La	PROPN	B	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+Niña	PROPN	I	El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+“	PUNCT	O
+refers	VERB	O
+to	ADP	O
+the	DET	O
+large	ADJ	O
+-	PUNCT	O
+scale	NOUN	O
+cooling	NOUN	B	Heat_transfer
+of	ADP	O
+the	DET	B	Sea_surface_temperature
+ocean	NOUN	I	Sea_surface_temperature
+surface	NOUN	I	Sea_surface_temperature
+temperatures	NOUN	I	Sea_surface_temperature
+in	ADP	O
+the	DET	O
+central	ADJ	O
+and	CCONJ	O
+eastern	ADJ	O
+equatorial	ADJ	B	Equator
+Pacific	ADJ	B	Pacific_Ocean
+Ocean	PROPN	I	Pacific_Ocean
+”	PUNCT	O
+.	PUNCT	O
+
+This	DET	O
+WMO	PROPN	B	World_Meteorological_Organization
+YouTube	PROPN	B	YouTube
+animation	NOUN	B	Animation
+has	VERB	O
+the	DET	O
+following	VERB	O
+warning	NOUN	O
+:	PUNCT	O
+“	PUNCT	O
+Global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+and	CCONJ	I	Climate_change
+other	ADJ	I	Climate_change
+long	ADJ	I	Climate_change
+-	PUNCT	I	Climate_change
+term	NOUN	I	Climate_change
+climate	NOUN	I	Climate_change
+change	NOUN	I	Climate_change
+trends	NOUN	O
+are	AUX	O
+expected	VERB	O
+to	PART	O
+continue	VERB	O
+as	ADP	O
+a	DET	O
+result	NOUN	O
+of	ADP	O
+record	ADJ	O
+levels	NOUN	O
+of	ADP	O
+heat	NOUN	O
+-	PUNCT	O
+trapping	VERB	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+in	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+”	PUNCT	O
+.	PUNCT	O
+
+The	DET	B	The_Washington_Post
+Washington	PROPN	I	The_Washington_Post
+Post	PROPN	I	The_Washington_Post
+created	VERB	O
+an	DET	O
+animation	NOUN	B	Animation
+of	ADP	O
+temperature	NOUN	B	Atmospheric_temperature
+variations	NOUN	I	Atmospheric_temperature
+since	ADP	O
+1880	NUM	O
+,	PUNCT	O
+shared	VERB	O
+by	ADP	O
+Twitter	PROPN	B	Twitter
+user	NOUN	O
+Nuclear	ADJ	B	Nuclear_engineering
+Engineering	NOUN	I	Nuclear_engineering
+:	PUNCT	O
+
+Wanna	INTJ	O
+see	VERB	O
+something	PRON	O
+really	ADV	O
+scary	ADJ	O
+?	PUNCT	O
+
+“	PUNCT	O
+Today	NOUN	O
+,	PUNCT	O
+our	PRON	B	Earth
+planet	NOUN	I	Earth
+revolves	VERB	O
+at	ADP	O
+its	PRON	O
+hottest	ADJ	O
+levels	NOUN	O
+on	ADP	O
+record	NOUN	O
+—	PUNCT	O
+1.1	NUM	O
+°C	NOUN	B	Celsius
+higher	ADJ	O
+than	ADP	O
+at	ADP	O
+the	DET	O
+beginning	NOUN	O
+of	ADP	O
+the	DET	B	Industrial_Revolution
+Industrial	ADJ	I	Industrial_Revolution
+Revolution	PROPN	I	Industrial_Revolution
+.	PUNCT	O
+
+The	DET	O
+drumbeat	NOUN	B	Drum_beat
+has	AUX	O
+been	AUX	O
+steady	ADJ	O
+;	PUNCT	O
+the	DET	O
+past	ADJ	O
+seven	NUM	O
+years	NOUN	O
+have	AUX	O
+been	AUX	O
+the	DET	O
+hottest	ADJ	O
+on	ADP	O
+record	NOUN	O
+.	PUNCT	O
+”	PUNCT	O
+
+—	PUNCT	O
+Nuclear	ADJ	B	Nuclear_engineering
+Engineering	PROPN	I	Nuclear_engineering
+(	PUNCT	O
+@NuclearEngnrng	PROPN	O
+)	PUNCT	O
+January	PROPN	O
+20	NUM	O
+,	PUNCT	O
+2022	NUM	O
+
+Given	VERB	O
+the	DET	O
+spades	NOUN	B	Spade
+of	ADP	O
+new	ADJ	O
+records	NOUN	O
+,	PUNCT	O
+it	PRON	O
+must	AUX	O
+be	AUX	O
+time	NOUN	O
+to	PART	O
+revisit	VERB	O
+the	DET	O
+Intergovernmental	ADJ	B	Intergovernmental_Panel_on_Climate_Change
+Panel	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+on	ADP	I	Intergovernmental_Panel_on_Climate_Change
+Climate	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+Change	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+'s	PART	I	Intergovernmental_Panel_on_Climate_Change
+(	PUNCT	I	Intergovernmental_Panel_on_Climate_Change
+IPCC	PROPN	I	Intergovernmental_Panel_on_Climate_Change
+)	PUNCT	I	Intergovernmental_Panel_on_Climate_Change
+COP26	PROPN	B	2021_United_Nations_Climate_Change_Conference
+Code	NOUN	O
+Red	PROPN	O
+.	PUNCT	O
+

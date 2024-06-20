@@ -1,0 +1,53 @@
+Solar activity and climate
+
+Patterns of solar irradiance and solar variation have been a main driver of climate change over the millions to billions of years of the geologic time scale.
+
+Evidence that this is the case comes from analysis on many timescales and from many sources, including: direct observations; composites from baskets of different proxy observations; and numerical climate models. On millennial timescales, paleoclimate indicators have been compared to cosmogenic isotope abundances as the latter are a proxy for solar activity. These have also been used on century times scales but, in addition, instrumental data are increasingly available (mainly telescopic observations of sunspots and thermometer measurements of air temperature) and show that, for example, the temperature fluctuations do not match the solar activity variations and that the commonly-invoked association of the Little Ice Age with the Maunder minimum is far too simplistic as, although solar variations may have played a minor role, a much bigger factor is known to be Little Ice Age volcanism. In recent decades observations of unprecedented accuracy, sensitivity and scope (of both solar activity and terrestrial climate) have become available from spacecraft and show unequivocally that recent global warming is not caused by changes in the Sun.
+
+Geologic time
+
+Earth formed around 4.54 billion years ago[2][3][4] by accretion from the solar nebula. Volcanic outgassing probably created the primordial atmosphere, which contained almost no oxygen and would have been toxic to humans and most modern life. Much of the Earth was molten because of frequent collisions with other bodies which led to extreme volcanism. Over time, the planet cooled and formed a solid crust, eventually allowing liquid water to exist on the surface.
+
+Three to four billion years ago the Sun emitted only 70% of its current power. Under the present atmospheric composition, this past solar luminosity would have been insufficient to prevent water from uniformly freezing. There is nonetheless evidence that liquid water was already present in the Hadean[6][7] and Archean[8][6] eons, leading to what is known as the faint young Sun paradox. Hypothesized solutions to this paradox include a vastly different atmosphere, with much higher concentrations of greenhouse gases than currently exist.
+
+Over the following approximately 4 billion years, the Sun's energy output increased and the composition of the Earth atmosphere changed. The Great Oxygenation Event around 2.4 billion years ago was the most notable alteration of the atmosphere. Over the next five billion years, the Sun's ultimate death as it becomes a very bright red giant and then a very faint white dwarf will have dramatic effects on climate, with the red giant phase likely already ending any life on Earth.
+
+Measurement
+
+Since 1978, solar irradiance has been directly measured by satellites with very good accuracy.:6 These measurements indicate that the Sun's total solar irradiance fluctuates by +-0.1% over the ~11 years of the solar cycle, but that its average value has been stable since the measurements started in 1978. Solar irradiance before the 1970s is estimated using proxy variables, such as tree rings, the number of sunspots, and the abundances of cosmogenic isotopes such as 10Be,[12] all of which are calibrated to the post-1978 direct measurements.
+
+Solar activity has been on a declining trend since the 1960s, as indicated by solar cycles 19-24, in which the maximum number of sunspots were 201, 111, 165, 159, 121 and 82, respectively. In the three decades following 1978, the combination of solar and volcanic activity is estimated to have had a slight cooling influence. A 2010 study found that the composition of solar radiation might have changed slightly, with in an increase of ultraviolet radiation and a decrease in other wavelengths."[16]
+
+Modern era
+
+In the modern era, the Sun has operated within a sufficiently narrow band that climate has been little affected. Models indicate that the combination of solar variations and volcanic activity can explain periods of relative warmth and cold between A.D. 1000 and 1900.
+
+The Holocene
+
+Numerous paleoenvironmental reconstructions have looked for relationships between solar variability and climate. Arctic paleoclimate, in particular, has linked total solar irradiance variations and climate variability. A 2001 paper identified a ~1500 year solar cycle that was a significant influence on North Atlantic climate throughout the Holocene.
+
+Little Ice Age
+
+One historical long-term correlation between solar activity and climate change is the 1645–1715 Maunder minimum, a period of little or no sunspot activity which partially overlapped the "Little Ice Age" during which cold weather prevailed in Europe. The Little Ice Age encompassed roughly the 16th to the 19th centuries. Whether the low solar activity or other factors caused the cooling is debated.
+
+The Spörer Minimum between 1460 and 1550 was matched to a significant cooling period.
+
+A 2012 paper instead linked the Little Ice Age to volcanism, through an "unusual 50-year-long episode with four large sulfur-rich explosive eruptions," and claimed "large changes in solar irradiance are not required" to explain the phenomenon.
+
+A 2010 paper suggested that a new 90-year period of low solar activity would reduce global average temperatures by about 0.3 °C, which would be far from enough to offset the increased forcing from greenhouse gases.
+
+Fossil fuel era
+
+The link between recent solar activity and climate has been quantified and is not a major driver of the warming that has occurred since early in the twentieth century. Human-induced forcings are needed to reproduce the late-20th century warming. Some studies associate solar cycle-driven irradiation increases with part of twentieth century warming.
+
+Three mechanisms are proposed by which solar activity affects climate:
+
+Solar irradiance changes directly affecting the climate ("radiative forcing"). This is generally considered to be a minor effect, as the measured amplitudes of the variations are too small to have significant effect, absent some amplification process.
+
+Variations in the ultraviolet component. The UV component varies by more than the total, so if UV were for some (as yet unknown) reason to have a disproportionate effect, this might explain a larger solar signal.
+
+Effects mediated by changes in galactic cosmic rays (which are affected by the solar wind) such as changes in cloud cover.
+
+Climate models have been unable to reproduce the rapid warming observed in recent decades when they only consider variations in total solar irradiance and volcanic activity. Hegerl et al. (2007) concluded that greenhouse gas forcing had "very likely" caused most of the observed global warming since the mid-20th century. In making this conclusion, they allowed for the possibility that climate models had been underestimating the effect of solar forcing.
+
+Another line of evidence comes from looking at how temperatures at different levels in the Earth's atmosphere have changed. Models and observations show that greenhouse gas results in warming of the troposphere, but cooling of the stratosphere. Depletion of the ozone layer by chemical refrigerants stimulated a stratospheric cooling effect. If the Sun was responsible for observed warming, warming of the troposphere at the surface and warming at the top of the stratosphere would be expected as the increased solar activity would replenish ozone and oxides of nitrogen.

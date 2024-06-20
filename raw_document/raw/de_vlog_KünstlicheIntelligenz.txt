@@ -1,0 +1,77 @@
+Künstliche Intelligenz & Klimawandel: Wie können Daten unsere Stadtplanung verbessern?
+
+Was ist künstliche Intelligenz?
+Laut Wikipedia:
+Künstliche Intelligenz, auch artifizielle Intelligenz, Englisch Artificial Intelligence, ist ein Teilgebiet der Informatik, das sich mit der Automatisierung intelligenten Verhaltens und dem maschinellen Lernen befasst.
+Die Digitalisierung hat unser Leben verändert.
+Es ist einfacher geworden, manchmal vielleicht auch komplizierter.
+Auf jeden Fall erzeugen wir alle im Internet unglaubliche Mengen an Daten.
+Aber auch die Sensoren in unseren Autos produzieren Daten.
+Satelliten vermessen unsere Umwelt.
+Kameras überwachen den Verkehr.
+Das Sammeln und Verarbeiten dieser Daten ist ein Riesengeschäft.
+Es kurbelt unseren Konsum an mit gravierenden Folgen für unseren Planeten.
+Besonders der Klimawandel gefährdet die Zukunft der Menschheit.
+Daher stellen sich immer mehr Wissenschaftlerinnen und Wissenschaftler eine Frage:
+Wie können wir den digitalen Fortschritt nutzen um unser Klima zu schützen?
+In Berlin treffen wir Felix Creutzig vom Mercator Research Institute.
+Er forscht seit Jahren zum Potenzial von künstlicher Intelligenz im Kampf gegen den Klimawandel.
+Seine Arbeitsgruppe beschäftigt sich mit Landnutzung, Infrastruktur und Transport.
+Was verraten Felix Creutzig unsere Daten über unseren Alltag.
+Wir wissen schon, dass es statistisch gewisse Zusammenhänge zwischen Gebäudebestand und CO2 Emissionen in Gebäuden, aber auch im Transportsektor, vorhanden ist.
+Was wir jetzt machen können, dass wir hochaufgelöst sagen können, in dieser Art zu bauen, mit dieser Art von Straßenformaten, in diesem Gesamtkontext einer Stadt, hat diese CO2 Emissionen.
+Das können wir jetzt berechnen.
+Wegen dieser hohen Kontextualität brauchen wir KI dafür.
+Felix Creutzig will alltägliche Vorgänge besser verstehen.
+Ein Beispiel: Stadtplaner wissen natürlich dass viele Pendler und Pendlerinnen täglich in die Städte kommen.
+Nun zeigt die Auswertung von Daten, woher sie kommen, wohin sie wolle und zu welchen Uhrzeiten sie sich durch die Stadt bewegen.
+So lassen sich präzise Prognosen treffen, beispielsweise über das Potenzial von modernen Mobilitätskonzepten wie Sammeltaxis oder Carsharing-Modellen.
+Das Zusammenspiel aus verschiedenen Datenquellen ist hochkomplex.
+Um Zusammenhänge zu erkennen, benutzt das Team um Felix Creutzig künstliche Intelligenz.
+Es würde zu lange dauern, konventionelle Algorithmen auf die unterschiedlichen Rechenaufgaben anzupassen.
+Felix Creutzig verarbeitet für sein Programm Daten der Stadt Berlin.
+Er will sein Modell aber auch anderen Städten zur Verfügung stellen.
+Was wir gemacht haben, ist, den Status Quo mit KI zu erfassen.
+Das heißt, wir wissen jetzt, was die Muster bedeuten für CO2 Emissionen.
+Jetzt müssen wir das im sogenannten Predictive Modeling anwenden.
+Beim Predictive Modeling werden Daten durchsucht, um Muster zu erkennen.
+Auf Basis von vorher festgelegten Annahmen wird dazu zuerst ein statistisches Modell gebildet, das die Wahrscheinlichkeit bestimmter Ereignisse in der Zukunft berechnet.
+Predictive Modeling wird häufig angewendet, ob in Wettervorhersagen im Marketing oder eben in der Stadtplanung.
+Also was passiert, wenn man die räumlichen Muster hypothetisch ändern?
+Was bedeutet das für zusätzliche CO2 Emissionen?
+Künstliche Intelligenz erfindet die Stadtplanung nicht neu, aber sie macht das Planen genauer und schneller.
+Mit künstlicher Intelligenz lassen sich in kurzer Zeit verschiedene Modelle berechnen.
+Wir wissen schon aus vergleichbaren Studien, dass vor allen Dingen Neubauten entlang von zentralen Transport-Achsen, also da, wo es schienenbasierten Verkehr gibt, sehr sinnvoll ist, weil dadurch sehr wenig zusätzliche CO2 Emissionen entstehen.
+Eine andere Möglichkeit ist die Verdichtung.
+Also das entlang bestehender Gebäude, dass da ein zusätzliches Stockwerk aufgebaut wird.
+Und was nicht günstig ist:
+Neubaugebiete ohne Anschluss an öffentlichen Nahverkehr.
+Dadurch werden über 20 Jahre neue CO2 Emissionen induziert.
+Die Berechnung dieser Sachen wollen wir kontextuell, hoch akkurat in den nächsten zwei Jahren für Berlin liefern.
+Für ihre Berechnungen braucht die Forschungsgruppe von Felix Creutzig große Datenmengen.
+Es geht darum, den Algorithmus der künstlichen Intelligenz mit so vielen Daten zu füttern wie möglich, damit seine Prognosen immer präziser werden.
+Deshalb stellt die Stadt Berlin Felix Creutzig viele Daten zur Verfügung Über den Verkehr auf den Straßen, über die Nutzung von Bussen und Bahnen über die Zahl von Wohnungen, ihr Alter und wie viele Mensche in ihnen leben.
+Aber Felix Creutzig könnte noch genauere Vorhersagen treffen wenn er die Daten großer Internetkonzerne verwenden dürfte.
+Zentral ist, dass die großen Datenbetreiber bestimmte Datenqualitäten teilen.
+Also zum Beispiel Google hat einen extrem hohe Datenbestand, der ohne Konkurrenz ist.
+Und diese Daten könnten auch dem öffentlichen Zweck dienen zum Beispiel der klimafreundlichen Stadtplanung.
+Das würde bedingen, dass die Berechnungen auf den Daten dezentral stattfinden.
+Also man hat nicht den Zugang auf die Rohdaten sondern nur Zugang auf die Rechenergebnisse.
+Der Klimaschutz würde enorm profitieren, wenn Google und Facebook die Millionen Daten mit der Gesellschaft teilen würden, die wir alle jeden Tag mit unseren Smartphones erzeugen.
+Auf die sichere Verwaltung dieser Daten aber wären nicht alle Städte vorbereitet.
+Felix Creutzig plädiert für mehr Zusammenarbeit und will sein Modell für Berlin auch anderen Städten zur Verfügung stellen.
+Und er hat noch weitere Ideen für Kooperationen.
+Ein wichtiger Punkt ist auf jeden Fall, dass Daten-Governance und die Bearbeitung und sichere Vorhaltung von Daten, und am Ende auch die Nutzung der Algorithmen darauf sehr viel Kapazität verlangt.
+Und nicht jede Stadt hat die finanziellen Mittel dafür.
+Auch die großen Städte tun sich schon schwer.
+Berlin hat City Lab, einen Think Tank, der sich damit beschäftigt.
+Viele andere, kleinere Städte können sich überhaupt nicht damit beschäftigen.
+Und auch Berlin bräuchte mehr Kapazität.
+Und da ist also darüber nachzudenken ob es vielleicht im Städteverbund eine Art von Daten-Governance geben könnte.
+Eine Stiftung, die sich um die sichere Bewahrung und Verwaltung der Daten kümmert.
+Das ist skalierbar, das heißt das nicht nur für eine Stadt dann zugänglich sondern für viele Städte zugänglich.
+Eine solche Stiftung ist nicht die einzige Forderung, die Felix Creutzig an unsere Gesellschaft hat.
+Ungewöhnlich für einen Wissenschaftler, der die scheinbar grenzenlosen Möglichkeiten von künstlicher Intelligenz erforscht, ist seine Forderung dem Einsatz künstlicher Intelligenz Grenzen zu setzen.
+Wir wissen über Digitalisierung im Allgemeinen und KI im Speziellen, dass das ein Beschleunigungsfaktor der technologischen Entwicklung ist und Beschleunigung bedeutet auch beschleunigter Ressourcenverbrauch und mehr CO2 Emissionen am Ende.
+Das heißt, wenn wir ohne Regulation reingehen, können wir keine Hoffnung machen, das KI etwas zum Klimaschutz bringt.
+Wenn wir dagegen sagen, dass vor allen Dingen in klimafreundlichen Bereiche die KI eingesetzt wird, in anderen nicht mehr, dass zum Beispiel auch Lenkungsinstrumente dabei sind, wie ein hoher CO2 Preis, dann sind wir in einem Umfeld, wo wir davon ausgehen können, dass die KI uns auch wirklich hilft.

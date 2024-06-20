@@ -1,0 +1,64 @@
+Climate change and infectious diseases the example of dengue
+
+Hello, My name is ValĂŠrie Louis.
+I am a researcher at the institute of Public Health at the University of Heidelberg in Germany.
+Today I will tell you about climate change and infectious diseases, in particular climate sensitive diseases, and I will take the example of Dengue, which is a viral illness which transmitted by a mosquito.
+First of all : What are climate sensitive diseases?
+As the name tells, there are diseases affected directly by climatic factors.
+There are three of those climatic factors: temperature, precipitation (rainfall) and humidity.
+Let me give you some examples of climate sensitivity diseases: They can be vector-borne diseases such as: malaria or dengue which are transmitted by mosquitoes, or lyme disease that is transmitted by ticks.
+Those vector-borne diseases are not transmitted directly from human to humans but through a vector, which is an insect, a tick or another animal.
+They can also be food or water-borne diseases, that are often transmitted through bacteria.
+Through which mechanisms is the transmission happening?
+When we look at the temperature.
+Often a lot of biological mechanisms occur more rapidly when the temperature is higher.
+Why?
+The pathogen so that can be the virus or the parasite, often develops more rapidly with higher temperature.
+The vector itself, which can be the mosquito or the tick, also develops more rapidly with hotter temperature, and is more active, so will feed more often on the host, the human being for example.
+All this implies that the transmission will happen within a shorter period of time.
+Therefore the probability of disease transmission is going to increase.
+Variation of temperature also means that there is an optimal range of temperature.
+There is a minimal temperature above which the transmission can occur.
+And often a maximal temperature and if the temperature is above 40Â°C, for example, mosquitoes will begin to die off, and actually the transmission will be reduced.
+When it comes to precipitation, it is crucial because rainfall creates the habitat for the vector.
+The presence of water is a place where the mosquito, for example, can breed and develop.
+Without water, often, no vector, no transmission.
+The timing of precipitation is also important.
+After a heavy rain, perhaps the larvae are washed away, but if after heavy rain the water remains for two weeks, then the larvae can develop and support transmission.
+The third factor, humidity, is often important for the survival of the adult stage, for mosquito for example.
+Now I will tell you more specifically about Dengue.
+As I said, Dengue is transmitted by a mosquito.
+There are two main mosquitoes transmitting Dengue: the Aedes aegypti and the Aedes albopictus, also know as the Asian tiger mosquito.
+For the transmission of Dengue, Aedes Egypti is more competent, is more effective if you wish, at transmitting the disease, and is much associated with urban locations.
+Dengue is actually a very complex disease.
+Many factors come to the efficacy of the transmission.
+So how do climatic factor influence Dengue transmission?
+First through temperature.
+With higher temperature, the larvae, immature stage, develop more rapidly, which means that the adult emerge earlier than at lower temperature.
+The adult itself will bite more often with higher temperature.
+The virus will replicate more rapidly.
+So with higher temperature, the Dengue will be transmitted more rapidly and more often.
+Of course, there is a maximum temperature.
+Over 40°C, mosquito will not survive as much, and that will decrease the Dengue transmission.
+Humidity plays also an important role in the survival of the adult mosquitoes, and how often the mosquito feeds.
+Rainfall is also very important because it provides the habitat where the eggs can be laid, and the larvae can develop.
+Other factors are important for Dengue transmission: the virus itself and its virulence, the population's immunity, if the population has seen the virus before or not, the human behavior: the water used to be stored, and in that case, water storage can provide perfect habitat for the mosquitoes to breed and reproduce and transmit the disease.
+And human mobility : two important factors are urbanization and globalization.
+Urbanization because it brings population of humans in close area which makes it perfect for the Aedes mosquito, which is well adapted to human population to breed and to transmit the disease, and globalization because it has contributed to spread the vector, the mosquito, worldwide, and also the virus.
+If we look at the map, provided by Pr. Gubler, that compares where the mosquitoes were spread in the 1930s, and nowadays, in this case, in South America, we see that in 21st century, we reach again the level of the 1930s.
+So the vector itself is now very much widespread worlwide, and here we see a map showing the two species of mosquitoes are spread nowadays, and we see that they covered most of the tropics, and subtropical areas of the world, which put about half of the world population at risk of Dengue transmission.
+If we look a bit more closely at Europe, and in particular in France, we see that in a later years, the mosquito itself has invaded all the south of France and as far as the virus, we now observe a few autochonous cases, which means locally transmitted cases, which mean that we are not in an epidemic level yet, but there are sporadic cases that may have the potential to reach epidemic levels, especially if the temperature remains higher in the region.
+This makes Dengue a major challenge for the 21st century.
+Why is that?
+Well, there is still no vaccine, and as long as there is no vaccine against Dengue, it will remain a challenge.
+What else do we have on the preventive side?
+We have vector-control, mosquito control.
+Unfortunately this is often expensive, labour intensive, and not very effective.
+We can develop new tools such as for example early warning system.
+Because Dengue is a climate sensitive disease, it can actually be modeled, based on temperature, precipitation and humidity.
+A few studies have done it, and have allowed to model Dengue occurence, in a way to forecast Dengue occurence, based on climatic factors.
+As a consequence, to give an early warning system to public health authorities, to help prepare the population and the health system.
+In conclusion, how can we adapt to the challenge of Dengue in the 21st century?
+We can continue to improve the vector control, we can continue to look for vaccines, and we can develop new tools such as early warning systems based on the modeling of climatic factors.
+We know that Dengue provides a good example of other climate sensitive diseases which will have to face in relation to climate change and to which we have to respond and adapt in the 21st century.
+Thank you.

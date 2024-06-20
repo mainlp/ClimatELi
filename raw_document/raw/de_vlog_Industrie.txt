@@ -1,0 +1,110 @@
+Klimawandel und Industrie - Kursübersicht
+
+Thomas Kienberger hat bereits eine sehr schöne Einführung gemacht in die allgemeine Problematik.
+Zusammengefasst, die Lage ist ernst, aber nicht hoffnungslos natürlich.
+Wir haben wirklich ein ernstes Problem, den Treibhauseffekt und unser Ziel, unser aller Ziel, muss es sein, Klimaneutralität zu erreichen.
+Und selbstverständlich spielen hier Unternehmen, Industrieunternehmen, eine besonders wichtige, eine zentrale Rolle.
+Wie kann uns das gelingen?
+Indem wir das in die normalen Managementabläufe integrieren, dieses Ziel der Klimaneutralität.
+Man nennt das Carbon Management.
+Also wir kennen schon Abfallwirtschaftsmanagement.
+Wir kennen Energiemanagement.
+Wir kennen unterschiedliche Aspekte des Umweltmanagements, des Environmentalmanagements.
+Carbon Management ist relativ neu.
+Im Rahmen dieses MOOC werden Sie erkennen: 
+Es ist relativ leicht integrierbar.
+Man muss sich ganz klare Ziele setzen.
+Das ist das Allerwichtigste.
+Auch Zwischenziele, die man erreichen kann.
+Das Endziel muss Klimaneutralität sein.
+Wir werden dieses Endziel nie ganz erreichen können.
+Das ist ganz selbstverständlich.
+Es gibt einen unvermeidbaren Anteil an CO2 Emissionen, der bleiben wird, aber der hoffentlich global absorbierbar ist, von unserer Biosphäre absorbierbar ist.
+Dieses Ziel müssen wir erreichen.
+Bei manchen Unternehmen wird das leichter gehen.
+Da wird man relativ rasch 80, 90 % reduzieren können.
+Bei anderen Unternehmen wird es schwieriger.
+Da bleiben vielleicht sogar 20, 30 % nicht vermeidbare Emissionen zurück.
+In den ersten Modulen werden Sie also, wie gesagt, Managementinstrumente kennenlernen, wie man mit dem Problem Treibhauseffekt, mit dem Ziel Klimaneutralität umgeht.
+Sie werden sich intensiver befassen mit den Normen des Umweltmanagements, auch mit den im Entstehen begriffenen Normen.
+Was Carbon Management, was Kohlenstoffmanagement betrifft. 
+Wir werden uns intensiver mit Lieferkette befassen müssen. 
+Denn die indirekten Emissionen, jene Emissionen, die wir Upstream mitverursachen, im Rahmen der Lieferkette, aber auch Downstream, was unsere Produkte, was den Abfall betrifft, der aus den Produkten letztendlich entsteht.
+Auch damit werden wir uns befassen müssen.
+Schon aufgrund der Entwicklungen auf der gesetzlichen Ebene, auf der europäischen, auf der Eben der Europäischen Union.
+Das wird in den nächsten Jahren immer bedeutsamer, immer wichtiger werden.
+Nachhaltigkeitsberichterstattung.
+Auch hier ist einiges, salopp ausgedrückt, im Busch.
+Wir werden intensiver über die Nachhaltigkeitsentwicklung in unserem Unternehmen berichten müssen und das auch transparent machen müssen.
+Es muss veröffentlicht werden, wie sehr wir uns bemühen in Richtung Nachhaltigkeit.
+Das ist komplex, komplexer als bloßes Carbon Management.
+Das ist nur ein Teil der Nachhaltigkeit.
+Aber wir müssen uns dieser Herausforderung stellen.
+Ich glaube, es führt, gerade in Europa, überhaupt kein Weg daran vorbei, letztendlich aber auch global.
+Im zweiten Teil dieses Moduls wird es im engeren Sinn um das Carbon Management gehen und beginnen tut man da immer mit einer ordentlichen, mit einer soliden normgerechten Bilanz.
+Da orientiert man sich am Greenhouse Gas Protokoll.
+Man orientiert sich an einer ISO Norm.
+Hier geht es darum, alle direkten und auch indirekten Emissionen einzubeziehen.
+Also es geht nicht mehr nur um die direkten, am Standort entstehenden CO2 Emissionen, sondern auch um die Emissionen, für die wir doch auch indirekt verantwortlich sind.
+Denken Sie an die Arbeitnehmerinnen und Arbeitnehmer, an die Pendlerinnen und Pendler.
+Auch deren Emissionen, wenn sie mit ihrem Auto zur Fabrik kommen, sind in einer soliden Treibhausgasbilanz einzubeziehen und sind im Bereich der Mitverantwortung des Unternehmens.
+Es geht hier um eine geteilte Verantwortung.
+Natürlich kann niemand das alleine stemmen.
+Auch staatliche Rahmenbedingungen spielen hier eine große Rolle.
+Gemeinsam ist das machbar.
+Es wird darum gehen, Maßnahmen zu entwickeln.
+Einen Maßnahmenkatalog, eine Roadmap zu entwickeln.
+Ein Wasserfalldiagramm aufzuzeichnen, das darstellt, wie wir von den aktuellen Emissionen von den hohen Emissionen Schritt für Schritt, Jahr um Jahr runterkommen, hin zu diesen letztlich nicht mehr vermeidbaren Emissionen in der Größenordnung von 10 %, 20 % der aktuelle Emissionen.
+Das ist machbar.
+Das kostet auch.
+Manches rechnet sich, manches wird sich rechnen.
+Ich glaube, dass die Entwicklungen letztlich in eine sehr positive Richtung gehen und es klug und richtig ist, sich jetzt auf den Weg zu machen.
+Und wie gesagt, es geht letztlich auch um Berichterstattung.
+Es geht um Veröffentlichung von Berichten.
+Eine solide Treibhausgasbilanz gehört immer auch auf die Homepage eines Unternehmens.
+Im weiteren Modulen wird es um Energie im engeren Sinn gehen. 
+Und um Green Production. 
+Also Klimaneutralität hat auch etwas mit unseren Produktionsprozessen zu tun. 
+Nicht nur mit den Energiequellen, mit denen wir arbeiten, mit den Energieträgern, sondern natürlich auch um die Prozesse selber.
+Also diese beiden Seiten integriert zu betrachten, ist die Aufgabe der nächste Module.
+Es geht in allererster Linie einmal zunächst um die Nutzung, verstärkte Nutzung, von Abwärme.
+Das klingt sehr banal.
+Viele Unternehmen machen das bereits, dass sie ihre industrielle Abwärme in Netze einspeisen.
+Viele Unternehmen aber tun das noch nicht.
+Hier das Potenzial möglichst weitgehend zu nutzen, ist die Aufgabe der nächsten Jahre.
+Diese Einbindung von industrieller Abwärme.
+Aber natürlich auch in Kombination mit Wärmepumpe, in Kombination mit Speichersystemen, mit Solarthermie, die dann dort sicher auch eine Rolle spiele wird auf diesem Weg zur Dekarbonisierung.
+Es geht letztlich darum, dass Sie den Stand der Technik kennenlernen.
+Also erkennen, welche Möglichkeiten habe ich für mein Unternehmen, Schritte Richtung Klimaneutralität technologisch getrieben umzusetzen.
+Es geht um die Optimierung der Produktionslogistik.
+All das sind Managementmaßnahmen, die gesetzt werden müssen, die Potenzial haben.
+Ob es bei Ihrem Unternehmen Potenzial hat, wird dann genau überprüft, zu überprüfen sein und gegebenenfalls zu implementieren sein.
+Im nächsten Modul geht es ganz zentral um Energieeffizienz.
+Wir haben, wie gesagt, im Zusammenhang mit Klimaneutralität sehr oft über erneuerbar Energieträger gesprochen, erneuerbare Materialien, Materialien aus erneuerbaren Rohstoffen.
+Das ist gut und richtig so.
+Etwas im Schatten bleibt immer die Energieeffizienz.
+Ich persönlich weiß nicht warum, denn gerade in diesem Bereich rechnen sich oft Maßnahmen.
+Sind die tatsächlich auch ökonomisch gut darstellbar.
+Da geht es auch um das Berücksichtigen bereits bestehender gesetzliche Rahmenbedingungen, wie zum Beispiel Energieeffizienzgesetz.
+Es geht auch ein Stück weit um den Emissionshandel und welche Rolle er, wie gesagt, für Investitionen, für diese Maßnahmen bei Unternehmen spielt.
+Es geht um eine letztlich kontinuierliche Effizienzsteigerung in den Produktionsprozessen, auch unter Berücksichtigung der Produkte.
+Viele unserer Unternehmen stellen auch Produkte her, die wiederum gute Auswirkungen habe können hinsichtlich Energieeffizienz bei Endverbrauchern, bei Konsumenten, aber auch Investitionsgüter herstellen, die ebenfalls andere Unternehmen unterstützen auf ihrem Weg zu mehr Energieeffizienz.
+Ein nächster Themenbereich, der in einem Modul behandelt wird, ist das Thema Bioraffinerie.
+Ist das Thema grüner Wasserstoff und neue Prozesse.
+Also das sind sehr fundamentale Themen, mit denen wir uns da auseinandersetzen werden.
+Ich nehme nur heraus die Bioraffinerie.
+Darunter versteht man nicht das Gegenteil der normalen erdölbasierten Raffinerie.
+Es sind durchaus ähnliche Prozesse, die sich da abspielen in der Raffinerie.
+Es geht darum, dass man aus erneuerbaren Materialien, Materialien aus der Biomasse, aus der Biosphäre, Produkte erstellt, herstellt, synthetisiert, durch Destillation herstellt, die in andere Produktionsprozessen bei der Herstellung von Produkten nützlich sein können.
+Die de Weg beschreiten, heraus aus einer erdölbasierten Produktewelt, wenn man es so nennen will.
+Dieser Umstieg von fossilbasierter Raffinerie auf Bioraffinierie.
+Da wird nicht nur in Raffinerien im engeren Sinn sich abspielen, sondern durchaus in ganz normalen Industrieunternehmen, die eben mit ihren Rohstoffen, mit denen sie hantieren, einerseits ganz normale Produkte herstellen, unter Anführungszeichen, also jene Produkte, die sie traditionellerweise schon sehr erfolgreich herstellen, aber vielleicht Abfallprodukte haben, aus denen man im Sinne einer Bioraffinerie eine Vielzahl von Stoffen herstellen kann, die letztlich in weiteren Industrieprozessen oder auch beim Endkonsumenten Nutzen stiften.
+Zweites großes Thema, das in diesem Modul behandelt wird, ist der grüne Wasserstoff.
+Warum darf man ihn grün nennen?
+Warum ist er grün?
+Nicht weil er aus Wasser ist, das ist ja erneuerbarer Rohstoff, sondern weil die Energie, die dafür genutzt wird, der elektrische Strom, aus erneuerbaren Energiequellen stammen muss.
+Nur dann ist es grüner Wasserstoff, wenn er aus erneuerbaren Energiequellen stammt.
+Dabei entsteht, also man verwendet Elektrolyse als Prozess, um grünen Wasserstoff herzustellen.
+Gleichzeitig entsteht Sauerstoff, der ebenfalls sehr nutzstiftend eingesetzt werden kann.
+Dieser grüne Wasserstoff wird dann in einigen Bereichen als Energieträger eingesetzt werden müssen für Hochtemperaturprozesse.
+Andererseits aber natürlich auch als Rohstoff für weitere Produkte.

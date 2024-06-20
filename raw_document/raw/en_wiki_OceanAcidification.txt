@@ -1,0 +1,43 @@
+Ocean acidification
+
+Ocean acidification is the decrease in the pH of the Earth’s ocean. Between 1950 and 2020, the average pH of the ocean surface fell from approximately 8.15 to 8.05. Carbon dioxide emissions from human activities are the primary cause of ocean acidification, with atmospheric carbon dioxide (CO2) levels exceeding 410 ppm (in 2020). CO2 from the atmosphere is absorbed by the oceans. This produces carbonic acid (H2CO3) which dissociates into a bicarbonate ion (HCO−3) and a hydrogen ion (H+). The presence of free hydrogen ions (H+) lowers the pH of the ocean, increasing acidity (this does not mean that seawater is acidic yet; it is still alkaline, with a pH higher than 8). Marine calcifying organisms, such as mollusks and corals, are especially vulnerable because they rely on calcium carbonate to build shells and skeletons.
+
+A change in pH by 0.1 represents a 26% increase in hydrogen ion concentration in the world's oceans (the pH scale is logarithmic, so a change of one in pH unit is equivalent to a tenfold change in hydrogen ion concentration). Sea-surface pH and carbonate saturation states vary depending on ocean depth and location. Colder and higher latitude waters are capable of absorbing more CO2. This can cause acidity to rise, lowering the pH and carbonate saturation levels in these areas. Other factors that influence the atmosphere-ocean CO2 exchange, and thus local ocean acidification, include: ocean currents and upwelling zones, proximity to large continental rivers, sea ice coverage, and atmospheric exchange with nitrogen and sulfur from fossil fuel burning and agriculture.
+
+Decreased ocean pH has a range of potentially harmful effects for marine organisms. These include reduced calcification, depressed metabolic rates, lowered immune responses, and reduced energy for basic functions such as reproduction. The effects of ocean acidification are therefore impacting marine ecosystems that provide food, livelihoods, and other ecosystem services for a large portion of humanity. Some 1 billion people are wholly or partially dependent on the fishing, tourism, and coastal management services provided by coral reefs. Ongoing acidification of the oceans may therefore threaten food chains linked with the oceans.
+
+The United Nations Sustainable Development Goal 14 ("Life below Water") has a target to "minimize and address the impacts of ocean acidification". Reducing carbon dioxide emissions (i.e. climate change mitigation measures) is the only solution that addresses the root cause of ocean acidification. Mitigation measures which achieve carbon dioxide removal from the atmosphere would help to reverse ocean acidification. The more specific ocean-based mitigation methods (e.g. ocean alkalinity enhancement, enhanced weathering) could also reduce ocean acidification. These strategies are being researched but generally have a low technology readiness level and many risks.: 12–36
+
+Ocean acidification has occurred previously in Earth's history. The resulting ecological collapse in the oceans had long-lasting effects on the global carbon cycle and climate.
+
+Cause
+
+Present-day (2021) atmospheric carbon dioxide (CO2) levels of around 415 ppm are around 50% higher than preindustrial concentrations. The current elevated levels and rapid growth rates are unprecedented in the past 55 million years of the geological record. The source for this excess CO2 is clearly established as human driven, reflecting a mix of anthropogenic fossil fuel, industrial, and land-use/land-change emissions. The ocean acts as a carbon sink for anthropogenic CO2 and takes up roughly a quarter of total anthropogenic CO2 emissions. However, the additional CO2 in the ocean results in a wholesale shift in seawater acid-base chemistry toward more acidic, lower pH conditions and lower saturation states for carbonate minerals used in many marine organism shells and skeletons.
+
+Cumulated since 1850, the ocean sink holds up to 175±35 gigatons of carbon, with more than two-thirds of this amount (120GtC) being taken up by the global ocean since 1960. Over the historical period, the ocean sink increased in pace with the exponential anthropogenic emissions increase. From 1850 until 2022, the ocean has absorbed 26% of total anthropogenic emissions. Emissions during the period 1850–2021 amounted to 670±65gigatons of carbon and were partitioned among the atmosphere (41%), ocean (26%), and land (31%).
+
+The carbon cycle describes the fluxes of carbon dioxide (CO
+2) between the oceans, terrestrial biosphere, lithosphere,[17] and atmosphere. The carbon cycle involves both organic compounds such as cellulose and inorganic carbon compounds such as carbon dioxide, carbonate ion, and bicarbonate ion, together referenced as dissolved inorganic carbon (DIC). These inorganic compounds are particularly significant in ocean acidification, as they include many forms of dissolved CO
+2 present in the Earth's oceans.
+
+When CO2 dissolves, it reacts with water to form a balance of ionic and non-ionic chemical species: dissolved free carbon dioxide (CO2(aq)), carbonic acid (H2CO3), bicarbonate (HCO−3) and carbonate (CO2−3). The ratio of these species depends on factors such as seawater temperature, pressure and salinity (as shown in a Bjerrum plot). These different forms of dissolved inorganic carbon are transferred from an ocean's surface to its interior by the ocean's solubility pump. The resistance of an area of ocean to absorbing atmospheric CO2 is known as the Revelle factor.
+
+Main effects
+
+The ocean’s chemistry is changing due to the uptake of anthropogenic carbon dioxide (CO2).:395 Ocean pH, carbonate ion concentrations ([CO32−]), and calcium carbonate mineral saturation states (Ω) have been declining as a result of the uptake of approximately 30% of the anthropogenic carbon dioxide emissions over the past 270 years (since around 1750). This process, commonly referred to as “ocean acidification”, is making it harder for marine calcifiers to build a shell or skeletal structure, endangering coral reefs and the broader marine ecosystems.
+
+Ocean acidification has been called the "evil twin of global warming" and "the other CO2 problem". Increased ocean temperatures and oxygen loss act concurrently with ocean acidification and constitute the "deadly trio" of climate change pressures on the marine environment. The impacts of this will be most severe for coral reefs and other shelled marine organisms,[23][24] as well as those populations that depend on the ecosystem services they provide.
+
+Reduction in pH value
+
+
+Dissolving CO2 in seawater increases the hydrogen ion (H+
+) concentration in the ocean, and thus decreases ocean pH, as follows:[25]
+
+CO2 (aq) + H2O ⇌ H2CO3 ⇌ HCO3− + H+ ⇌ CO32− + 2 H+.
+
+In shallow coastal and shelf regions, a number of factors interplay to affect air-ocean CO2 exchange and resulting pH change. These include biological processes, such as photosynthesis and respiration,[28] as well as water upwelling. Also, ecosystem metabolism in freshwater sources reaching coastal waters can lead to large, but local, pH changes.
+
+Freshwater bodies also appear to be acidifying, although this is a more complex and less obvious phenomenon.
+
+The absorption of CO2 from the atmosphere does not affect the ocean's alkalinity.:2252 This is important to know in this context as alkalinity is the capacity of water to resist acidification. Ocean alkalinity enhancement has been proposed as one option to add alkalinity to the ocean and therefore buffer against pH changes.
