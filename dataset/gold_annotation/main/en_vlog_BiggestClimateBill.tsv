@@ -1,0 +1,1476 @@
+The	DET	O
+Biggest	ADJ	O
+Climate	PROPN	B	Climate
+Bill	PROPN	O
+of	ADP	O
+Your	PRON	O
+Life	NOUN	B	Life
+-	PUNCT	O
+But	CCONJ	O
+What	PRON	O
+does	AUX	O
+it	PRON	O
+DO	VERB	O
+!?	PUNCT	O
+
+Good	ADJ	O
+Morning	NOUN	O
+John	PROPN	O
+,	PUNCT	O
+Today	NOUN	O
+,	PUNCT	O
+Joe	PROPN	B	Joe_Biden
+Biden	PROPN	I	Joe_Biden
+is	AUX	O
+probably	ADV	O
+going	VERB	O
+to	PART	O
+sign	VERB	O
+the	DET	O
+largest	ADJ	O
+single	ADJ	O
+piece	NOUN	O
+of	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+legislation	NOUN	B	Legislation
+any	DET	O
+country	NOUN	B	Sovereign_state
+on	ADP	O
+our	PRON	B	Earth
+planet	NOUN	I	Earth
+has	AUX	O
+ever	ADV	O
+enacted	VERB	B	Bill_(law)
+.	PUNCT	O
+
+But	CCONJ	O
+everything	PRON	O
+I	PRON	O
+have	AUX	O
+read	VERB	B	Reading
+,	PUNCT	O
+AND	CCONJ	O
+I	PRON	O
+HAVE	AUX	O
+READ	VERB	O
+A	DET	O
+LOT	NOUN	O
+,	PUNCT	O
+is	AUX	O
+frustratingly	ADV	O
+thin	ADJ	O
+on	ADP	O
+details	NOUN	O
+.	PUNCT	O
+
+And	CCONJ	O
+,	PUNCT	O
+as	SCONJ	O
+I	PRON	O
+began	VERB	O
+to	PART	O
+do	VERB	O
+the	DET	O
+research	NOUN	B	Research
+myself	PRON	O
+on	ADP	O
+that	PRON	O
+…	PUNCT	O
+I	PRON	O
+discovered	VERB	B	Discovery_(observation)
+why	ADV	O
+.	PUNCT	O
+
+I	PRON	O
+have	AUX	O
+been	AUX	O
+going	VERB	O
+over	ADP	O
+non-partisan	ADJ	B	Nonpartisanism
+analysis	NOUN	B	Analysis
+,	PUNCT	O
+congressional	ADJ	B	Congressional_Budget_Office
+budget	NOUN	I	Congressional_Budget_Office
+office	NOUN	I	Congressional_Budget_Office
+reports	NOUN	O
+,	PUNCT	O
+talking	VERB	O
+to	ADP	O
+the	DET	O
+people	NOUN	O
+who	PRON	O
+wrote	VERB	O
+those	DET	O
+reports	NOUN	O
+,	PUNCT	O
+talking	VERB	O
+to	ADP	O
+the	DET	O
+Administrator	NOUN	B	Administrator_of_the_Environmental_Protection_Agency
+of	ADP	I	Administrator_of_the_Environmental_Protection_Agency
+the	DET	I	Administrator_of_the_Environmental_Protection_Agency
+EPA	PROPN	I	Administrator_of_the_Environmental_Protection_Agency
+,	PUNCT	O
+even	ADV	O
+,	PUNCT	O
+in	ADP	O
+some	DET	O
+cases	NOUN	O
+,	PUNCT	O
+reading	VERB	O
+THE	DET	O
+ACTUAL	ADJ	O
+TEXT	NOUN	O
+OF	ADP	O
+THE	DET	O
+SEVEN	NUM	O
+HUNDRED	NUM	O
+PAGE	NOUN	O
+BILL	NOUN	O
+and	CCONJ	O
+what	PRON	B	Interrogative_word
+I	PRON	O
+have	AUX	O
+found	VERB	O
+has	AUX	O
+been	AUX	O
+a	DET	O
+surprise	NOUN	O
+…	PUNCT	O
+but	CCONJ	O
+also	ADV	O
+…	PUNCT	O
+a	DET	O
+bit	NOUN	O
+of	ADP	O
+a	DET	O
+delight	NOUN	B	Happiness
+.	PUNCT	O
+
+So	ADV	O
+let	VERB	O
+'s	PRON	O
+start	VERB	O
+at	ADP	O
+the	DET	O
+beginning	NOUN	O
+.	PUNCT	O
+
+“	PUNCT	O
+This	PRON	O
+is	AUX	O
+the	DET	O
+beginning	NOUN	O
+,	PUNCT	O
+the	DET	O
+beginning	NOUN	O
+…	PUNCT	O
+”	PUNCT	O
+
+Around	ADV	O
+4	NUM	O
+billion	NUM	B	Billion
+years	NOUN	B	Year
+ago	ADV	I	Year
+,	PUNCT	O
+something	PRON	O
+started	VERB	O
+to	PART	O
+be	AUX	O
+alive	ADJ	B	Life
+on	ADP	O
+earth	NOUN	B	Earth
+and	CCONJ	O
+,	PUNCT	O
+ever	ADV	O
+since	ADP	O
+then	ADV	O
+,	PUNCT	O
+that	SCONJ	O
+life	NOUN	O
+has	AUX	O
+had	VERB	O
+a	DET	O
+profound	ADJ	O
+effect	NOUN	O
+on	ADP	O
+the	DET	B	Earth
+planet	NOUN	I	Earth
+.	PUNCT	O
+
+Photosynthesizers	NOUN	B	Photosynthesis
+used	VERB	O
+sunlight	NOUN	B	Sunlight
+to	PART	O
+break	VERB	O
+up	ADP	O
+Carbon	PROPN	B	Carbon_dioxide
+Dioxide	NOUN	I	Carbon_dioxide
+,	PUNCT	O
+build	VERB	B	Construction
+their	PRON	O
+bodies	NOUN	O
+out	ADP	O
+of	ADP	O
+the	DET	O
+carbon	NOUN	B	Carbon
+and	CCONJ	O
+release	VERB	O
+the	DET	O
+oxygen	NOUN	B	Oxygen
+.	PUNCT	O
+
+That	DET	O
+oxygen	NOUN	B	Oxygen
+made	VERB	O
+all	DET	O
+kinds	NOUN	B	Natural_kind
+of	ADP	O
+interesting	ADJ	B	Interest_(emotion)
+weird	ADJ	O
+things	NOUN	B	Object_(philosophy)
+happen	VERB	O
+,	PUNCT	O
+including	VERB	O
+,	PUNCT	O
+at	ADP	O
+one	NUM	O
+point	NOUN	O
+,	PUNCT	O
+killing	VERB	O
+almost	ADV	O
+everything	PRON	O
+.	PUNCT	O
+
+So	ADV	O
+,	PUNCT	O
+no	INTJ	O
+,	PUNCT	O
+life	NOUN	O
+creating	VERB	O
+atmospheric	ADJ	B	Atmosphere
+change	NOUN	O
+that	PRON	O
+has	VERB	O
+a	DET	O
+profound	ADJ	O
+negative	ADJ	O
+impact	NOUN	O
+on	ADP	O
+life	NOUN	O
+,	PUNCT	O
+not	PART	O
+actually	ADV	O
+new	ADJ	O
+.	PUNCT	O
+
+Over	ADP	O
+time	NOUN	O
+,	PUNCT	O
+life	NOUN	O
+kept	VERB	O
+shoving	VERB	O
+energy	NOUN	B	Energy
+into	ADP	O
+carbon	NOUN	O
+-	PUNCT	O
+containing	VERB	O
+molecules	NOUN	B	Molecule
+and	CCONJ	O
+then	ADV	O
+,	PUNCT	O
+after	SCONJ	O
+the	DET	O
+life	NOUN	O
+died	VERB	O
+,	PUNCT	O
+those	DET	O
+molecules	NOUN	B	Molecule
+would	AUX	O
+break	VERB	O
+down	ADP	O
+and	CCONJ	O
+the	DET	O
+energy	NOUN	B	Energy
+would	AUX	O
+be	AUX	O
+re-released	VERB	O
+.	PUNCT	O
+
+but	CCONJ	O
+sometimes	ADV	O
+the	DET	O
+molecules	NOUN	B	Molecule
+of	ADP	O
+the	DET	B	Death
+dead	ADJ	I	Death
+thing	NOUN	B	Object_(philosophy)
+would	AUX	O
+stay	VERB	O
+trapped	VERB	B	Trapping
+and	CCONJ	O
+they	PRON	O
+would	AUX	O
+n't	PART	O
+break	VERB	O
+down	ADP	O
+and	CCONJ	O
+they	PRON	O
+would	AUX	O
+get	AUX	O
+stuck	ADJ	O
+in	ADP	O
+the	DET	B	Earth
+earth	NOUN	I	Earth
+where	ADV	O
+they	PRON	O
+'d	AUX	O
+heat	VERB	B	Heat
+up	ADP	O
+and	CCONJ	O
+get	AUX	O
+squished	VERB	O
+and	CCONJ	O
+become	VERB	O
+coal	NOUN	B	Coal
+,	PUNCT	O
+or	CCONJ	O
+oil	NOUN	B	Petroleum
+,	PUNCT	O
+or	CCONJ	O
+natural	ADJ	B	Natural_gas
+gas	NOUN	I	Natural_gas
+.	PUNCT	O
+
+All	DET	O
+of	ADP	O
+that	DET	O
+energy	NOUN	B	Energy
+emitted	VERB	O
+by	ADP	O
+the	DET	B	Sun
+sun	NOUN	I	Sun
+,	PUNCT	O
+grabbed	VERB	O
+by	ADP	O
+life	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+then	ADV	O
+stored	VERB	B	Energy_storage
+by	ADP	O
+the	DET	B	Earth
+earth	NOUN	I	Earth
+,	PUNCT	O
+waiting	VERB	O
+there	ADV	O
+to	PART	O
+power	VERB	O
+your	PRON	O
+car	NOUN	B	Car
+or	CCONJ	O
+your	PRON	O
+refrigerator	NOUN	B	Refrigerator
+or	CCONJ	O
+your	PRON	O
+microsoft	PROPN	B	Zune
+zune	NOUN	I	Zune
+.	PUNCT	O
+
+That	DET	O
+energy	NOUN	B	Energy
+is	AUX	O
+what	PRON	B	Interrogative_word
+has	AUX	O
+powered	VERB	O
+so	ADV	O
+much	ADJ	O
+of	ADP	O
+our	PRON	O
+modern	ADJ	B	Modernity
+lives	NOUN	I	Modernity
+.	PUNCT	O
+
+but	CCONJ	O
+as	SCONJ	O
+we	PRON	O
+have	AUX	O
+released	VERB	O
+that	DET	O
+energy	NOUN	B	Energy
+to	PART	O
+do	VERB	O
+things	NOUN	O
+with	ADP	O
+,	PUNCT	O
+we	PRON	O
+have	AUX	O
+also	ADV	O
+released	VERB	O
+the	DET	O
+original	ADJ	O
+molecules	NOUN	B	Molecule
+that	SCONJ	O
+it	PRON	O
+was	AUX	O
+stored	VERB	B	Energy_storage
+inside	ADV	O
+of	ADP	O
+.	PUNCT	O
+
+Those	DET	O
+complicated	ADJ	O
+carbon	NOUN	B	Allotropes_of_carbon
+molecules	NOUN	I	Allotropes_of_carbon
+get	AUX	O
+broken	VERB	O
+down	ADP	O
+and	CCONJ	O
+carbon	NOUN	B	Carbon_dioxide
+dioxide	NOUN	I	Carbon_dioxide
+gets	AUX	O
+released	VERB	O
+.	PUNCT	O
+
+It	PRON	O
+is	AUX	O
+a	DET	O
+molecule	NOUN	B	Molecule
+that	PRON	O
+is	AUX	O
+opaque	ADJ	B	Opacity_(optics)
+to	ADP	O
+a	DET	O
+lot	NOUN	O
+of	ADP	O
+infrared	ADJ	B	Infrared
+radiation	NOUN	I	Infrared
+.	PUNCT	O
+
+A	DET	O
+gas	NOUN	B	Gas
+that	PRON	O
+makes	VERB	O
+our	PRON	B	Atmosphere
+atmosphere	NOUN	I	Atmosphere
+less	ADV	O
+clear	ADJ	O
+to	ADP	O
+heat	NOUN	B	Heat
+.	PUNCT	O
+
+And	CCONJ	O
+so	ADV	O
+heat	NOUN	B	Heat
+that	PRON	O
+would	AUX	O
+otherwise	ADV	O
+escape	VERB	O
+no	ADV	O
+longer	ADV	O
+is	AUX	O
+.	PUNCT	O
+
+There	PRON	O
+is	VERB	O
+more	ADJ	O
+energy	NOUN	B	Energy
+in	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+and	CCONJ	O
+it	PRON	O
+'s	AUX	O
+changing	VERB	O
+weather	NOUN	B	Weather
+patterns	NOUN	I	Weather
+,	PUNCT	O
+increasing	VERB	O
+droughts	NOUN	B	Drought
+and	CCONJ	O
+fires	NOUN	B	Fire
+and	CCONJ	O
+storms	NOUN	B	Storm
+and	CCONJ	O
+heat	NOUN	B	Heat_wave
+waves	NOUN	I	Heat_wave
+.	PUNCT	O
+
+But	CCONJ	O
+,	PUNCT	O
+unfortunately	ADV	O
+,	PUNCT	O
+we	PRON	O
+also	ADV	O
+really	ADV	O
+need	VERB	O
+all	DET	O
+that	DET	O
+energy	NOUN	B	Energy
+to	PART	O
+prevent	VERB	O
+people	NOUN	O
+from	SCONJ	O
+dying	VERB	B	Death
+in	ADP	O
+heat	NOUN	B	Heat_wave
+waves	NOUN	I	Heat_wave
+.	PUNCT	O
+
+To	PART	O
+make	VERB	O
+the	DET	O
+food	NOUN	B	Food
+people	NOUN	O
+eat	VERB	B	Eating
+,	PUNCT	O
+to	PART	O
+move	VERB	O
+it	PRON	O
+around	ADV	O
+,	PUNCT	O
+to	PART	O
+power	VERB	O
+the	DET	B	Airplane
+plane	NOUN	I	Airplane
+that	PRON	O
+takes	VERB	O
+me	PRON	O
+to	PART	O
+visit	VERB	O
+my	PRON	O
+brother	NOUN	O
+.	PUNCT	O
+
+We	PRON	O
+ca	AUX	O
+n't	PART	O
+just	ADV	O
+turn	VERB	O
+the	DET	O
+power	NOUN	B	Power_station
+plants	NOUN	I	Power_station
+off	ADP	O
+,	PUNCT	O
+people	NOUN	O
+would	AUX	O
+start	VERB	O
+dying	VERB	B	Death
+really	ADV	O
+quickly	ADV	O
+,	PUNCT	O
+and	CCONJ	O
+they	PRON	O
+would	AUX	O
+n't	PART	O
+stop	VERB	O
+for	ADP	O
+a	DET	O
+really	ADV	O
+,	PUNCT	O
+really	ADV	O
+long	ADJ	O
+time	NOUN	O
+.	PUNCT	O
+
+It	PRON	O
+'s	AUX	O
+messy	ADJ	O
+and	CCONJ	O
+it	PRON	O
+'s	AUX	O
+complex	ADJ	O
+and	CCONJ	O
+,	PUNCT	O
+like	ADP	O
+those	DET	O
+first	ADJ	O
+cyanobacteria	NOUN	B	Cyanobacteria
+people	NOUN	O
+started	VERB	O
+to	PART	O
+wonder	VERB	B	Wonder_(emotion)
+if	SCONJ	B	If_and_only_if
+we	PRON	O
+were	AUX	O
+n't	PART	O
+gonna	PART	B	Going-to_future
+just	ADV	O
+ruin	VERB	B	Ruins
+it	PRON	O
+for	ADP	O
+ourselves	PRON	O
+.	PUNCT	O
+
+But	CCONJ	O
+we	PRON	O
+are	AUX	O
+smarter	ADJ	O
+than	ADP	O
+them	PRON	O
+and	CCONJ	O
+we	PRON	O
+are	AUX	O
+more	ADV	O
+capable	ADJ	O
+of	SCONJ	O
+passing	VERB	O
+broad	ADJ	O
+based	VERB	O
+industrial	ADJ	B	Industrial_policy
+policy	NOUN	I	Industrial_policy
+with	ADP	O
+a	DET	O
+focus	NOUN	O
+on	ADP	O
+clean	ADJ	B	Sustainable_energy
+energy	NOUN	I	Sustainable_energy
+than	SCONJ	O
+they	PRON	O
+are	VERB	O
+.	PUNCT	O
+
+Barely	ADV	O
+…	PUNCT	O
+Just	ADV	O
+barely	ADV	O
+.	PUNCT	O
+
+And	CCONJ	O
+that	PRON	O
+brings	VERB	O
+us	PRON	O
+up	ADP	O
+to	ADP	O
+now	ADV	B	Present
+.	PUNCT	O
+
+(	PUNCT	O
+Music	NOUN	B	Music
+:	PUNCT	O
+“	PUNCT	O
+I	PRON	O
+'m	AUX	O
+so	ADV	O
+excited	ADJ	O
+,	PUNCT	O
+And	CCONJ	O
+I	PRON	O
+just	ADV	O
+can't	AUX	O
+hide	VERB	O
+it	PRON	O
+…	PUNCT	O
+”	PUNCT	O
+)	PUNCT	O
+
+In	ADP	O
+2005	NUM	O
+,	PUNCT	O
+a	DET	O
+couple	NOUN	O
+-	PUNCT	O
+a	DET	O
+years	NOUN	O
+before	SCONJ	O
+this	DET	O
+YouTube	PROPN	B	YouTube
+channel	NOUN	I	YouTube
+began	VERB	O
+,	PUNCT	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+hit	VERB	O
+peak	NOUN	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+of	ADP	O
+7	NUM	O
+billion	NUM	B	Billion
+tons	NOUN	B	Tonne
+per	ADP	O
+year	NOUN	O
+.	PUNCT	O
+
+At	ADP	O
+the	DET	O
+time	NOUN	O
+,	PUNCT	O
+that	DET	O
+problem	NOUN	B	Problem_solving
+looked	VERB	O
+pretty	ADV	O
+insurmountable	ADJ	O
+.	PUNCT	O
+
+This	PRON	O
+is	AUX	O
+Jesse	PROPN	O
+Jenkins	PROPN	O
+one	NUM	O
+of	ADP	O
+the	DET	O
+world	NOUN	O
+'s	PART	O
+leading	VERB	O
+experts	NOUN	B	Expert
+on	SCONJ	O
+modeling	VERB	O
+decarbonization	NOUN	B	Climate_change_mitigation
+efforts	NOUN	O
+on	ADP	O
+those	DET	O
+dark	ADJ	O
+years	NOUN	O
+.	PUNCT	O
+
+Jesse	PROPN	O
+Jenkins	PROPN	O
+:	PUNCT	O
+Umm	INTJ	O
+..	PUNCT	O
+you	PRON	O
+know	VERB	B	Knowledge
+.	PUNCT	O
+
+At	ADP	O
+the	DET	O
+time	NOUN	O
+if	SCONJ	B	If_and_only_if
+could	AUX	O
+get	VERB	O
+a	DET	O
+wind	NOUN	B	Wind_farm
+farm	NOUN	I	Wind_farm
+that	PRON	O
+cost	VERB	O
+less	ADJ	O
+than	ADP	O
+$	SYM	B	United_States_dollar
+100	NUM	O
+a	DET	O
+megawatt	NOUN	B	Kilowatt-hour
+hour	NOUN	I	Kilowatt-hour
+–	PUNCT	O
+which	PRON	O
+is	AUX	O
+like	INTJ	O
+triple	VERB	O
+the	DET	O
+,	PUNCT	O
+you	PRON	O
+know	VERB	B	Knowledge
+normal	ADJ	O
+electricity	NOUN	B	Electricity
+rate	NOUN	O
+that	PRON	O
+was	AUX	O
+a	DET	O
+great	ADJ	O
+deal	NOUN	O
+.	PUNCT	O
+
+And	CCONJ	O
+solar	NOUN	O
+was	AUX	O
+ten	NUM	O
+times	NOUN	O
+the	DET	O
+cost	NOUN	B	Cost
+of	ADP	O
+normal	ADJ	O
+you	PRON	O
+know	VERB	B	Knowledge
+,	PUNCT	O
+normal	ADJ	O
+power	NOUN	O
+from	ADP	O
+a	DET	O
+gas	NOUN	B	Gas
+line	NOUN	O
+or	CCONJ	O
+something	PRON	O
+.	PUNCT	O
+
+But	CCONJ	O
+over	ADP	O
+the	DET	O
+last	ADJ	O
+decade	NOUN	B	Decade
+,	PUNCT	O
+due	ADP	O
+to	ADP	O
+solar	ADJ	O
+policies	NOUN	O
+in	ADP	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+but	CCONJ	O
+also	ADV	O
+abroad	ADV	O
+,	PUNCT	O
+in	ADP	O
+,	PUNCT	O
+you	PRON	O
+know	VERB	B	Knowledge
+,	PUNCT	O
+China	PROPN	B	China
+and	CCONJ	O
+Germany	PROPN	B	Germany
+and	CCONJ	O
+Japan	PROPN	B	Japan
+and	CCONJ	O
+elsewhere	ADV	O
+–	PUNCT	O
+we	PRON	O
+'ve	AUX	O
+taken	VERB	O
+these	PRON	O
+,	PUNCT	O
+what	PRON	B	Interrogative_word
+used	VERB	O
+to	PART	O
+be	AUX	O
+called	VERB	O
+expensive	ADJ	O
+energy	NOUN	B	Energy
+technologies	NOUN	B	Technology
+that	PRON	O
+at	ADP	O
+the	DET	O
+time	NOUN	O
+people	NOUN	O
+were	AUX	O
+worried	ADJ	O
+we	PRON	O
+could	AUX	O
+n't	PART	O
+get	VERB	O
+,	PUNCT	O
+you	PRON	O
+know	VERB	B	Knowledge
+–	PUNCT	O
+5	NUM	O
+or	CCONJ	O
+10	NUM	O
+or	CCONJ	O
+15	NUM	O
+percent	NOUN	B	Percentage
+of	ADP	O
+our	PRON	O
+electricity	NOUN	B	Electricity
+from	ADP	O
+without	SCONJ	O
+blowing	VERB	O
+up	ADP	O
+the	DET	O
+grid	NOUN	O
+.	PUNCT	O
+
+And	CCONJ	O
+now	ADV	B	Present
+,	PUNCT	O
+they	PRON	O
+'re	AUX	O
+cheap	ADJ	O
+trillion	NUM	B	Trillion
+dollar	NOUN	B	United_States_dollar
+Mainstream	ADJ	O
+technologies	NOUN	B	Technology
+that	PRON	O
+are	AUX	O
+Scaling	VERB	O
+rapidly	ADV	O
+,	PUNCT	O
+and	CCONJ	O
+are	AUX	O
+powering	VERB	O
+.	PUNCT	O
+
+In	ADP	O
+the	DET	O
+case	NOUN	O
+of	ADP	O
+some	DET	O
+parts	NOUN	O
+of	ADP	O
+the	DET	O
+country	NOUN	B	Sovereign_state
+,	PUNCT	O
+The	DET	O
+majority	NOUN	O
+of	ADP	O
+the	DET	O
+electricity	NOUN	B	Electricity
+on	ADP	O
+Certain	ADJ	B	Certainty
+days	NOUN	B	Day
+.	PUNCT	O
+
+Hank	PROPN	O
+:	PUNCT	O
+I	PRON	O
+'m	AUX	O
+in	ADP	O
+what	PRON	B	Interrogative_word
+seems	VERB	O
+to	PART	O
+be	AUX	O
+a	DET	O
+weird	ADJ	O
+situation	NOUN	B	Sitcom
+of	SCONJ	O
+being	AUX	O
+more	ADV	O
+optimistic	ADJ	B	Optimism
+now	ADV	B	Present
+than	SCONJ	O
+I	PRON	O
+was	AUX	O
+20	NUM	O
+years	NOUN	B	Year
+ago	ADV	I	Year
+because	SCONJ	O
+,	PUNCT	O
+in	ADP	O
+that	DET	O
+time	NOUN	O
+,	PUNCT	O
+I	PRON	O
+have	AUX	O
+seen	VERB	O
+a	DET	O
+LOT	NOUN	O
+of	ADP	O
+change	NOUN	O
+.	PUNCT	O
+
+Since	SCONJ	O
+this	DET	O
+YouTube	PROPN	B	YouTube
+channel	NOUN	O
+began	VERB	O
+we	PRON	O
+have	AUX	O
+dropped	VERB	O
+from	ADP	O
+7	NUM	O
+billion	NUM	B	Billion
+tons	NOUN	B	Ton
+to	ADP	O
+5	NUM	O
+billion	NUM	B	Billion
+tons	NOUN	B	Ton
+emitted	VERB	O
+per	ADP	O
+year	NOUN	O
+in	ADP	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+.	PUNCT	O
+
+In	ADP	O
+the	DET	O
+next	ADJ	O
+15	NUM	O
+years	NOUN	O
+,	PUNCT	O
+according	VERB	O
+to	ADP	O
+Jesse	PROPN	O
+'s	PART	O
+models	NOUN	O
+which	PRON	O
+are	AUX	O
+admittedly	ADV	O
+trying	VERB	O
+to	PART	O
+predict	VERB	O
+the	DET	B	Future
+future	NOUN	I	Future
+we	PRON	O
+will	AUX	O
+probably	ADV	B	Probability
+get	VERB	O
+down	ADV	O
+to	ADP	O
+–	SYM	O
+3.5	NUM	O
+billion	NUM	B	Billion
+tons	NOUN	B	Ton
+,	PUNCT	O
+50	NUM	O
+%	SYM	B	Percentage
+below	ADP	O
+our	PRON	O
+peak	NOUN	O
+.	PUNCT	O
+
+This	DET	O
+week	NOUN	B	Week
+I	PRON	O
+was	AUX	O
+able	ADJ	O
+to	PART	O
+talk	VERB	O
+to	ADP	O
+Michael	PROPN	B	Michael_S%2e_Regan
+Regan	PROPN	I	Michael_S%2e_Regan
+,	PUNCT	O
+the	DET	O
+head	NOUN	O
+of	ADP	O
+the	DET	O
+EPA	PROPN	B	United_States_Environmental_Protection_Agency
+and	CCONJ	O
+he	PRON	O
+also	ADV	O
+talked	VERB	O
+about	ADP	O
+this	DET	O
+optimism	NOUN	B	Optimism
+.	PUNCT	O
+
+Administrator	NOUN	O
+Regan	PROPN	B	Michael_S%2e_Regan
+:	PUNCT	O
+Even	ADV	O
+when	ADV	O
+I	PRON	O
+talked	VERB	O
+to	ADP	O
+past	ADJ	B	Past
+EPA	PROPN	B	United_States_Environmental_Protection_Agency
+Administrators	NOUN	O
+,	PUNCT	O
+the	DET	O
+role	NOUN	O
+technology	NOUN	B	Technology
+plays	VERB	O
+in	ADP	O
+the	DET	O
+solutions	NOUN	B	Problem_solving
+that	PRON	O
+we	PRON	O
+'re	AUX	O
+seeking	VERB	O
+,	PUNCT	O
+the	DET	O
+quickness	NOUN	O
+of	ADP	O
+innovation	NOUN	B	Innovation
+and	CCONJ	O
+the	DET	O
+evolution	NOUN	B	Evolution
+of	ADP	O
+business	NOUN	B	Business
+models	NOUN	O
+,	PUNCT	O
+matching	VERB	O
+with	ADP	O
+technology	NOUN	B	Technology
+and	CCONJ	O
+science	NOUN	B	Science
+and	CCONJ	O
+data	NOUN	B	Data
+.	PUNCT	O
+
+We	PRON	O
+can	AUX	O
+move	VERB	O
+much	ADV	O
+faster	ADJ	O
+than	SCONJ	O
+we	PRON	O
+'ve	AUX	O
+ever	ADV	O
+We	PRON	O
+'ve	AUX	O
+ever	ADV	O
+moved	VERB	O
+before	ADV	O
+.	PUNCT	O
+
+Hank	PROPN	O
+:	PUNCT	O
+we	PRON	O
+are	AUX	O
+aiming	VERB	O
+for	ADP	O
+net	NOUN	B	Carbon_neutrality
+zero	NUM	I	Carbon_neutrality
+emissions	NOUN	I	Carbon_neutrality
+in	ADP	O
+America	PROPN	B	United_States
+by	ADP	O
+2050	NUM	B	3rd_millennium
+.	PUNCT	O
+
+And	CCONJ	O
+this	PRON	O
+is	AUX	O
+the	DET	O
+first	ADJ	O
+time	NOUN	O
+in	ADP	O
+my	PRON	O
+life	NOUN	O
+that	SCONJ	O
+I	PRON	O
+have	AUX	O
+felt	VERB	O
+like	SCONJ	O
+that	PRON	O
+might	AUX	O
+be	AUX	O
+possible	ADJ	B	Logical_possibility
+.	PUNCT	O
+
+We	PRON	O
+have	AUX	O
+never	ADV	O
+undergone	VERB	O
+a	DET	O
+shift	NOUN	O
+in	ADP	O
+energy	NOUN	B	Energy_consumption
+use	NOUN	I	Energy_consumption
+that	PRON	O
+is	AUX	O
+anything	PRON	O
+like	ADP	O
+this	PRON	O
+.	PUNCT	O
+
+Maybe	ADV	O
+the	DET	O
+original	ADJ	O
+electrification	NOUN	B	Electrification
+of	ADP	O
+the	DET	O
+country	NOUN	B	Sovereign_state
+–	PUNCT	O
+but	CCONJ	O
+we	PRON	O
+'re	AUX	O
+gonna	PART	O
+have	VERB	O
+to	PART	O
+make	VERB	O
+this	DET	O
+shift	NOUN	O
+a	DET	O
+lot	NOUN	O
+faster	ADJ	O
+than	SCONJ	O
+we	PRON	O
+made	VERB	O
+that	DET	O
+shift	NOUN	O
+.	PUNCT	O
+
+However	ADV	O
+complex	ADJ	O
+you	PRON	O
+think	VERB	O
+it	PRON	O
+is	VERB	O
+,	PUNCT	O
+it	PRON	O
+is	AUX	O
+more	ADV	O
+complex	ADJ	O
+than	ADP	O
+that	PRON	O
+.	PUNCT	O
+
+It	PRON	O
+'s	AUX	O
+the	DET	O
+case	NOUN	O
+even	ADV	O
+for	ADP	O
+experts	NOUN	B	Expert
+.	PUNCT	O
+
+We	PRON	O
+only	ADV	O
+get	VERB	O
+to	PART	O
+see	VERB	O
+our	PRON	O
+own	ADJ	B	Ownership
+little	ADJ	O
+corner	NOUN	O
+of	ADP	O
+what	PRON	O
+'s	AUX	O
+going	VERB	O
+on	ADP	O
+.	PUNCT	O
+
+This	PRON	O
+is	AUX	O
+a	DET	O
+big	ADJ	O
+problem	NOUN	B	Problem_solving
+that	PRON	O
+no	DET	O
+one	PRON	O
+person	NOUN	B	Person
+understands	VERB	O
+all	DET	O
+of	ADP	O
+.	PUNCT	O
+
+But	CCONJ	O
+in	ADP	O
+this	DET	O
+video	NOUN	B	Video
+,	PUNCT	O
+you	PRON	O
+'re	AUX	O
+going	VERB	O
+to	PART	O
+go	VERB	O
+from	SCONJ	O
+knowing	VERB	B	Knowledge
+more	ADJ	O
+than	ADP	O
+80	NUM	O
+or	CCONJ	O
+90	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+people	NOUN	O
+about	ADP	O
+this	DET	O
+stuff	NOUN	O
+to	SCONJ	O
+knowing	VERB	B	Knowledge
+more	ADJ	O
+than	ADP	O
+99	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+people	NOUN	O
+.	PUNCT	O
+
+And	CCONJ	O
+it	PRON	O
+'s	AUX	O
+only	ADV	O
+going	VERB	O
+to	PART	O
+take	VERB	O
+you	PRON	O
+like	INTJ	O
+15	NUM	O
+minutes	NOUN	O
+.	PUNCT	O
+
+So	ADV	O
+let	VERB	O
+'s	PRON	O
+do	VERB	O
+this	PRON	O
+.	PUNCT	O
+
+This	DET	O
+bill	NOUN	B	Bill_(law)
+basically	ADV	O
+has	VERB	O
+three	NUM	O
+big	ADJ	O
+goals	NOUN	B	Goal
+,	PUNCT	O
+And	CCONJ	O
+I	PRON	O
+do	AUX	O
+n't	PART	O
+see	VERB	O
+them	PRON	O
+being	AUX	O
+talked	VERB	O
+about	ADP	O
+.	PUNCT	O
+
+So	ADV	O
+,	PUNCT	O
+here	ADV	O
+'s	AUX	O
+the	DET	O
+framework	NOUN	O
+,	PUNCT	O
+With	ADP	O
+which	PRON	O
+to	PART	O
+understand	VERB	B	Understanding
+this	PRON	O
+.	PUNCT	O
+
+One	NUM	O
+,	PUNCT	O
+we	PRON	O
+are	AUX	O
+trying	VERB	O
+to	PART	O
+decrease	VERB	O
+the	DET	O
+amount	NOUN	B	Quantity
+of	ADP	O
+carbon	NOUN	B	Carbon_dioxide
+dioxide	NOUN	I	Carbon_dioxide
+and	CCONJ	O
+other	ADJ	O
+green	ADJ	B	Greenhouse_gas
+house	NOUN	I	Greenhouse_gas
+gasses	NOUN	I	Greenhouse_gas
+being	AUX	O
+emitted	VERB	O
+into	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+.	PUNCT	O
+
+Two	NUM	O
+,	PUNCT	O
+we	PRON	O
+are	AUX	O
+trying	VERB	O
+to	PART	O
+make	VERB	O
+the	DET	O
+impacts	NOUN	B	Effects_of_climate_change
+of	ADP	I	Effects_of_climate_change
+climate	NOUN	I	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+pollution	NOUN	B	Pollution
+and	CCONJ	O
+also	ADV	O
+this	DET	O
+energy	NOUN	B	Energy
+shift	NOUN	O
+,	PUNCT	O
+less	ADV	O
+impactful	ADJ	O
+on	ADP	O
+people	NOUN	O
+,	PUNCT	O
+or	CCONJ	O
+ideally	ADV	O
+,	PUNCT	O
+a	DET	O
+good	ADJ	O
+thing	NOUN	B	Object_(philosophy)
+for	ADP	O
+people	NOUN	O
+so	SCONJ	O
+that	SCONJ	O
+they	PRON	O
+like	VERB	O
+it	PRON	O
+.	PUNCT	O
+
+Particularly	ADV	O
+we	PRON	O
+would	AUX	O
+like	VERB	O
+to	PART	O
+decrease	VERB	O
+the	DET	O
+impacts	NOUN	B	Effects_of_climate_change
+on	ADP	O
+the	DET	O
+most	ADV	O
+disadvantaged	ADJ	B	Disadvantaged
+people	NOUN	I	Disadvantaged
+.	PUNCT	O
+
+And	CCONJ	O
+third	ADJ	O
+–	PUNCT	O
+and	CCONJ	O
+this	PRON	O
+is	AUX	O
+important	ADJ	O
+to	PART	O
+understand	VERB	B	Understanding
+anything	PRON	O
+that	PRON	O
+'s	AUX	O
+going	VERB	O
+on	ADP	O
+here	ADV	O
+.	PUNCT	O
+
+This	PRON	O
+is	AUX	O
+a	DET	O
+bill	NOUN	B	Bill_(law)
+that	PRON	O
+is	AUX	O
+trying	VERB	O
+to	PART	O
+make	VERB	O
+the	DET	B	United_States
+United	VERB	I	United_States
+States	PROPN	I	United_States
+of	ADP	I	United_States
+America	PROPN	I	United_States
+into	ADP	O
+an	DET	O
+industrial	ADJ	O
+center	NOUN	O
+of	ADP	O
+the	DET	O
+clean	ADJ	B	Clean_technology
+technology	NOUN	I	Clean_technology
+revolution	NOUN	O
+.	PUNCT	O
+
+Now	ADV	O
+there	PRON	O
+are	VERB	O
+some	DET	O
+other	ADJ	O
+smaller	ADJ	O
+things	NOUN	B	Object_(philosophy)
+that	PRON	O
+are	AUX	O
+in	ADP	O
+the	DET	O
+bill	NOUN	B	Bill_(law)
+that	PRON	O
+do	AUX	O
+n't	PART	O
+fit	VERB	O
+into	ADP	O
+any	DET	O
+of	ADP	O
+these	DET	O
+categories	NOUN	O
+.	PUNCT	O
+
+We	PRON	O
+'ll	AUX	O
+talk	VERB	O
+about	ADP	O
+them	PRON	O
+in	ADP	O
+the	DET	B	Future
+future	NOUN	I	Future
+,	PUNCT	O
+but	CCONJ	O
+those	PRON	O
+are	AUX	O
+the	DET	O
+three	NUM	O
+big	ADJ	O
+things	NOUN	B	Object_(philosophy)
+.	PUNCT	O
+

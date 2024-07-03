@@ -1,0 +1,1508 @@
+Young	ADJ	O
+indigenous	ADJ	O
+women	NOUN	O
+from	ADP	O
+Mexico	PROPN	B	Mexico
+and	CCONJ	O
+Morocco	PROPN	B	Morocco
+unite	VERB	O
+for	ADP	O
+COP27	NOUN	B	2022_United_Nations_Climate_Change_Conference
+
+Descendants	NOUN	B	Descendants_(franchise)
+of	ADP	O
+indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+join	VERB	O
+to	PART	O
+fight	VERB	O
+for	ADP	O
+climate	NOUN	B	Climate
+
+When	ADV	O
+Fatima	PROPN	O
+Zahrae	PROPN	O
+Taribi	PROPN	O
+,	PUNCT	O
+a	DET	O
+20	NUM	O
+-	PUNCT	O
+year	NOUN	O
+-	PUNCT	O
+old	ADJ	O
+Moroccan	ADJ	B	Morocco
+climate	NOUN	B	Climate_justice
+justice	NOUN	I	Climate_justice
+advocate	NOUN	B	Advocate
+,	PUNCT	O
+met	VERB	O
+Luz	PROPN	O
+Edith	PROPN	O
+Morales	PROPN	O
+Jimenez	PROPN	O
+,	PUNCT	O
+a	DET	O
+young	ADJ	B	Youth
+land	NOUN	B	Land_defender
+defender	NOUN	I	Land_defender
+from	ADP	O
+Michoacán	PROPN	B	Michoacán
+,	PUNCT	I	Michoacán
+Mexico	PROPN	I	Michoacán
+,	PUNCT	O
+she	PRON	O
+wondered	VERB	O
+how	ADV	O
+they	PRON	O
+could	AUX	O
+communicate	VERB	O
+.	PUNCT	O
+
+Zahrae	PROPN	O
+speaks	VERB	O
+French	ADJ	B	French_language
+,	PUNCT	O
+Arabic	PROPN	B	Arabic
+,	PUNCT	O
+and	CCONJ	B	English_language
+English	PROPN	I	English_language
+,	PUNCT	O
+and	CCONJ	O
+Morales	PROPN	O
+speaks	VERB	O
+Spanish	ADJ	B	Spanish_language
+and	CCONJ	O
+Purépecha	PROPN	B	Pur%c3%a9pecha
+,	PUNCT	O
+an	DET	O
+indigenous	ADJ	B	Indigenous_languages_of_the_Americas
+language	NOUN	I	Indigenous_languages_of_the_Americas
+from	ADP	O
+her	PRON	O
+region	NOUN	B	Region
+.	PUNCT	O
+
+Yet	CCONJ	O
+,	PUNCT	O
+when	ADV	O
+they	PRON	O
+met	VERB	O
+in	ADP	O
+a	DET	O
+climate	NOUN	O
+camp	NOUN	O
+in	ADP	O
+Tunisia	PROPN	B	Tunisia
+ahead	ADV	O
+of	ADP	O
+the	DET	O
+international	ADJ	B	2022_United_Nations_Climate_Change_Conference
+climate	NOUN	I	2022_United_Nations_Climate_Change_Conference
+conference	NOUN	I	2022_United_Nations_Climate_Change_Conference
+COP27	PROPN	I	2022_United_Nations_Climate_Change_Conference
+,	PUNCT	O
+the	DET	B	United_Nations
+UN	PROPN	I	United_Nations
+'s	PART	O
+annual	ADJ	O
+international	ADJ	O
+environmental	ADJ	O
+conference	NOUN	O
+,	PUNCT	O
+they	PRON	O
+understood	VERB	B	Understanding
+each	DET	O
+other	ADJ	O
+without	SCONJ	O
+needing	VERB	O
+words	NOUN	B	Word
+.	PUNCT	O
+
+“	PUNCT	O
+The	DET	O
+odd	ADJ	O
+thing	NOUN	B	Object_(philosophy)
+was	AUX	O
+that	SCONJ	O
+I	PRON	O
+do	AUX	O
+n't	PART	O
+speak	VERB	O
+Spanish	PROPN	B	Spanish_language
+and	CCONJ	O
+they	PRON	O
+do	AUX	O
+n't	PART	O
+speak	VERB	O
+English	PROPN	B	English_language
+,	PUNCT	O
+so	ADV	O
+we	PRON	O
+had	VERB	O
+to	PART	O
+figure	VERB	O
+out	ADP	O
+how	ADV	O
+to	PART	O
+communicate	VERB	B	Communication
+.	PUNCT	O
+
+Like	SCONJ	O
+the	DET	O
+proverb	NOUN	B	Proverb
+goes	VERB	O
+,	PUNCT	O
+actions	NOUN	O
+speak	VERB	O
+louder	ADJ	B	Loudness
+than	ADP	O
+words	NOUN	B	Word
+,	PUNCT	O
+and	CCONJ	O
+with	ADP	O
+them	PRON	O
+,	PUNCT	O
+our	PRON	O
+only	ADJ	O
+option	NOUN	O
+was	AUX	O
+to	PART	O
+do	VERB	O
+actions	NOUN	O
+together	ADV	O
+and	CCONJ	O
+speak	VERB	O
+through	ADP	O
+our	PRON	O
+eyes	NOUN	B	Eye
+and	CCONJ	O
+emotions	NOUN	B	Emotion
+.	PUNCT	O
+”	PUNCT	O
+Zahrae	PROPN	O
+told	VERB	O
+Global	ADJ	B	Globalization
+Voices	PROPN	O
+through	ADP	O
+Instagram	PROPN	B	Instagram
+.	PUNCT	O
+
+“	PUNCT	O
+I	PRON	O
+could	AUX	O
+n't	PART	O
+believe	VERB	B	Belief
+that	SCONJ	O
+we	PRON	O
+connected	VERB	O
+on	ADP	O
+such	DET	O
+a	DET	O
+deep	ADJ	O
+level	NOUN	O
+with	ADP	O
+no	DET	O
+words	NOUN	B	Word
+.	PUNCT	O
+”	PUNCT	O
+
+Although	SCONJ	O
+the	DET	B	Atlantic_Ocean
+Atlantic	ADJ	I	Atlantic_Ocean
+Ocean	PROPN	I	Atlantic_Ocean
+separates	VERB	O
+these	DET	O
+two	NUM	O
+young	ADJ	B	Youth
+women	NOUN	O
+of	ADP	O
+different	ADJ	O
+indigenous	ADJ	O
+origins	NOUN	B	Etymology
+,	PUNCT	O
+they	PRON	O
+have	AUX	O
+experienced	VERB	B	Experience
+comparable	ADJ	B	Comparability
+effects	NOUN	O
+from	ADP	O
+colonialism	NOUN	B	Colonialism
+,	PUNCT	O
+land	NOUN	O
+dispossession	NOUN	B	Eviction
+,	PUNCT	O
+and	CCONJ	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+.	PUNCT	O
+
+Morales	PROPN	O
+'	PART	O
+father	NOUN	B	Father
+,	PUNCT	O
+a	DET	O
+Purépecha	ADJ	B	Pur%c3%a9pecha
+indigenous	ADJ	B	Indigenous_peoples
+man	NOUN	B	Man
+who	PRON	O
+tried	VERB	B	Trial
+to	PART	O
+protect	VERB	O
+their	PRON	O
+ancestral	ADJ	B	Ancestral_domain
+lands	NOUN	I	Ancestral_domain
+from	ADP	O
+encroaching	VERB	O
+development	NOUN	B	Land_development
+projects	NOUN	I	Land_development
+which	PRON	O
+would	AUX	O
+cut	VERB	O
+down	ADP	O
+old	ADJ	B	growth_forest
+-	PUNCT	I	growth_forest
+growth	NOUN	I	growth_forest
+forests	NOUN	I	growth_forest
+for	ADP	O
+the	DET	O
+monoculture	NOUN	B	Monoculture
+of	ADP	O
+avocados	NOUN	B	Avocado
+,	PUNCT	O
+was	AUX	O
+shot	VERB	O
+and	CCONJ	O
+killed	VERB	B	Murder
+by	ADP	O
+Mexican	ADJ	B	Federal_Police_(Mexico)
+police	NOUN	I	Federal_Police_(Mexico)
+in	ADP	O
+2017	NUM	O
+.	PUNCT	O
+
+Three	NUM	O
+other	ADJ	O
+people	NOUN	O
+were	AUX	O
+killed	VERB	B	Murder
+,	PUNCT	O
+and	CCONJ	O
+10	NUM	O
+were	AUX	O
+tortured	VERB	B	Torture
+.	PUNCT	O
+
+Yet	CCONJ	O
+five	NUM	O
+years	NOUN	O
+later	ADV	O
+,	PUNCT	O
+authorities	NOUN	O
+have	AUX	O
+failed	VERB	O
+to	PART	O
+deal	VERB	O
+with	ADP	O
+the	DET	O
+case	NOUN	B	Lawsuit
+.	PUNCT	O
+
+Since	ADP	O
+then	ADV	O
+,	PUNCT	O
+his	PRON	O
+daughter	NOUN	O
+has	AUX	O
+fought	VERB	B	Combat
+for	ADP	O
+justice	NOUN	B	Justice
+.	PUNCT	O
+
+Meanwhile	ADV	O
+,	PUNCT	O
+Zahrae	PROPN	O
+comes	VERB	O
+from	ADP	O
+a	DET	O
+long	ADJ	O
+line	NOUN	O
+of	ADP	O
+indigenous	ADJ	B	Indigenous_peoples
+Amazigh	ADJ	B	Berbers
+Moroccans	PROPN	B	Moroccans
+who	PRON	O
+speak	VERB	O
+their	PRON	O
+own	ADJ	O
+language	NOUN	B	Language
+but	CCONJ	O
+have	AUX	O
+endured	VERB	O
+discriminatory	ADJ	B	Discrimination
+policies	NOUN	B	Public_policy
+to	PART	O
+make	VERB	O
+them	PRON	O
+adhere	VERB	B	Adhesion
+to	ADP	O
+“	PUNCT	O
+Arabism	PROPN	B	Pan-Arabism
+.	PUNCT	O
+”	PUNCT	O
+
+For	ADP	O
+the	DET	O
+indigenous	ADJ	B	Indigenous_peoples
+Amazigh	ADJ	B	Berbers
+people	NOUN	O
+,	PUNCT	O
+responding	VERB	O
+to	ADP	O
+the	DET	O
+difficulties	NOUN	O
+posed	VERB	O
+by	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+might	AUX	O
+mean	VERB	O
+the	DET	O
+difference	NOUN	O
+between	ADP	O
+life	NOUN	B	Life_and_death
+and	CCONJ	I	Life_and_death
+death	NOUN	I	Life_and_death
+for	ADP	O
+entire	ADJ	O
+communities	NOUN	B	Community
+.	PUNCT	O
+
+The	DET	O
+use	NOUN	O
+of	ADP	O
+water	NOUN	B	Intensive_farming
+-	PUNCT	I	Intensive_farming
+intensive	ADJ	I	Intensive_farming
+industrial	ADJ	I	Intensive_farming
+farming	NOUN	I	Intensive_farming
+methods	NOUN	B	Scientific_method
+has	AUX	O
+made	VERB	O
+the	DET	O
+nation	NOUN	O
+'s	PART	O
+limited	ADJ	O
+water	NOUN	B	Water_resources
+resources	NOUN	I	Water_resources
+more	ADV	O
+apparent	ADJ	O
+.	PUNCT	O
+
+As	SCONJ	O
+food	NOUN	B	Food_security
+insecurity	NOUN	I	Food_security
+and	CCONJ	O
+water	NOUN	B	Water_scarcity
+shortages	NOUN	I	Water_scarcity
+become	VERB	O
+more	ADV	O
+common	ADJ	O
+,	PUNCT	O
+officials	NOUN	B	Civil_service
+are	AUX	O
+struggling	VERB	O
+to	PART	O
+find	VERB	O
+creative	ADJ	O
+solutions	NOUN	B	Problem_solving
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+particularly	ADV	O
+complicated	ADJ	O
+in	ADP	O
+Moroccan	ADJ	B	Morocco
+regions	NOUN	I	Morocco
+where	ADV	O
+indigenous	ADJ	B	Indigenous_peoples
+people	NOUN	I	Indigenous_peoples
+are	AUX	O
+bound	VERB	O
+to	ADP	O
+the	DET	O
+land	NOUN	B	Land
+.	PUNCT	O
+
+Amazigh	ADJ	B	Berbers
+populations	NOUN	I	Berbers
+must	AUX	O
+cope	VERB	O
+with	ADP	O
+difficulties	NOUN	O
+like	ADP	O
+above	ADV	O
+-	PUNCT	O
+average	ADJ	O
+poverty	NOUN	B	Poverty
+rates	NOUN	I	Poverty
+and	CCONJ	O
+prejudice	NOUN	B	Prejudice
+,	PUNCT	O
+as	ADV	O
+well	ADV	O
+as	ADP	O
+more	ADV	O
+obvious	ADJ	O
+environmental	ADJ	O
+challenges	NOUN	O
+like	SCONJ	O
+maintaining	VERB	O
+forests	NOUN	B	Forest
+as	SCONJ	O
+structural	ADJ	O
+drought	NOUN	B	Drought
+intensifies	VERB	O
+throughout	ADP	O
+the	DET	O
+Maghreb	PROPN	B	Maghreb
+,	PUNCT	O
+Sahel	PROPN	B	Sahel
+,	PUNCT	O
+and	CCONJ	O
+beyond	ADV	O
+as	ADP	O
+a	DET	O
+result	NOUN	O
+of	ADP	O
+the	DET	O
+climate	NOUN	B	Climate_crisis
+crisis	NOUN	I	Climate_crisis
+.	PUNCT	O
+
+Zahrae	PROPN	O
+'s	PART	O
+grandfather	NOUN	B	Grandparent
+served	VERB	O
+as	ADP	O
+a	DET	O
+land	NOUN	O
+custodian	NOUN	B	Legal_guardian
+and	CCONJ	O
+devoted	VERB	O
+his	PRON	O
+life	NOUN	O
+to	SCONJ	O
+defending	VERB	O
+the	DET	O
+people	NOUN	O
+'s	PART	O
+right	NOUN	B	Rights
+to	ADP	O
+their	PRON	O
+land	NOUN	O
+from	ADP	O
+French	ADJ	B	French_language
+colonists	NOUN	B	Settler
+.	PUNCT	O
+
+Zahrae	PROPN	O
+took	VERB	O
+up	ADP	O
+his	PRON	O
+mantle	NOUN	O
+to	PART	O
+continue	VERB	B	Continuance
+guarding	VERB	O
+the	DET	O
+land	NOUN	B	Land
+after	ADP	O
+years	NOUN	O
+of	ADP	O
+worsening	VERB	O
+drought	NOUN	B	Drought
+.	PUNCT	O
+
+“	PUNCT	O
+I	PRON	O
+think	VERB	B	Thought
+of	ADP	O
+myself	PRON	O
+as	ADP	O
+a	DET	O
+continuation	NOUN	B	Continuation
+of	ADP	O
+his	PRON	O
+soul	NOUN	O
+,	PUNCT	O
+as	SCONJ	O
+I	PRON	O
+am	AUX	O
+a	DET	O
+protector	NOUN	O
+of	ADP	O
+the	DET	O
+land	NOUN	B	Land
+against	ADP	O
+another	DET	O
+enemy	NOUN	O
+:	PUNCT	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+,	PUNCT	O
+”	PUNCT	O
+Zahrae	PROPN	O
+said	VERB	O
+.	PUNCT	O
+
+COP27	PROPN	B	2022_United_Nations_Climate_Change_Conference
+in	ADP	O
+Sharm	PROPN	B	Sharm_El_Sheikh
+El	PROPN	I	Sharm_El_Sheikh
+Sheikh	PROPN	I	Sharm_El_Sheikh
+
+The	DET	O
+two	NUM	O
+young	ADJ	O
+women	NOUN	O
+met	VERB	O
+at	ADP	O
+the	DET	O
+Climate	PROPN	B	Climate_justice
+Justice	PROPN	I	Climate_justice
+Camp	PROPN	O
+in	ADP	O
+Tunisia	PROPN	B	Tunisia
+earlier	ADV	O
+this	DET	O
+year	NOUN	O
+and	CCONJ	O
+reconnected	VERB	O
+at	ADP	O
+COP27	PROPN	B	2022_United_Nations_Climate_Change_Conference
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+being	AUX	O
+held	VERB	O
+in	ADP	O
+Sharm	PROPN	B	Sharm_El_Sheikh
+-	PUNCT	I	Sharm_El_Sheikh
+El	PROPN	I	Sharm_El_Sheikh
+-	PUNCT	I	Sharm_El_Sheikh
+Sheik	PROPN	I	Sharm_El_Sheikh
+,	PUNCT	I	Sharm_El_Sheikh
+Egypt	PROPN	I	Sharm_El_Sheikh
+,	PUNCT	O
+from	ADP	O
+November	PROPN	O
+6	NUM	O
+–	SYM	O
+18	NUM	O
+.	PUNCT	O
+
+COP	NOUN	B	United_Nations_Climate_Change_conference
+is	AUX	O
+the	DET	B	United_Nations
+United	VERB	I	United_Nations
+Nations	PROPN	I	United_Nations
+'	PART	O
+largest	ADJ	O
+international	ADJ	B	United_Nations_Climate_Change_Conference
+climate	NOUN	I	United_Nations_Climate_Change_Conference
+conference	NOUN	I	United_Nations_Climate_Change_Conference
+,	PUNCT	O
+bringing	VERB	O
+together	ADP	O
+heads	NOUN	B	Head_of_state
+of	ADP	I	Head_of_state
+state	NOUN	I	Head_of_state
+,	PUNCT	O
+non-	PART	B	Nonprofit_organization
+profit	ADJ	I	Nonprofit_organization
+organizations	NOUN	I	Nonprofit_organization
+,	PUNCT	O
+business	NOUN	B	Business
+leaders	NOUN	B	Leadership
+,	PUNCT	O
+and	CCONJ	O
+activists	NOUN	B	Activism
+to	PART	O
+take	VERB	O
+action	NOUN	O
+toward	SCONJ	O
+achieving	VERB	O
+the	DET	O
+world	NOUN	B	World
+'s	PART	O
+collective	ADJ	O
+climate	NOUN	B	Climate_change_mitigation
+goals	NOUN	I	Climate_change_mitigation
+as	SCONJ	O
+agreed	VERB	O
+upon	ADP	O
+in	ADP	O
+the	DET	O
+2015	NUM	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+This	DET	O
+year	NOUN	B	Year
+'s	PART	O
+conference	NOUN	O
+,	PUNCT	O
+COP27	PROPN	B	2022_United_Nations_Climate_Change_Conference
+,	PUNCT	O
+brings	VERB	O
+together	ADV	O
+over	ADV	O
+190	NUM	O
+countries	NOUN	B	Sovereign_state
+against	ADP	O
+the	DET	O
+backdrop	NOUN	B	Climate_change
+of	ADP	I	Climate_change
+global	ADJ	I	Climate_change
+crises	NOUN	I	Climate_change
+.	PUNCT	O
+
+Food	NOUN	B	Food_prices
+and	CCONJ	O
+energy	NOUN	B	Cost_of_electricity_by_source
+costs	NOUN	I	Cost_of_electricity_by_source
+are	AUX	O
+at	ADP	O
+record	ADJ	O
+highs	NOUN	O
+as	ADP	O
+a	DET	O
+result	NOUN	O
+of	ADP	O
+COVID	NOUN	B	COVID-19
+-	PUNCT	I	COVID-19
+19	NOUN	I	COVID-19
+'s	PART	O
+effects	NOUN	O
+and	CCONJ	O
+Russia	PROPN	B	Russian_invasion_of_Ukraine
+'s	PART	I	Russian_invasion_of_Ukraine
+invasion	NOUN	I	Russian_invasion_of_Ukraine
+of	ADP	I	Russian_invasion_of_Ukraine
+Ukraine	PROPN	I	Russian_invasion_of_Ukraine
+,	PUNCT	O
+and	CCONJ	O
+nearly	ADV	O
+every	DET	O
+region	NOUN	B	Region
+of	ADP	O
+the	DET	B	Earth
+planet	NOUN	I	Earth
+is	AUX	O
+suffering	VERB	O
+extraordinary	ADJ	O
+climatic	ADJ	B	Climate_crisis
+catastrophes	NOUN	I	Climate_crisis
+,	PUNCT	O
+including	VERB	O
+record	ADJ	O
+rain	NOUN	B	Rain
+,	PUNCT	O
+heat	NOUN	B	Heat
+,	PUNCT	O
+fires	NOUN	B	Fire
+,	PUNCT	O
+and	CCONJ	O
+storms	NOUN	B	Storm
+.	PUNCT	O
+
+The	DET	O
+main	ADJ	O
+goals	NOUN	B	Goal
+of	ADP	O
+COP27	PROPN	B	2022_United_Nations_Climate_Change_Conference
+include	VERB	O
+developing	VERB	O
+financial	ADJ	B	Financial_plan
+plans	NOUN	I	Financial_plan
+to	PART	O
+address	VERB	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+and	CCONJ	O
+lower	VERB	O
+global	ADJ	B	Climate
+temperatures	NOUN	I	Climate
+by	ADP	O
+at	ADP	O
+least	ADJ	O
+1.5	NUM	O
+degrees	NOUN	B	Celsius
+Celsius	PROPN	I	Celsius
+through	ADP	O
+reductions	NOUN	O
+in	ADP	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+Indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+'	PART	O
+role	NOUN	O
+and	CCONJ	O
+burden	NOUN	O
+in	SCONJ	O
+mitigating	VERB	B	Climate_change_mitigation
+climate	NOUN	I	Climate_change_mitigation
+change	NOUN	I	Climate_change_mitigation
+
+Indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+frequently	ADV	O
+pay	VERB	O
+a	DET	O
+hefty	ADJ	O
+price	NOUN	B	Price
+for	ADP	O
+their	PRON	O
+unwavering	ADJ	O
+dedication	NOUN	B	Dedication
+to	ADP	O
+the	DET	B	Environmentalism
+environment	NOUN	I	Environmentalism
+.	PUNCT	O
+
+For	ADP	O
+Zahrae	PROPN	O
+and	CCONJ	O
+Morales	PROPN	O
+,	PUNCT	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+is	AUX	O
+the	DET	O
+symptom	NOUN	B	Signs_and_symptoms
+of	ADP	O
+ongoing	ADJ	O
+structural	ADJ	O
+issues	NOUN	B	Social_issue
+.	PUNCT	O
+
+They	PRON	O
+both	DET	O
+face	VERB	O
+“	PUNCT	O
+racism	NOUN	B	Racism
+,	PUNCT	O
+gender	NOUN	B	Sexual_violence
+violence	NOUN	I	Sexual_violence
+,	PUNCT	O
+extractivism	NOUN	B	Extractivism
+,	PUNCT	O
+and	CCONJ	O
+imposed	VERB	O
+death	NOUN	B	Death
+,	PUNCT	O
+”	PUNCT	O
+Morales	PROPN	O
+says	VERB	O
+through	ADP	O
+WhatsApp	PROPN	B	WhatsApp
+.	PUNCT	O
+
+“	PUNCT	O
+Indigenous	ADJ	B	Indigenous_peoples
+communities	NOUN	I	Indigenous_peoples
+are	AUX	O
+always	ADV	O
+the	DET	O
+ones	NOUN	O
+who	PRON	O
+preserve	VERB	B	Nature_reserve
+the	DET	O
+majority	NOUN	B	Majority
+of	ADP	O
+the	DET	O
+diversity	NOUN	O
+that	PRON	O
+exists	VERB	B	Existence
+on	ADP	O
+the	DET	B	Earth
+planet	NOUN	I	Earth
+,	PUNCT	O
+without	SCONJ	O
+expecting	VERB	O
+anything	PRON	O
+in	ADP	O
+return	NOUN	O
+.	PUNCT	O
+
+We	PRON	O
+are	AUX	O
+living	VERB	B	Life
+resistances	NOUN	B	Resistance_movement
+that	PRON	O
+have	AUX	O
+survived	VERB	O
+all	DET	O
+the	DET	O
+mega	NOUN	B	Megaproject
+-	PUNCT	I	Megaproject
+projects	NOUN	I	Megaproject
+of	ADP	O
+the	DET	O
+big	ADJ	O
+cities	NOUN	B	City
+since	ADP	O
+ancient	ADJ	B	Ancient_history
+times	NOUN	I	Ancient_history
+;	PUNCT	O
+we	PRON	O
+are	AUX	O
+the	DET	O
+ones	NOUN	O
+who	PRON	O
+give	VERB	O
+life	NOUN	O
+and	CCONJ	O
+safeguard	VERB	B	Safeguard
+all	DET	O
+that	DET	O
+remains	NOUN	O
+of	ADP	O
+nature	NOUN	B	Nature
+,	PUNCT	O
+”	PUNCT	O
+she	PRON	O
+continues	VERB	O
+.	PUNCT	O
+
+She	PRON	O
+is	AUX	O
+demanding	VERB	B	Demand
+that	SCONJ	O
+leaders	NOUN	B	Leadership
+comply	VERB	O
+with	ADP	O
+their	PRON	O
+promises	NOUN	B	Promise
+toward	ADP	O
+indigenous	ADJ	B	Indigenous_peoples
+people	NOUN	I	Indigenous_peoples
+.	PUNCT	O
+
+More	ADJ	O
+than	ADP	O
+80	NUM	O
+percent	NOUN	B	Percentage
+of	ADP	O
+the	DET	O
+world	NOUN	B	World
+'s	PART	O
+biodiversity	NOUN	B	Biodiversity
+is	AUX	O
+protected	VERB	B	Protection
+by	ADP	O
+indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+worldwide	ADV	O
+,	PUNCT	O
+despite	ADP	O
+their	PRON	O
+estimated	VERB	B	Estimation
+five	NUM	O
+percent	NOUN	B	Percentage
+population	NOUN	B	Population
+share	NOUN	O
+.	PUNCT	O
+
+Biodiversity	NOUN	B	Biodiversity
+plays	VERB	O
+a	DET	O
+crucial	ADJ	O
+role	NOUN	O
+in	SCONJ	O
+mitigating	VERB	B	Climate_change_mitigation
+climate	NOUN	I	Climate_change_mitigation
+change	NOUN	I	Climate_change_mitigation
+and	CCONJ	O
+ensuring	VERB	O
+human	ADJ	B	Human_extinction
+survival	NOUN	I	Human_extinction
+.	PUNCT	O
+
+Yet	CCONJ	O
+,	PUNCT	O
+indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+'	PART	O
+ongoing	ADJ	O
+commitment	NOUN	O
+to	ADP	O
+the	DET	O
+land	NOUN	B	Land
+and	CCONJ	O
+ecosystems	NOUN	B	Ecosystem
+often	ADV	O
+comes	VERB	B	Comes
+at	ADP	O
+a	DET	O
+high	ADJ	O
+price	NOUN	B	Price
+.	PUNCT	O
+
+In	ADP	O
+Latin	PROPN	B	Latin_America
+America	PROPN	I	Latin_America
+,	PUNCT	O
+land	NOUN	B	Land_defender
+defenders	NOUN	I	Land_defender
+,	PUNCT	O
+who	PRON	O
+are	AUX	O
+often	ADV	O
+indigenous	ADJ	O
+,	PUNCT	O
+are	AUX	O
+routinely	ADV	O
+killed	VERB	B	Murder
+.	PUNCT	O
+
+In	ADP	O
+2021	NUM	O
+,	PUNCT	O
+54	NUM	O
+land	NOUN	B	Land_defender
+and	CCONJ	O
+environment	NOUN	B	Environmental_defender
+defenders	NOUN	I	Environmental_defender
+have	AUX	O
+lost	VERB	O
+their	PRON	O
+lives	NOUN	B	Life
+in	ADP	O
+Mexico	PROPN	B	Mexico
+,	PUNCT	O
+according	VERB	O
+to	ADP	O
+the	DET	O
+non-	PART	B	Nonprofit_organization
+profit	ADJ	I	Nonprofit_organization
+Global	ADJ	B	Global_Witness
+Witness	PROPN	I	Global_Witness
+.	PUNCT	O
+
+“	PUNCT	O
+Mexico	PROPN	B	Mexico
+was	AUX	O
+the	DET	O
+country	NOUN	B	Sovereign_state
+with	ADP	O
+the	DET	O
+highest	ADJ	O
+recorded	VERB	O
+number	NOUN	B	Number
+of	ADP	O
+killings	NOUN	O
+,	PUNCT	O
+with	ADP	O
+defenders	NOUN	O
+killed	VERB	B	Murder
+every	DET	O
+month	NOUN	B	Month
+,	PUNCT	O
+totaling	VERB	O
+54	NUM	O
+killings	NOUN	O
+in	ADP	O
+2021	NUM	O
+,	PUNCT	O
+up	ADV	O
+from	ADP	O
+30	NUM	O
+the	DET	O
+previous	ADJ	O
+year	NOUN	B	Year
+,	PUNCT	O
+”	PUNCT	O
+their	PRON	O
+most	ADV	O
+recent	ADJ	O
+report	NOUN	O
+reads	VERB	O
+.	PUNCT	O
+
+Many	ADJ	O
+more	ADJ	O
+are	AUX	O
+harassed	VERB	B	Harassment
+,	PUNCT	O
+criminalized	VERB	B	Criminalization
+,	PUNCT	O
+and	CCONJ	O
+intimidated	VERB	B	Intimidation
+by	ADP	O
+the	DET	O
+government	NOUN	O
+,	PUNCT	O
+businesses	NOUN	B	Business
+,	PUNCT	O
+and	CCONJ	O
+other	ADJ	O
+actors	NOUN	O
+.	PUNCT	O
+
+They	PRON	O
+are	AUX	O
+particularly	ADV	O
+at	ADP	O
+risk	NOUN	O
+when	ADV	O
+opposing	VERB	O
+mining	NOUN	B	Mining
+and	CCONJ	O
+renewable	ADJ	B	Renewable_energy
+energy	NOUN	I	Renewable_energy
+mega	NOUN	B	Megaproject
+-	PUNCT	I	Megaproject
+projects	NOUN	I	Megaproject
+(	PUNCT	O
+such	ADJ	O
+as	ADP	O
+large	ADJ	O
+wind	NOUN	B	Wind_farm
+farms	NOUN	I	Wind_farm
+or	CCONJ	O
+hydroelectric	ADJ	B	Hydroelectricity
+plants	NOUN	I	Hydroelectricity
+)	PUNCT	O
+,	PUNCT	O
+industrial	ADJ	B	Industry
+monocultures	NOUN	B	Monoculture
+,	PUNCT	O
+and	CCONJ	O
+other	ADJ	O
+private	ADJ	O
+or	CCONJ	O
+public	ADJ	O
+projects	NOUN	B	Project
+that	PRON	O
+threaten	VERB	B	Threat
+their	PRON	O
+communities	NOUN	B	Community
+,	PUNCT	O
+forests	NOUN	B	Forest
+,	PUNCT	O
+and	CCONJ	O
+water	NOUN	B	Water_supply
+sources	NOUN	I	Water_supply
+.	PUNCT	O
+
+In	ADP	O
+Northern	ADJ	B	North_Africa
+Africa	PROPN	I	North_Africa
+and	CCONJ	O
+the	DET	B	Middle_East
+Middle	ADJ	I	Middle_East
+East	PROPN	I	Middle_East
+,	PUNCT	O
+the	DET	O
+challenges	NOUN	O
+of	SCONJ	O
+speaking	VERB	B	Speech
+up	ADP	O
+for	ADP	O
+the	DET	O
+environment	NOUN	B	Natural_environment
+and	CCONJ	O
+climate	NOUN	B	Climate_change
+often	ADV	O
+come	VERB	O
+with	ADP	O
+the	DET	O
+risk	NOUN	B	Risk
+of	SCONJ	O
+being	AUX	O
+imprisoned	VERB	B	Political_prisoner
+or	CCONJ	O
+forcibly	ADV	B	Enforced_disappearance
+disappeared	VERB	I	Enforced_disappearance
+.	PUNCT	O
+
+In	ADP	O
+Egypt	PROPN	B	Egypt
+,	PUNCT	O
+for	ADP	O
+example	NOUN	O
+,	PUNCT	O
+where	ADV	O
+the	DET	O
+conference	NOUN	O
+is	AUX	O
+held	VERB	O
+,	PUNCT	O
+60,000	NUM	O
+political	ADJ	B	Political_prisoner
+prisoners	NOUN	I	Political_prisoner
+are	AUX	O
+estimated	VERB	B	Estimation
+to	PART	O
+be	AUX	O
+behind	ADP	B	Prison
+bars	NOUN	I	Prison
+.	PUNCT	O
+
+The	DET	O
+country	NOUN	B	Sovereign_state
+has	AUX	O
+been	AUX	O
+charged	VERB	B	Indictment
+with	SCONJ	O
+preventing	VERB	O
+environmental	ADJ	B	List_of_environmental_organizations
+organizations	NOUN	I	List_of_environmental_organizations
+from	SCONJ	O
+conducting	VERB	B	Conducting
+independent	ADJ	O
+policy	NOUN	B	Policy
+,	PUNCT	O
+advocacy	NOUN	B	Advocacy
+,	PUNCT	O
+and	CCONJ	O
+fieldwork	NOUN	B	Field_research
+necessary	ADJ	O
+to	PART	O
+safeguard	VERB	B	Safeguard
+the	DET	O
+nation	NOUN	B	Nation
+'s	PART	O
+natural	ADJ	B	Natural_environment
+environment	NOUN	I	Natural_environment
+.	PUNCT	O
+
+Despite	SCONJ	O
+having	AUX	O
+contributed	VERB	O
+the	DET	O
+least	ADJ	O
+to	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+and	CCONJ	O
+environmental	ADJ	B	Environmental_degradation
+degradation	NOUN	I	Environmental_degradation
+,	PUNCT	O
+indigenous	ADJ	B	Indigenous_peoples
+peoples	NOUN	I	Indigenous_peoples
+and	CCONJ	O
+other	ADJ	O
+historically	ADV	B	History
+colonized	VERB	B	Colonization
+and	CCONJ	O
+marginalized	VERB	B	Social_exclusion
+peoples	NOUN	O
+are	AUX	O
+at	ADP	O
+the	DET	O
+frontlines	NOUN	B	Front_line
+of	ADP	O
+climate	NOUN	B	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+effects	NOUN	I	Effects_of_climate_change
+.	PUNCT	O
+
+Advocates	NOUN	B	Advocate
+using	VERB	O
+the	DET	O
+term	NOUN	B	Terminology
+“	PUNCT	O
+climate	NOUN	B	Climate_justice
+justice	NOUN	I	Climate_justice
+”	PUNCT	O
+seek	VERB	O
+to	PART	O
+rectify	VERB	O
+this	DET	O
+unbalance	NOUN	O
+.	PUNCT	O
+
+Ocean	NOUN	B	Sea_level_rise
+levels	NOUN	I	Sea_level_rise
+are	AUX	I	Sea_level_rise
+rising	VERB	I	Sea_level_rise
+.	PUNCT	O
+
+Pollution	NOUN	B	Pollution
+,	PUNCT	O
+extreme	ADJ	B	Heat_wave
+heat	NOUN	I	Heat_wave
+waves	NOUN	I	Heat_wave
+,	PUNCT	O
+and	CCONJ	O
+droughts	NOUN	B	Drought
+are	AUX	O
+health	NOUN	B	Health
+and	CCONJ	O
+crop	NOUN	B	Crop
+hazards	NOUN	B	Hazard
+.	PUNCT	O
+
+Locals	NOUN	B	Locals
+in	ADP	O
+both	DET	O
+regions	NOUN	O
+also	ADV	O
+point	VERB	O
+to	ADP	O
+the	DET	O
+hoarding	NOUN	B	Hoarding
+of	ADP	O
+water	NOUN	B	Water
+for	ADP	O
+business	NOUN	B	Business
+or	CCONJ	O
+political	ADJ	B	Politics
+purposes	NOUN	O
+,	PUNCT	O
+leading	VERB	B	Leadership
+to	ADP	O
+conflict	NOUN	O
+.	PUNCT	O
+
+Women	NOUN	O
+,	PUNCT	O
+in	ADP	O
+particular	ADJ	B	Particular
+,	PUNCT	O
+are	AUX	O
+at	ADP	O
+risk	NOUN	O
+of	ADP	O
+climate	NOUN	B	Climate_change_vulnerability
+change	NOUN	I	Climate_change_vulnerability
+vulnerability	NOUN	I	Climate_change_vulnerability
+and	CCONJ	O
+violence	NOUN	B	Violence
+.	PUNCT	O
+
+These	PRON	O
+are	AUX	O
+some	DET	O
+of	ADP	O
+the	DET	O
+factors	NOUN	O
+that	PRON	O
+motivate	VERB	B	Motivation
+Zahrae	PROPN	O
+to	PART	O
+create	VERB	B	Creativity
+a	DET	O
+safer	ADJ	O
+environment	NOUN	B	Natural_environment
+for	ADP	O
+climate	NOUN	B	Climate_movement
+advocacy	NOUN	I	Climate_movement
+.	PUNCT	O
+
+“	PUNCT	O
+My	PRON	O
+first	ADJ	O
+step	NOUN	B	Stairs
+was	AUX	O
+to	PART	O
+figure	VERB	O
+out	ADP	O
+ways	NOUN	B	Methodology
+to	PART	O
+make	VERB	O
+it	PRON	O
+accessible	ADJ	B	Accessibility
+,	PUNCT	O
+just	ADV	O
+,	PUNCT	O
+and	CCONJ	O
+safe	ADJ	B	Safety
+for	SCONJ	O
+individuals	NOUN	B	Individual
+to	PART	O
+advocate	VERB	B	Advocacy
+for	ADP	O
+the	DET	O
+cause	NOUN	O
+they	PRON	O
+believe	VERB	B	Belief
+in	ADP	O
+.	PUNCT	O
+”	PUNCT	O
+
+Zaharae	PROPN	O
+started	VERB	O
+Moroccan	ADJ	B	Morocco
+Youth	PROPN	O
+for	ADP	O
+Change	PROPN	O
+,	PUNCT	O
+a	DET	O
+community	NOUN	B	Community
+where	ADV	O
+young	ADJ	B	Youth
+Moroccans	PROPN	B	Morocco
+may	AUX	O
+meet	VERB	O
+and	CCONJ	O
+talk	VERB	O
+about	ADP	O
+issues	NOUN	B	Social_issue
+they	PRON	O
+are	AUX	O
+facing	VERB	O
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+.	PUNCT	O
+
+Morales	PROPN	O
+,	PUNCT	O
+on	ADP	O
+her	PRON	O
+part	NOUN	O
+,	PUNCT	O
+is	AUX	O
+active	ADJ	O
+in	ADP	O
+Futuros	PROPN	O
+Indígenas	PROPN	O
+(	PUNCT	O
+indigenous	ADJ	B	Indigenous_peoples
+Futures	PROPN	B	Future
+)	PUNCT	O
+,	PUNCT	O
+a	DET	O
+network	NOUN	O
+of	ADP	O
+indigenous	ADJ	B	Indigenous_peoples
+activists	NOUN	B	Climate_movement
+and	CCONJ	O
+journalists	NOUN	B	Journalist
+from	ADP	O
+Mexico	PROPN	B	Mexico
+and	CCONJ	O
+Central	ADJ	B	Central_America
+America	PROPN	I	Central_America
+who	PRON	O
+empower	VERB	B	Empowerment
+indigenous	ADJ	B	Indigenous_peoples
+people	NOUN	I	Indigenous_peoples
+to	PART	O
+share	VERB	O
+their	PRON	O
+own	ADJ	B	Ownership
+narratives	NOUN	B	Narrative
+about	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+.	PUNCT	O
+
+When	ADV	O
+asked	VERB	O
+about	SCONJ	O
+how	ADV	O
+women	NOUN	O
+from	ADP	O
+the	DET	O
+Global	ADJ	B	Global_North_and_Global_South
+South	PROPN	I	Global_North_and_Global_South
+can	AUX	O
+leverage	VERB	B	Leverage_(negotiation)
+their	PRON	O
+similar	ADJ	B	Similarity
+lived	VERB	B	Lived_experience
+experiences	NOUN	I	Lived_experience
+,	PUNCT	O
+Morales	PROPN	O
+says	VERB	O
+:	PUNCT	O
+“	PUNCT	O
+I	PRON	O
+have	AUX	O
+always	ADV	O
+believed	VERB	B	Belief
+that	SCONJ	O
+unity	NOUN	O
+is	AUX	O
+strength	NOUN	O
+.	PUNCT	O
+
+We	PRON	O
+can	AUX	O
+take	VERB	O
+advantage	NOUN	O
+of	ADP	O
+our	PRON	O
+shared	VERB	O
+crises	NOUN	B	Financial_crisis
+to	PART	O
+support	VERB	O
+each	DET	O
+other	ADJ	O
+.	PUNCT	O
+”	PUNCT	O
+
+For	ADP	O
+Zahrae	PROPN	O
+,	PUNCT	O
+meeting	VERB	O
+Morales	PROPN	O
+and	CCONJ	O
+other	ADJ	O
+young	ADJ	B	Youth
+climate	NOUN	B	Climate_movement
+activists	NOUN	I	Climate_movement
+was	AUX	O
+key	ADJ	O
+.	PUNCT	O
+
+“	PUNCT	O
+Thanks	NOUN	O
+to	ADP	O
+these	DET	O
+people	NOUN	O
+,	PUNCT	O
+my	PRON	O
+hope	NOUN	B	Hope
+and	CCONJ	O
+trust	NOUN	O
+in	ADP	O
+humanity	NOUN	B	Human
+have	AUX	O
+been	AUX	O
+restored	VERB	O
+and	CCONJ	O
+I	PRON	O
+am	AUX	O
+able	ADJ	O
+now	ADV	B	Present
+to	PART	O
+tackle	VERB	O
+the	DET	O
+upcoming	ADJ	O
+challenges	NOUN	O
+with	ADP	O
+a	DET	O
+smile	NOUN	B	Smile
+on	ADP	O
+my	PRON	O
+face	NOUN	B	Face
+and	CCONJ	O
+a	DET	O
+serenity	NOUN	O
+in	ADP	O
+my	PRON	O
+heart	NOUN	B	Heart
+.	PUNCT	O
+”	PUNCT	O
+

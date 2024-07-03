@@ -1,0 +1,60 @@
+Australian|ADJ town|NOUN of|ADP Onslow|PROPN hits|VERB record|NOUN 50.7|NUM degrees|NOUN Celsius|PROPN ,|PUNCT as|SCONJ global|ADJ warming|NOUN rolls|VERB on|ADP relentlessly|ADV
+Global|ADJ ocean|NOUN and|CCONJ air|NOUN temperatures|NOUN at|ADP record|ADJ levels|NOUN
+When|ADV the|DET coastal|ADJ town|NOUN of|ADP Onslow|PROPN in|ADP Western|ADJ Australia|PROPN hit|VERB a|DET record|NOUN -|PUNCT setting|VERB 50.7|NUM degrees|NOUN Celsius|PROPN (|PUNCT 123.3|NUM degrees|NOUN Fahrenheit|PROPN )|PUNCT on|ADP January|PROPN 13|NUM ,|PUNCT 2022|NUM ,|PUNCT it|PRON was|AUX just|ADV another|DET day|NOUN in|ADP the|DET unfolding|ADJ climate|NOUN crisis|NOUN .|PUNCT
+It|PRON matched|VERB the|DET 1960|NUM temperature|NOUN record|NOUN at|ADP inland|ADJ Oodnadatta|PROPN ,|PUNCT which|PRON is|AUX the|DET high|ADJ mark|NOUN for|ADP the|DET Southern|ADJ Hemisphere|PROPN .|PUNCT
+Bureau|PROPN of|ADP Meteorology|PROPN ,|PUNCT Western|ADJ Australia|PROPN @BOM_WA|PROPN
+NEW|ADJ Western|ADJ Australian|ADJ maximum|ADJ temperature|NOUN record|NOUN and|CCONJ equal|ADJ National|ADJ temperature|NOUN record|NOUN !|SYM
+Onslow|PROPN reached|VERB an|DET unprecedented|ADJ -|SYM 50.7|NUM °C|NOUN which|PRON is|AUX a|DET WA|PROPN record|NOUN and|CCONJ equals|VERB Australia|PROPN 's|PART hottest|ADJ day|NOUN set|VERB 62|NUM years|NOUN ago|ADV in|ADP Oodnadatta|PROPN SA|PROPN .|PUNCT
+Data|NOUN not|PART official|ADJ until|ADP quality|NOUN controlled|VERB .|PUNCT
+Holly|PROPN Green|PROPN @HollyJGreen|X
+2022|NUM is|AUX the|DET year|NOUN we|PRON expect|VERB Carbon|NOUN Dioxide|NOUN levels|NOUN to|PART reach|VERB 50|NUM %|SYM above|ADP pre-industrial|ADJ levels|NOUN 📈|PUNCT
+In|ADP other|ADJ (|PUNCT very|ADV much|ADV related|ADJ )|PUNCT news|NOUN ,|PUNCT Australia|PROPN hit|VERB 50.7C|NUM today|NOUN which|PRON is|AUX the|DET joint|ADJ #hottest|NOUN temperature|NOUN ever|ADV recorded|VERB in|ADP the|DET southern|ADJ hemisphere|NOUN .|PUNCT
+Andrew|PROPN King|PROPN ,|PUNCT senior|ADJ lecturer|NOUN in|ADP Climate|PROPN Science|PROPN at|ADP the|DET University|PROPN of|ADP Melbourne|PROPN ,|PUNCT explored|VERB the|DET implications|NOUN through|ADP an|DET article|NOUN in|ADP The|DET Conversation|NOUN :|PUNCT
+Unfortunately|ADV ,|PUNCT this|DET extreme|ADJ heat|NOUN is|AUX becoming|VERB more|ADV common|ADJ as|SCONJ the|DET world|NOUN heats|VERB up|ADP .|PUNCT
+The|DET number|NOUN of|ADP days|NOUN over|ADV 50|NUM °C|NOUN has|AUX doubled|VERB since|ADP the|DET 1980s|NOUN .|PUNCT
+These|DET dangerous|ADJ temperatures|NOUN are|AUX now|ADV being|AUX recorded|VERB more|ADV often|ADV –|PUNCT not|PART just|ADV in|ADP Australia|PROPN but|CCONJ in|ADP cities|NOUN in|ADP Pakistan|PROPN ,|PUNCT India|PROPN and|CCONJ the|DET Persian|PROPN Gulf|PROPN .|PUNCT
+This|PRON poses|VERB real|ADJ threats|NOUN to|ADP the|DET health|NOUN of|ADP people|NOUN enduring|VERB them|PRON .|PUNCT
+Should|AUX these|DET temperatures|NOUN be|AUX a|DET surprise|NOUN ?|PUNCT
+Sadly|ADV ,|PUNCT no|INTJ .|PUNCT
+Australia|PROPN has|AUX warmed|VERB by|ADP around|ADV 1.4|NUM °C|NOUN since|ADP 1910|NUM ,|PUNCT well|ADV ahead|ADV of|ADP the|DET global|ADJ average|NOUN of|ADP 1.1|NUM °C|NOUN .|PUNCT
+You|PRON may|AUX think|VERB Australians|PROPN are|AUX good|ADJ at|SCONJ surviving|VERB the|DET heat|NOUN .|PUNCT
+But|CCONJ the|DET climate|NOUN you|PRON were|AUX born|VERB in|ADP does|AUX n't|PART exist|VERB any|DET more|ADJ .|PUNCT
+Sadly|ADV ,|PUNCT our|PRON farms|NOUN ,|PUNCT wildlife|NOUN ,|PUNCT and|CCONJ suburbs|NOUN will|AUX struggle|VERB to|PART cope|VERB with|ADP the|DET extreme|ADJ heat|NOUN projected|VERB for|ADP coming|VERB decades|NOUN .|PUNCT
+One|NUM institution|NOUN in|ADP nearby|ADJ Roebourne|PROPN grappled|VERB with|ADP the|DET dire|ADJ consequences|NOUN for|ADP humans|NOUN in|ADP these|DET extreme|ADJ temperates|NOUN .|PUNCT
+The|DET majority|NOUN of|ADP the|DET prisoners|NOUN in|ADP the|DET Roebourne|PROPN prison|NOUN are|AUX Aboriginal|ADJ people|NOUN .|PUNCT
+NITV|PROPN (|PUNCT National|ADJ Indigenous|ADJ Television|PROPN )|PUNCT reporting|VERB claims|NOUN that|SCONJ inmates|NOUN at|ADP the|DET prison|NOUN “|PUNCT were|AUX left|VERB to|PART swelter|VERB in|ADP record|ADJ heat|NOUN without|ADP adequate|ADJ air|NOUN conditioning|NOUN ”|PUNCT :|PUNCT
+NITV|PROPN @NITV|PROPN
+Inmates|NOUN had|VERB to|PART swelter|VERB through|ADP 50|NUM -|PUNCT degree|NOUN heat|NOUN without|ADP air|NOUN -|PUNCT conditioning|NOUN on|ADP January|PROPN 14|NUM ,|PUNCT the|DET second|ADV hottest|ADJ day|NOUN recorded|VERB in|ADP national|ADJ history|NOUN .|PUNCT
+@rachaelknowles_|PROPN reports|NOUN .|PUNCT
+The|DET extreme|ADJ heat|NOUN also|ADV grounded|VERB the|DET Royal|ADJ Flying|VERB Doctor|PROPN Service|PROPN (|PUNCT RFDS|PROPN )|PUNCT :|PUNCT
+Laura|X Birch|X @laurabirch25|X
+Temperatures|NOUN were|AUX so|ADV hot|ADJ in|ADP Onslow|PROPN today|NOUN ,|PUNCT the|DET RFDS|PROPN plane|NOUN could|AUX n't|PART take|VERB off|ADP 😯|PUNCT @abcnews|X @stjohn_wa|X #|SYM StJohnOnslow|X
+Andrew|PROPN King|PROPN expects|VERB Australia|PROPN 's|PART largest|ADJ cities|NOUN ,|PUNCT Sydney|PROPN and|CCONJ Melbourne|PROPN ,|PUNCT to|PART hit|VERB 50|NUM degrees|NOUN Celsius|PROPN in|ADP the|DET near|ADJ future|NOUN .|PUNCT
+Melbourne|PROPN 's|PART highest|ADJ official|ADJ temperature|NOUN of|ADP 46.4|NUM degrees|NOUN Celsius|PROPN (|PUNCT 115.5|NUM degrees|NOUN Farenheit|PROPN )|PUNCT was|AUX recorded|VERB on|ADP Black|PROPN Saturday|PROPN ,|PUNCT February|PROPN 7|NUM ,|PUNCT 2009|NUM .|PUNCT
+It|PRON was|AUX the|DET day|NOUN of|ADP Victoria|PROPN 's|PART devastating|ADJ bushfires|NOUN with|ADP 108|NUM deaths|NOUN and|CCONJ more|ADJ than|ADP 750|NUM houses|NOUN incinerated|VERB .|PUNCT
+Meanwhile|ADV at|ADP a|DET global|ADJ level|NOUN ,|PUNCT Advances|PROPN in|ADP Atmospheric|ADJ Sciences|PROPN ,|PUNCT 2022|NUM released|VERB a|DET study|NOUN of|ADP ocean|NOUN temperatures|NOUN :|PUNCT Another|DET Record|NOUN :|PUNCT Ocean|PROPN Warming|PROPN Continues|VERB through|ADP 2021|NUM despite|ADP La|PROPN Niña|PROPN Conditions|NOUN .|PUNCT
+It|PRON indicated|VERB that|SCONJ the|DET world|NOUN ocean|NOUN was|AUX the|DET hottest|ADJ ever|ADV recorded|VERB .|PUNCT
+The|DET authors|NOUN warn|VERB :|PUNCT
+As|SCONJ oceans|NOUN warm|ADJ ,|PUNCT the|DET water|NOUN expands|VERB ,|PUNCT and|CCONJ sea|NOUN level|NOUN rises|VERB .|PUNCT
+Preparing|VERB for|ADP sea|NOUN level|NOUN rise|NOUN and|CCONJ its|PRON implications|NOUN for|ADP coastal|ADJ communities|NOUN are|AUX particularly|ADV important|ADJ .|PUNCT
+In|ADP addition|NOUN ,|PUNCT warmer|ADJ oceans|NOUN supercharge|VERB the|DET weather|NOUN systems|NOUN ,|PUNCT creating|VERB more|ADV powerful|ADJ storms|NOUN and|CCONJ hurricanes|NOUN ,|PUNCT and|CCONJ increased|VERB precipitation|NOUN .|PUNCT
+Warmer|ADJ oceans|NOUN lead|VERB to|ADP a|DET warmer|ADJ and|CCONJ moister|ADJ atmosphere|NOUN that|PRON promotes|VERB more|ADV intense|ADJ rainfall|NOUN in|ADP all|DET storms|NOUN ,|PUNCT especially|ADV hurricanes|NOUN ,|PUNCT thereby|ADV increasing|VERB the|DET risk|NOUN of|ADP flooding|NOUN .|PUNCT
+Warming|NOUN ocean|NOUN waters|NOUN threaten|VERB marine|ADJ ecosystems|NOUN and|CCONJ human|ADJ livelihoods|NOUN ,|PUNCT for|ADP example|NOUN ,|PUNCT coral|ADJ reefs|NOUN and|CCONJ fisheries|NOUN .|PUNCT
+Novelist|NOUN and|CCONJ activist|NOUN Eliza|PROPN Todd|PROPN seems|VERB to|PART have|VERB an|DET angle|NOUN for|ADP an|DET end|NOUN -|PUNCT of|ADP -|PUNCT world|NOUN movie|NOUN :|PUNCT
+🌎|PUNCT A|DET disaster|NOUN film|NOUN occurring|VERB daily|ADV in|ADP real|ADJ time|NOUN ,|PUNCT 2021|NUM world|NOUN ocean|NOUN temperatures|NOUN are|AUX the|DET *|PUNCT hottest|ADJ ever|ADV recorded|VERB .|PUNCT
+Rising|VERB ocean|NOUN temps|NOUN are|AUX inextricably|ADV linked|VERB to|ADP massive|ADJ extreme|ADJ weather|NOUN /|SYM climate|NOUN events|NOUN ,|PUNCT destabilization|NOUN of|ADP Antarctic|ADJ ice|NOUN shelves|NOUN and|CCONJ massive|ADJ sea|NOUN level|NOUN rise|NOUN .|PUNCT
+—|PUNCT Eliza|PROPN Todd|PROPN (|PUNCT @Smilynntodd|PROPN )|PUNCT January|PROPN 12|NUM ,|PUNCT 2022|NUM
+As|SCONJ New|ADJ Scientist|PROPN reported|VERB ,|PUNCT the|DET last|ADJ seven|NUM years|NOUN were|AUX the|DET warmest|ADJ so|ADV far|ADV .|PUNCT
+Last|ADJ year|NOUN ranks|VERB fifth|ADJ ,|PUNCT sixth|NOUN ,|PUNCT or|CCONJ seventh|ADV based|VERB on|ADP the|DET international|ADJ datasets|NOUN used|VERB by|ADP the|DET World|PROPN Meteorological|ADJ Organization|PROPN (|PUNCT WMO|PROPN )|PUNCT for|ADP their|PRON analysis|NOUN .|PUNCT
+Although|SCONJ 2021|NUM was|AUX not|PART the|DET hottest|ADJ year|NOUN on|ADP record|NOUN ,|PUNCT that|PRON 's|AUX hardly|ADV cause|ADJ to|PART celebrate|VERB :|PUNCT
+The|DET past|ADJ seven|NUM years|NOUN were|AUX the|DET warmest|ADJ on|ADP record|NOUN as|SCONJ climate|NOUN change|NOUN continued|VERB apace|ADV ,|PUNCT despite|ADP the|DET cooling|NOUN effect|NOUN of|ADP the|DET La|PROPN Niña|PROPN weather|NOUN pattern|NOUN in|ADP 2021|NUM .|PUNCT
+…|PUNCT 2021|NUM saw|VERB climate|NOUN scientists|NOUN shocked|VERB by|ADP several|ADJ temperature|NOUN records|NOUN broken|VERB by|ADP much|ADV larger|ADJ margins|NOUN than|ADP usual|ADJ in|ADP some|DET places|NOUN ,|PUNCT such|ADJ as|ADP the|DET near|ADJ -|PUNCT 50|NUM °C|NOUN record|NOUN set|VERB in|ADP Lytton|PROPN ,|PUNCT Canada|PROPN .|PUNCT
+Previous|ADJ research|NOUN showed|VERB this|DET event|NOUN would|AUX have|AUX been|AUX “|PUNCT virtually|ADV impossible|ADJ ”|PUNCT without|ADP climate|NOUN change|NOUN .|PUNCT
+According|VERB to|ADP the|DET World|PROPN Meteorological|ADJ Organization|PROPN ,|PUNCT La|PROPN Niña|PROPN “|PUNCT refers|VERB to|ADP the|DET large|ADJ -|PUNCT scale|NOUN cooling|NOUN of|ADP the|DET ocean|NOUN surface|NOUN temperatures|NOUN in|ADP the|DET central|ADJ and|CCONJ eastern|ADJ equatorial|ADJ Pacific|ADJ Ocean|PROPN ”|PUNCT .|PUNCT
+This|DET WMO|PROPN YouTube|PROPN animation|NOUN has|VERB the|DET following|VERB warning|NOUN :|PUNCT “|PUNCT Global|ADJ warming|NOUN and|CCONJ other|ADJ long|ADJ -|PUNCT term|NOUN climate|NOUN change|NOUN trends|NOUN are|AUX expected|VERB to|PART continue|VERB as|ADP a|DET result|NOUN of|ADP record|ADJ levels|NOUN of|ADP heat|NOUN -|PUNCT trapping|VERB greenhouse|NOUN gases|NOUN in|ADP the|DET atmosphere|NOUN ”|PUNCT .|PUNCT
+The|DET Washington|PROPN Post|PROPN created|VERB an|DET animation|NOUN of|ADP temperature|NOUN variations|NOUN since|ADP 1880|NUM ,|PUNCT shared|VERB by|ADP Twitter|PROPN user|NOUN Nuclear|ADJ Engineering|NOUN :|PUNCT
+Wanna|INTJ see|VERB something|PRON really|ADV scary|ADJ ?|PUNCT
+“|PUNCT Today|NOUN ,|PUNCT our|PRON planet|NOUN revolves|VERB at|ADP its|PRON hottest|ADJ levels|NOUN on|ADP record|NOUN —|PUNCT 1.1|NUM °C|NOUN higher|ADJ than|ADP at|ADP the|DET beginning|NOUN of|ADP the|DET Industrial|ADJ Revolution|PROPN .|PUNCT
+The|DET drumbeat|NOUN has|AUX been|AUX steady|ADJ ;|PUNCT the|DET past|ADJ seven|NUM years|NOUN have|AUX been|AUX the|DET hottest|ADJ on|ADP record|NOUN .|PUNCT ”|PUNCT
+—|PUNCT Nuclear|ADJ Engineering|PROPN (|PUNCT @NuclearEngnrng|PROPN )|PUNCT January|PROPN 20|NUM ,|PUNCT 2022|NUM
+Given|VERB the|DET spades|NOUN of|ADP new|ADJ records|NOUN ,|PUNCT it|PRON must|AUX be|AUX time|NOUN to|PART revisit|VERB the|DET Intergovernmental|ADJ Panel|PROPN on|ADP Climate|PROPN Change|PROPN 's|PART (|PUNCT IPCC|PROPN )|PUNCT COP26|PROPN Code|NOUN Red|PROPN .|PUNCT

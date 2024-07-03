@@ -1,0 +1,1474 @@
+Question	NOUN	B	Question
+of	ADP	O
+Liability	NOUN	B	Legal_liability
+for	ADP	O
+Emissions	NOUN	O
+from	ADP	O
+Land	PROPN	B	Land_development
+Development	PROPN	I	Land_development
+in	ADP	O
+Relation	NOUN	O
+to	ADP	O
+New	ADJ	B	New_York_(state)
+York	PROPN	I	New_York_(state)
+State	PROPN	I	New_York_(state)
+Climate	PROPN	B	Climate_change
+Change	PROPN	I	Climate_change
+Plan	NOUN	O
+
+Abstract	NOUN	O
+
+The	DET	O
+question	NOUN	B	Question
+of	ADP	O
+liability	NOUN	B	Legal_liability
+(	PUNCT	O
+responsibility	NOUN	B	Social_responsibility
+)	PUNCT	O
+for	ADP	O
+loss	NOUN	B	Loss_and_damage_(climate_change)
+and	CCONJ	I	Loss_and_damage_(climate_change)
+damage	NOUN	I	Loss_and_damage_(climate_change)
+(	PUNCT	I	Loss_and_damage_(climate_change)
+L&D	NOUN	I	Loss_and_damage_(climate_change)
+)	PUNCT	I	Loss_and_damage_(climate_change)
+associated	VERB	B	Correlation
+with	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+often	ADV	O
+ignores	VERB	O
+the	DET	O
+liability	NOUN	B	Legal_liability
+for	ADP	O
+L&D	PROPN	B	Loss_and_damage_(climate_change)
+from	ADP	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+(	PUNCT	I	Greenhouse_gas_emissions
+GHG	NOUN	I	Greenhouse_gas_emissions
+)	PUNCT	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+which	PRON	O
+are	AUX	O
+the	DET	O
+source	NOUN	O
+of	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+-	PUNCT	O
+related	ADJ	O
+impacts	NOUN	B	Effects_of_climate_change
+.	PUNCT	O
+
+New	PROPN	B	New_York_(state)
+York	PROPN	I	New_York_(state)
+State	PROPN	I	New_York_(state)
+(	PUNCT	I	New_York_(state)
+NYS	PROPN	I	New_York_(state)
+)	PUNCT	I	New_York_(state)
+recognizes	VERB	O
+its	PRON	O
+responsibility	NOUN	B	Social_responsibility
+regarding	VERB	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+as	SCONJ	O
+documented	VERB	O
+in	ADP	O
+the	DET	O
+NYS	PROPN	B	New_York_(state)
+Climate	PROPN	B	Climate_Leadership_and_Community_Protection_Act
+Leadership	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+and	CCONJ	I	Climate_Leadership_and_Community_Protection_Act
+Community	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+Protection	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+Act	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+(	PUNCT	I	Climate_Leadership_and_Community_Protection_Act
+CLCPA	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+)	PUNCT	I	Climate_Leadership_and_Community_Protection_Act
+(	PUNCT	O
+Senate	PROPN	B	Climate_Leadership_and_Community_Protection_Act
+Bill	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+S6599	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+)	PUNCT	O
+,	PUNCT	O
+which	PRON	O
+put	VERB	O
+forward	ADV	O
+the	DET	O
+goal	NOUN	B	Goal
+of	SCONJ	O
+reducing	VERB	B	Climate_change_mitigation
+greenhouse	NOUN	I	Climate_change_mitigation
+gas	NOUN	I	Climate_change_mitigation
+emissions	NOUN	I	Climate_change_mitigation
+from	ADP	O
+all	DET	O
+anthropogenic	ADJ	B	Human_impact_on_the_environment
+sources	NOUN	I	Human_impact_on_the_environment
+100	NUM	O
+%	SYM	O
+over	ADP	O
+1990	NUM	O
+levels	NOUN	O
+by	ADP	O
+the	DET	O
+year	NOUN	O
+2050	NUM	B	3rd_millennium
+,	PUNCT	O
+with	ADP	O
+an	DET	O
+incremental	ADJ	O
+target	NOUN	O
+of	ADP	O
+at	ADP	O
+least	ADJ	O
+a	DET	O
+40	NUM	O
+%	SYM	B	Percentage
+reduction	NOUN	B	Climate_change_mitigation
+in	ADP	I	Climate_change_mitigation
+climate	NOUN	I	Climate_change_mitigation
+pollution	NOUN	I	Climate_change_mitigation
+by	ADP	O
+the	DET	O
+year	NOUN	O
+2030	NUM	B	2030s
+.	PUNCT	O
+
+The	DET	O
+current	ADJ	O
+NYS	PROPN	B	New_York_(state)
+carbon	NOUN	B	Carbon_footprint
+footprint	NOUN	I	Carbon_footprint
+(	PUNCT	I	Carbon_footprint
+CF	PROPN	I	Carbon_footprint
+)	PUNCT	I	Carbon_footprint
+does	AUX	O
+not	PART	O
+include	VERB	O
+soil	NOUN	O
+-	PUNCT	O
+based	VERB	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+from	ADP	O
+land	NOUN	B	Land_development
+developments	NOUN	I	Land_development
+,	PUNCT	O
+preventing	VERB	O
+the	DET	O
+state	NOUN	O
+from	SCONJ	O
+reaching	VERB	O
+its	PRON	O
+net	NOUN	B	Carbon_neutrality
+-	PUNCT	I	Carbon_neutrality
+zero	NUM	I	Carbon_neutrality
+emission	NOUN	I	Carbon_neutrality
+goals	NOUN	I	Carbon_neutrality
+.	PUNCT	O
+
+The	DET	O
+current	ADJ	O
+study	NOUN	O
+addresses	VERB	B	Public_speaking
+this	DET	O
+shortcoming	NOUN	O
+by	SCONJ	O
+quantifying	VERB	B	Quantification_(science)
+the	DET	O
+"	PUNCT	O
+realized	VERB	O
+"	PUNCT	O
+social	ADJ	B	Social_cost
+costs	NOUN	I	Social_cost
+of	ADP	O
+CO2	NOUN	B	Greenhouse_gas_emissions
+(	PUNCT	I	Greenhouse_gas_emissions
+SC	PROPN	I	Greenhouse_gas_emissions
+-	PUNCT	I	Greenhouse_gas_emissions
+CO2	NOUN	I	Greenhouse_gas_emissions
+)	PUNCT	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+for	ADP	O
+NYS	PROPN	B	New_York_(state)
+from	ADP	O
+all	DET	O
+land	NOUN	B	Land_development
+developments	NOUN	I	Land_development
+(	PUNCT	O
+12,037.5	NUM	O
+km2	NOUN	B	Square_kilometre
+,	PUNCT	O
+midpoint	NOUN	B	Midpoint
+1.7	NUM	O
+×	SYM	O
+1011	NUM	B	1011
+of	ADP	O
+total	ADJ	B	Soil_carbon
+soil	NOUN	I	Soil_carbon
+carbon	NOUN	I	Soil_carbon
+(	PUNCT	I	Soil_carbon
+TSC	NOUN	I	Soil_carbon
+)	PUNCT	I	Soil_carbon
+losses	NOUN	O
+with	ADP	O
+midpoint	NOUN	B	Midpoint
+$	SYM	B	United_States_dollar
+28.5B	NUM	O
+(	PUNCT	O
+where	ADV	O
+B	NOUN	O
+=	SYM	O
+billion	NUM	B	Billion
+=	SYM	O
+109	NUM	O
+,	PUNCT	O
+USD	NOUN	B	United_States_dollar
+)	PUNCT	O
+)	PUNCT	O
+in	ADP	O
+social	ADJ	B	Social_cost
+costs	NOUN	I	Social_cost
+of	ADP	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+dioxide	NOUN	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+,	PUNCT	O
+SC	PROPN	O
+-	PUNCT	O
+CO2	NOUN	O
+)	PUNCT	O
+and	CCONJ	O
+"	PUNCT	O
+new	ADJ	O
+"	PUNCT	O
+land	NOUN	B	Land_development
+developments	NOUN	I	Land_development
+(	PUNCT	O
+485.2	NUM	O
+km2	NOUN	B	Square_kilometre
+)	PUNCT	O
+in	ADP	O
+the	DET	O
+period	NOUN	O
+from	ADP	O
+2001	NUM	O
+to	ADP	O
+2016	NUM	O
+,	PUNCT	O
+which	PRON	O
+caused	VERB	O
+a	DET	O
+complete	ADJ	O
+loss	NOUN	O
+of	ADP	O
+midpoint	NOUN	B	Midpoint
+6.6	NUM	O
+×	SYM	O
+109	NUM	O
+kg	NOUN	O
+of	ADP	O
+TSC	NOUN	B	Soil_carbon
+resulting	VERB	O
+in	ADP	O
+midpoint	NOUN	B	Midpoint
+$	SYM	B	United_States_dollar
+1.1B	NUM	O
+SC	NOUN	O
+-	PUNCT	O
+CO2	NOUN	O
+.	PUNCT	O
+
+All	DET	O
+NYS	PROPN	B	New_York_(state)
+'s	PART	O
+counties	NOUN	O
+experienced	VERB	O
+land	NOUN	B	Land_development
+conversions	NOUN	I	Land_development
+,	PUNCT	O
+with	ADP	O
+most	ADJ	O
+of	ADP	O
+the	DET	O
+developments	NOUN	B	Land_development
+,	PUNCT	O
+TSC	NOUN	B	Soil_carbon
+losses	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+SC	PROPN	O
+-	PUNCT	O
+CO2	PROPN	O
+occurred	VERB	O
+near	ADP	O
+the	DET	O
+existing	VERB	B	Existence
+urban	ADJ	B	Urban_area
+areas	NOUN	I	Urban_area
+of	ADP	O
+New	ADJ	B	New_York_City
+York	PROPN	I	New_York_City
+City	PROPN	I	New_York_City
+(	PUNCT	I	New_York_City
+NYC	PROPN	I	New_York_City
+)	PUNCT	I	New_York_City
+,	PUNCT	O
+Long	ADJ	B	Long_Island
+Island	PROPN	I	Long_Island
+,	PUNCT	O
+and	CCONJ	O
+Albany	PROPN	B	Albany,_New_York
+.	PUNCT	O
+
+Land	NOUN	B	Land_development
+conversion	NOUN	I	Land_development
+to	ADP	O
+developments	NOUN	B	Land_development
+creates	VERB	O
+additional	ADJ	O
+liability	NOUN	B	Legal_liability
+by	ADP	O
+the	DET	O
+loss	NOUN	O
+of	ADP	O
+future	ADJ	B	Future
+GHG	NOUN	B	Greenhouse_gas_emissions
+sequestration	NOUN	B	Carbon_sequestration
+potential	NOUN	B	Potential_energy
+in	ADP	O
+developed	ADJ	O
+areas	NOUN	B	Area
+.	PUNCT	O
+
+In	ADP	O
+addition	NOUN	B	Addition
+,	PUNCT	O
+there	PRON	O
+is	VERB	O
+a	DET	O
+substantial	ADJ	O
+future	ADJ	B	Future
+liability	NOUN	B	Legal_liability
+in	ADP	O
+NYS	PROPN	B	New_York_(state)
+from	ADP	O
+climate	NOUN	B	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+the	DET	O
+projected	VERB	O
+sea	NOUN	B	Sea_level_rise
+-	PUNCT	I	Sea_level_rise
+level	NOUN	I	Sea_level_rise
+rises	NOUN	I	Sea_level_rise
+will	AUX	O
+impact	VERB	O
+17	NUM	O
+of	ADP	O
+NY	PROPN	O
+'s	PART	O
+62	NUM	O
+counties	NOUN	O
+,	PUNCT	O
+which	PRON	O
+will	AUX	O
+cause	VERB	O
+high	ADJ	O
+costs	NOUN	B	Cost
+of	ADP	O
+adaptation	NOUN	B	Climate_change_adaptation
+.	PUNCT	O
+
+Incorporation	NOUN	B	Corporation
+of	ADP	O
+land	NOUN	B	Land_use
+use	NOUN	I	Land_use
+/	SYM	O
+land	NOUN	B	Land_cover
+cover	NOUN	I	Land_cover
+change	NOUN	O
+(	PUNCT	O
+LULCC	PROPN	O
+)	PUNCT	O
+analysis	NOUN	B	Analysis
+can	AUX	O
+help	VERB	O
+better	ADV	O
+quantify	VERB	B	Quantity
+the	DET	O
+CF	NOUN	B	Carbon_footprint
+and	CCONJ	O
+identify	VERB	O
+ways	NOUN	B	Methodology
+to	PART	O
+reduce	VERB	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+and	CCONJ	O
+the	DET	O
+associated	VERB	B	Correlation
+liabilities	NOUN	B	Legal_liability
+and	CCONJ	O
+compensations	NOUN	O
+to	PART	O
+help	VERB	O
+achieve	VERB	O
+some	DET	O
+of	ADP	O
+the	DET	B	United_Nations
+United	VERB	I	United_Nations
+Nations	PROPN	I	United_Nations
+(	PUNCT	O
+UN	PROPN	B	United_Nations
+)	PUNCT	O
+Sustainable	ADJ	B	Sustainable_Development_Goals
+Development	PROPN	I	Sustainable_Development_Goals
+Goals	PROPN	I	Sustainable_Development_Goals
+(	PUNCT	I	Sustainable_Development_Goals
+SDGs	PROPN	I	Sustainable_Development_Goals
+)	PUNCT	I	Sustainable_Development_Goals
+.	PUNCT	O
+
+Keywords	NOUN	B	Index_term
+:	PUNCT	O
+carbon	NOUN	B	Greenhouse_gas
+;	PUNCT	O
+CO2	NOUN	B	Greenhouse_gas
+;	PUNCT	O
+compensation	NOUN	O
+;	PUNCT	O
+greenhouse	NOUN	B	Greenhouse_gas
+gas	NOUN	I	Greenhouse_gas
+;	PUNCT	O
+law	NOUN	B	Law
+;	PUNCT	O
+policy	NOUN	B	Policy
+;	PUNCT	O
+sustainable	ADJ	B	Sustainable_Development_Goals
+development	NOUN	I	Sustainable_Development_Goals
+goals	NOUN	I	Sustainable_Development_Goals
+
+Introduction	NOUN	B	Introduction_(writing)
+
+Land	NOUN	B	Land_development
+development	NOUN	I	Land_development
+results	NOUN	O
+in	ADP	O
+land	NOUN	B	Land_cover
+cover	NOUN	I	Land_cover
+change	NOUN	O
+that	PRON	O
+causes	VERB	O
+direct	ADJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+Responsibility	NOUN	B	Social_responsibility
+or	CCONJ	O
+liability	NOUN	B	Legal_liability
+for	ADP	O
+the	DET	O
+impacts	NOUN	B	Effects_of_climate_change
+of	ADP	O
+these	DET	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+can	AUX	O
+fall	VERB	O
+to	ADP	O
+various	ADJ	O
+parties	NOUN	B	Political_party
+,	PUNCT	O
+including	VERB	O
+the	DET	O
+developer	NOUN	B	Land_development
+as	ADV	O
+well	ADV	O
+as	ADP	O
+the	DET	O
+local	ADJ	O
+,	PUNCT	O
+state	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+federal	ADJ	B	Federal_government_of_the_United_States
+governments	NOUN	I	Federal_government_of_the_United_States
+,	PUNCT	O
+who	PRON	O
+permit	VERB	B	License
+and	CCONJ	O
+often	ADV	O
+even	ADV	O
+promote	VERB	B	Marketing
+this	DET	O
+conversion	NOUN	O
+.	PUNCT	O
+
+Beyond	ADP	O
+the	DET	O
+liability	NOUN	B	Legal_liability
+for	ADP	O
+the	DET	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+,	PUNCT	O
+land	NOUN	B	Land_development
+development	NOUN	I	Land_development
+can	AUX	O
+incur	VERB	O
+additional	ADJ	O
+liability	NOUN	B	Legal_liability
+associated	VERB	B	Correlation
+with	ADP	O
+reduced	VERB	O
+future	ADJ	B	Future
+sequestration	NOUN	B	Carbon_sequestration
+potential	NOUN	I	Carbon_sequestration
+(	PUNCT	O
+e.g.	ADV	O
+,	PUNCT	O
+loss	NOUN	B	Disability
+of	ADP	I	Disability
+the	DET	I	Disability
+ability	NOUN	I	Disability
+to	PART	O
+further	ADV	O
+sequester	VERB	B	Carbon_sequestration
+C	PROPN	I	Carbon_sequestration
+in	ADP	O
+the	DET	O
+soil	NOUN	B	Soil
+or	CCONJ	O
+through	ADP	O
+forestry	NOUN	B	Forestry
+or	CCONJ	O
+agriculture	NOUN	B	Agriculture
+activity	NOUN	I	Agriculture
+)	PUNCT	O
+,	PUNCT	O
+as	ADV	O
+well	ADV	O
+the	DET	O
+liability	NOUN	B	Legal_liability
+for	ADP	O
+climate	NOUN	B	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+(	PUNCT	O
+Figure	PROPN	B	Page_layout
+1	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+The	DET	O
+Role	PROPN	B	Role
+of	ADP	O
+Soils	PROPN	B	Soil
+in	ADP	B	New_York_(state)
+New	ADJ	I	New_York_(state)
+York	PROPN	I	New_York_(state)
+State	PROPN	I	New_York_(state)
+'s	PART	O
+Plan	PROPN	B	Plan
+to	PART	O
+Reduce	VERB	B	Climate_change_mitigation
+Greenhouse	PROPN	I	Climate_change_mitigation
+Gas	PROPN	I	Climate_change_mitigation
+(	PUNCT	I	Climate_change_mitigation
+GHG	PROPN	I	Climate_change_mitigation
+)	PUNCT	I	Climate_change_mitigation
+Emissions	NOUN	I	Climate_change_mitigation
+
+On	ADP	O
+June	PROPN	O
+18	NUM	O
+,	PUNCT	O
+2019	NUM	O
+,	PUNCT	O
+the	DET	O
+NYS	PROPN	B	New_York_(state)
+issued	VERB	O
+Senate	PROPN	B	Climate_Leadership_and_Community_Protection_Act
+Bill	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+S6599	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+,	PUNCT	O
+"	PUNCT	O
+New	ADJ	B	New_York_(state)
+York	PROPN	I	New_York_(state)
+State	PROPN	I	New_York_(state)
+Climate	PROPN	B	Climate_Leadership_and_Community_Protection_Act
+Leadership	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+and	CCONJ	I	Climate_Leadership_and_Community_Protection_Act
+Community	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+Protection	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+Act	PROPN	I	Climate_Leadership_and_Community_Protection_Act
+"	PUNCT	O
+(	PUNCT	O
+CLCPA	PROPN	B	Climate_Leadership_and_Community_Protection_Act
+)	PUNCT	O
+,	PUNCT	O
+which	PRON	O
+sets	VERB	O
+GHG	PROPN	B	Climate_change_mitigation
+emission	NOUN	I	Climate_change_mitigation
+reduction	NOUN	I	Climate_change_mitigation
+targets	NOUN	O
+from	ADP	O
+all	DET	O
+anthropogenic	ADJ	B	Human_impact_on_the_environment
+sources	NOUN	I	Human_impact_on_the_environment
+100	NUM	O
+%	SYM	O
+over	ADP	O
+1990	NUM	O
+levels	NOUN	O
+by	ADP	O
+the	DET	O
+year	NOUN	O
+2050	NUM	B	3rd_millennium
+,	PUNCT	O
+with	ADP	O
+an	DET	O
+incremental	ADJ	O
+target	NOUN	O
+of	ADP	O
+at	ADP	O
+least	ADJ	O
+a	DET	O
+40	NUM	O
+%	SYM	B	Percentage
+reduction	NOUN	B	Climate_change_mitigation
+in	ADP	I	Climate_change_mitigation
+climate	NOUN	I	Climate_change_mitigation
+pollution	NOUN	I	Climate_change_mitigation
+by	ADP	O
+the	DET	O
+year	NOUN	O
+2030	NUM	B	2030
+(	PUNCT	O
+Table	PROPN	O
+1	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+The	DET	O
+principal	ADJ	O
+sources	NOUN	O
+of	ADP	O
+NYS	PROPN	B	New_York_(state)
+'s	PART	O
+2019	NUM	O
+gross	ADJ	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+were	AUX	O
+:	PUNCT	O
+transportation	NOUN	B	Transport
+(	PUNCT	O
+29	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+electricity	NOUN	B	Electricity
+(	PUNCT	O
+13	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+industry	NOUN	B	Industry_(economics)
+(	PUNCT	O
+9	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+buildings	NOUN	B	Construction
+(	PUNCT	O
+32	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+agriculture	NOUN	B	Agriculture
+(	PUNCT	O
+6	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+and	CCONJ	O
+waste	NOUN	B	Waste
+(	PUNCT	O
+11	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+.	PUNCT	O
+
+This	DET	O
+list	NOUN	O
+does	AUX	O
+not	PART	O
+include	VERB	O
+soil	NOUN	O
+-	PUNCT	O
+based	VERB	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+from	ADP	O
+land	NOUN	B	Land_development
+conversions	NOUN	I	Land_development
+.	PUNCT	O
+
+New	ADJ	B	New_York_(state)
+York	PROPN	I	New_York_(state)
+State	PROPN	I	New_York_(state)
+'s	PART	O
+pedodiversity	NOUN	B	Pedodiversity
+(	PUNCT	I	Pedodiversity
+soil	NOUN	I	Pedodiversity
+diversity	NOUN	I	Pedodiversity
+)	PUNCT	I	Pedodiversity
+is	AUX	O
+represented	VERB	O
+by	ADP	O
+seven	NUM	O
+soil	NOUN	B	Soil
+orders	NOUN	O
+,	PUNCT	O
+belonging	VERB	O
+to	ADP	O
+slightly	ADV	O
+weathered	VERB	B	Weathering
+soils	NOUN	B	Soil
+(	PUNCT	O
+Entisols	PROPN	B	Entisol
+,	PUNCT	O
+Inceptisols	PROPN	B	Inceptisol
+,	PUNCT	O
+Histosols	PROPN	B	Histosol
+)	PUNCT	O
+,	PUNCT	O
+moderately	ADV	O
+weathered	VERB	B	Weathering
+soils	NOUN	B	Soil
+(	PUNCT	O
+Alfisols	PROPN	B	Alfisol
+,	PUNCT	O
+Mollisols	PROPN	B	Mollisol
+)	PUNCT	O
+,	PUNCT	O
+and	CCONJ	O
+strongly	ADV	O
+weathered	VERB	B	Weathering
+soils	NOUN	B	Soil
+(	PUNCT	O
+Spodosols	PROPN	B	Podzol
+,	PUNCT	O
+Ultisols	PROPN	B	Ultisol
+)	PUNCT	O
+with	ADP	O
+different	ADJ	O
+soil	NOUN	B	Soil
+ecosystem	NOUN	B	Ecosystem_service
+services	NOUN	I	Ecosystem_service
+and	CCONJ	I	Ecosystem_service
+disservices	NOUN	I	Ecosystem_service
+(	PUNCT	I	Ecosystem_service
+ES	NOUN	I	Ecosystem_service
+/	SYM	I	Ecosystem_service
+ED	PROPN	I	Ecosystem_service
+)	PUNCT	I	Ecosystem_service
+and	CCONJ	O
+climate	NOUN	B	Climate_change_vulnerability
+change	NOUN	I	Climate_change_vulnerability
+vulnerabilities	NOUN	I	Climate_change_vulnerability
+(	PUNCT	O
+Table	PROPN	O
+2	NUM	O
+and	CCONJ	O
+Figure	PROPN	B	Page_layout
+2	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+The	DET	O
+NYS	PROPN	B	New_York_(state)
+has	AUX	O
+picked	VERB	O
+Honeoye	PROPN	B	Honeoye,_New_York
+as	ADP	O
+the	DET	B	State_(polity)
+State	PROPN	I	State_(polity)
+Soil	PROPN	B	Soil
+(	PUNCT	O
+soil	NOUN	B	Soil
+order	NOUN	O
+:	PUNCT	O
+Alfisols	PROPN	B	Alfisol
+)	PUNCT	O
+because	ADP	O
+of	ADP	O
+its	PRON	O
+agricultural	ADJ	B	Agriculture
+importance	NOUN	B	Importance
+(	PUNCT	O
+e.g.	ADV	O
+,	PUNCT	O
+corn	NOUN	B	Maize
+,	PUNCT	O
+wheat	NOUN	B	Wheat
+,	PUNCT	O
+soybeans	NOUN	B	Soybean
+,	PUNCT	O
+oats	NOUN	B	Oat
+,	PUNCT	O
+alfalfa	NOUN	B	Alfalfa
+,	PUNCT	O
+vegetables	NOUN	B	Vegetable
+,	PUNCT	O
+grapes	NOUN	B	Grape
+,	PUNCT	O
+apples	NOUN	B	Apple
+,	PUNCT	O
+grass	NOUN	B	Poaceae
+pasture	NOUN	B	Pasture
+,	PUNCT	O
+hay	NOUN	B	Hay
+,	PUNCT	O
+etc	NOUN	B	Et_cetera
+)	PUNCT	O
+.	PUNCT	O
+
+Soils	NOUN	B	Soil
+of	ADP	O
+NYS	PROPN	B	New_York_(state)
+provide	VERB	O
+various	ADJ	O
+ecosystem	NOUN	B	Ecosystem_service
+services	NOUN	I	Ecosystem_service
+(	PUNCT	O
+provisional	ADJ	B	Provisional_government
+,	PUNCT	O
+regulation	NOUN	B	Regulation
+/	SYM	O
+maintenance	NOUN	B	Road
+,	PUNCT	O
+and	CCONJ	O
+cultural	ADJ	B	Culture
+)	PUNCT	O
+within	ADP	O
+the	DET	O
+economic	ADJ	B	Economy
+regions	NOUN	B	Region
+of	ADP	O
+the	DET	O
+state	NOUN	O
+(	PUNCT	O
+Table	PROPN	O
+2	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+Most	ADJ	O
+of	ADP	O
+the	DET	O
+economic	ADJ	B	Economy
+regions	NOUN	B	Region
+are	AUX	O
+dominated	VERB	O
+by	ADP	O
+the	DET	O
+soil	NOUN	B	Soil
+order	NOUN	O
+of	ADP	O
+Inceptisols	PROPN	B	Inceptisol
+(	PUNCT	O
+54	NUM	O
+%	SYM	B	Percentage
+for	ADP	O
+the	DET	O
+state	NOUN	O
+)	PUNCT	O
+,	PUNCT	O
+except	ADP	O
+for	ADP	O
+the	DET	O
+Finger	PROPN	B	Finger_Lakes
+Lakes	PROPN	I	Finger_Lakes
+region	NOUN	I	Finger_Lakes
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+dominated	VERB	B	Dominant-party_system
+by	ADP	O
+Alfisols	PROPN	B	Alfisol
+(	PUNCT	O
+55.6	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+(	PUNCT	O
+Table	PROPN	O
+3	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+As	ADP	O
+one	NUM	O
+of	ADP	O
+the	DET	O
+leading	VERB	O
+producers	NOUN	O
+of	ADP	O
+GHG	PROPN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+(	PUNCT	O
+more	ADJ	O
+than	ADP	O
+all	DET	O
+Central	ADJ	B	Central_America
+America	PROPN	I	Central_America
+and	CCONJ	O
+Mexico	PROPN	B	Mexico
+combined	VERB	O
+)	PUNCT	O
+,	PUNCT	O
+NYS	PROPN	B	New_York_(state)
+has	AUX	O
+been	AUX	O
+experiencing	VERB	O
+numerous	ADJ	O
+climate	NOUN	B	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+:	PUNCT	O
+increasing	VERB	O
+ocean	NOUN	B	Ocean_temperature
+and	CCONJ	O
+atmospheric	ADJ	B	Atmospheric_temperature
+temperatures	NOUN	I	Atmospheric_temperature
+;	PUNCT	O
+increase	NOUN	O
+in	ADP	O
+the	DET	O
+occurrence	NOUN	O
+of	ADP	O
+extreme	ADJ	B	Extreme_weather
+weather	NOUN	I	Extreme_weather
+events	NOUN	I	Extreme_weather
+and	CCONJ	O
+their	PRON	O
+intensity	NOUN	O
+;	PUNCT	O
+rising	VERB	B	Sea_level_rise
+sea	NOUN	I	Sea_level_rise
+levels	NOUN	I	Sea_level_rise
+and	CCONJ	O
+loss	NOUN	B	Land_loss
+of	ADP	I	Land_loss
+land	NOUN	I	Land_loss
+(	PUNCT	O
+especially	ADV	O
+existing	VERB	B	Existence
+wetlands	NOUN	B	Wetland
+)	PUNCT	O
+because	SCONJ	O
+of	SCONJ	O
+retreating	VERB	O
+shores	NOUN	B	Coast
+and	CCONJ	O
+land	NOUN	B	Climate_change
+surface	NOUN	I	Climate_change
+sinking	NOUN	I	Climate_change
+;	PUNCT	O
+coastal	ADJ	B	Storm
+storms	NOUN	I	Storm
+and	CCONJ	O
+flooding	NOUN	B	Flood
+.	PUNCT	O
+
+These	DET	O
+climate	NOUN	B	Loss_and_damage_(climate_change)
+-	PUNCT	I	Loss_and_damage_(climate_change)
+change	NOUN	I	Loss_and_damage_(climate_change)
+-	PUNCT	I	Loss_and_damage_(climate_change)
+related	ADJ	I	Loss_and_damage_(climate_change)
+L&D	NOUN	I	Loss_and_damage_(climate_change)
+result	VERB	O
+in	ADP	O
+significant	ADJ	B	Statistical_significance
+non-economic	ADJ	O
+(	PUNCT	O
+incalculable	ADJ	O
+)	PUNCT	O
+and	CCONJ	O
+economic	ADJ	B	pure_economic_loss
+losses	NOUN	I	pure_economic_loss
+in	ADP	O
+NYS	PROPN	B	New_York_(state)
+.	PUNCT	O
+
+For	ADP	O
+example	NOUN	O
+,	PUNCT	O
+historical	ADJ	O
+property	NOUN	B	Property_damage
+damage	NOUN	I	Property_damage
+cost	NOUN	B	Cost
+data	NOUN	B	Data
+(	PUNCT	O
+1960	NUM	O
+–2014	NUM	O
+,	PUNCT	O
+total	ADJ	O
+damage	NOUN	O
+:	PUNCT	O
+$	SYM	B	United_States_dollar
+25.56B	NUM	O
+in	ADP	O
+2014	NUM	O
+USD	NOUN	B	United_States_dollar
+)	PUNCT	O
+shows	VERB	O
+the	DET	O
+following	VERB	O
+damage	NOUN	B	Damage
+causes	VERB	O
+:	PUNCT	O
+flooding	NOUN	B	Flood
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+7.11B	NUM	O
+,	PUNCT	O
+27.8	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+severe	ADJ	B	Storm
+storms	NOUN	I	Storm
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+4.30B	NUM	O
+,	PUNCT	O
+16.8	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+winter	NOUN	B	Winter_storm
+storms	NOUN	B	Storm
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+3.15B	NUM	O
+,	PUNCT	O
+12.3	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+hurricanes	NOUN	B	Hurricane_Floyd
+Floyd	PROPN	I	Hurricane_Floyd
+and	CCONJ	O
+Irene	PROPN	B	Hurricane_Irene
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+240.43	NUM	O
+M	NUM	O
+,	PUNCT	O
+0.9	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+,	PUNCT	O
+Hurricane	PROPN	B	Hurricane_Sandy
+Sandy	PROPN	I	Hurricane_Sandy
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+10.75B	NUM	O
+,	PUNCT	O
+42.1	NUM	O
+%	SYM	B	Percentage
+)	PUNCT	O
+.	PUNCT	O
+
+Overall	ADV	O
+,	PUNCT	O
+hurricanes	NOUN	B	Tropical_cyclone
+accounted	VERB	O
+for	ADP	O
+43	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+the	DET	O
+total	ADJ	O
+damages	NOUN	B	Damages
+impacting	VERB	B	Impact_event
+primarily	ADV	O
+NYC	PROPN	B	New_York_City
+and	CCONJ	O
+Long	ADJ	B	Long_Island
+Island	PROPN	I	Long_Island
+(	PUNCT	O
+$	SYM	B	United_States_dollar
+11.32B	NUM	O
+in	ADP	O
+2014	NUM	O
+USD	NOUN	B	United_States_dollar
+)	PUNCT	O
+.	PUNCT	O
+
+The	DET	O
+present	ADJ	O
+study	NOUN	O
+hypothesizes	VERB	B	Hypothesis
+that	SCONJ	O
+liability	NOUN	B	Legal_liability
+is	AUX	O
+a	DET	O
+responsibility	NOUN	B	Duty
+for	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+from	ADP	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+,	PUNCT	O
+which	PRON	O
+can	AUX	O
+be	AUX	O
+elucidated	VERB	O
+,	PUNCT	O
+quantified	VERB	O
+,	PUNCT	O
+and	CCONJ	O
+valued	VERB	O
+based	VERB	O
+on	ADP	O
+the	DET	O
+social	ADJ	B	Social_cost
+cost	NOUN	I	Social_cost
+of	ADP	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+(	PUNCT	O
+e.g.	ADV	O
+,	PUNCT	O
+the	DET	O
+social	ADJ	B	Social_cost
+cost	NOUN	I	Social_cost
+of	ADP	O
+CO2	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+,	PUNCT	O
+SC	NOUN	O
+-	PUNCT	O
+CO2	NOUN	O
+,	PUNCT	O
+etc	NOUN	B	Et_cetera
+)	PUNCT	O
+.	PUNCT	O
+
+Land	NOUN	B	Land_development
+conversion	NOUN	I	Land_development
+causes	VERB	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+from	ADP	O
+land	NOUN	B	Land_development
+development	NOUN	I	Land_development
+as	ADV	O
+well	ADV	O
+as	ADP	O
+any	DET	O
+future	ADJ	B	Future
+loss	NOUN	O
+of	ADP	O
+soil	NOUN	B	Soil
+C	NOUN	B	Carbon_sequestration
+sequestration	NOUN	I	Carbon_sequestration
+potential	NOUN	I	Carbon_sequestration
+because	ADP	O
+of	ADP	O
+the	DET	O
+consequences	NOUN	B	Effects_of_climate_change
+of	ADP	O
+land	NOUN	B	Land_development
+development	NOUN	I	Land_development
+(	PUNCT	O
+e.g.	ADV	O
+,	PUNCT	O
+buildings	NOUN	B	Construction
+,	PUNCT	O
+impervious	ADJ	B	Impervious_surface
+areas	NOUN	I	Impervious_surface
+,	PUNCT	O
+etc	NOUN	B	Et_cetera
+)	PUNCT	O
+.	PUNCT	O
+
+Liability	NOUN	B	Legal_liability
+for	ADP	O
+these	DET	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+and	CCONJ	O
+the	DET	O
+subsequent	ADJ	O
+climate	NOUN	B	Loss_and_damage_(climate_change)
+change	NOUN	I	Loss_and_damage_(climate_change)
+L&D	NOUN	I	Loss_and_damage_(climate_change)
+can	AUX	O
+be	AUX	O
+divided	VERB	O
+among	ADP	O
+various	ADJ	O
+responsible	ADJ	B	Legal_liability
+parties	NOUN	B	Political_party
+,	PUNCT	O
+including	VERB	O
+the	DET	O
+administrative	ADJ	B	Administrative_division
+entities	NOUN	I	Administrative_division
+that	PRON	O
+create	VERB	O
+regulations	NOUN	B	Regulation
+and	CCONJ	O
+permit	NOUN	B	License
+development	NOUN	B	Land_development
+,	PUNCT	O
+the	DET	O
+developers	NOUN	B	Land_development
+that	PRON	O
+cause	VERB	O
+the	DET	O
+land	NOUN	B	Land_development
+conversion	NOUN	I	Land_development
+and	CCONJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+,	PUNCT	O
+and	CCONJ	O
+the	DET	O
+consumers	NOUN	B	Consumer
+who	PRON	O
+purchase	VERB	O
+the	DET	O
+developed	VERB	O
+property	NOUN	B	Property
+.	PUNCT	O
+
+Partial	ADJ	O
+liability	NOUN	B	Legal_liability
+from	ADP	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+can	AUX	O
+be	AUX	O
+quantified	VERB	O
+and	CCONJ	O
+valued	VERB	O
+as	ADP	O
+SC	PROPN	O
+-	PUNCT	O
+CO2	NOUN	O
+at	ADP	O
+a	DET	O
+fixed	VERB	O
+rate	NOUN	O
+of	ADP	O
+$	SYM	B	United_States_dollar
+46	NUM	O
+per	ADP	O
+metric	ADJ	B	Tonne
+ton	NOUN	I	Tonne
+of	ADP	O
+CO2	NOUN	B	Greenhouse_gas
+,	PUNCT	O
+which	PRON	O
+can	AUX	O
+be	AUX	O
+potentially	ADV	O
+used	VERB	O
+to	PART	O
+help	VERB	O
+assign	VERB	O
+liability	NOUN	B	Legal_liability
+for	ADP	O
+climate	NOUN	B	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+.	PUNCT	O
+
+The	DET	O
+fixed	VERB	O
+cost	NOUN	B	Cost
+of	ADP	O
+SC	PROPN	O
+-	PUNCT	O
+CO2	NOUN	O
+,	PUNCT	O
+in	ADP	O
+many	ADJ	O
+cases	NOUN	O
+,	PUNCT	O
+will	AUX	O
+not	PART	O
+compensate	VERB	B	Financial_compensation
+for	ADP	O
+the	DET	O
+actual	ADJ	O
+market	NOUN	B	Market_economy
+-	PUNCT	I	Market_economy
+based	VERB	I	Market_economy
+costs	NOUN	B	Cost
+of	ADP	O
+L&D	NOUN	B	Loss_and_damage_(climate_change)
+for	ADP	O
+which	PRON	O
+liability	NOUN	B	Legal_liability
+will	AUX	O
+need	VERB	O
+to	PART	O
+be	AUX	O
+assigned	VERB	O
+.	PUNCT	O
+
+Additionally	ADV	O
+,	PUNCT	O
+there	PRON	O
+are	VERB	O
+non-economic	ADJ	O
+liabilities	NOUN	B	Legal_liability
+(	PUNCT	O
+e.g.	ADV	O
+,	PUNCT	O
+trauma	NOUN	B	Injury
+,	PUNCT	O
+loss	NOUN	O
+of	ADP	O
+culture	NOUN	O
+,	PUNCT	O
+etc	NOUN	B	Et_cetera
+)	PUNCT	O
+,	PUNCT	O
+as	ADV	O
+well	ADV	O
+as	ADP	O
+reduced	VERB	O
+future	ADJ	B	Future
+sequestration	NOUN	B	Carbon_sequestration
+potential	NOUN	I	Carbon_sequestration
+of	ADP	O
+developed	VERB	O
+lands	NOUN	B	Land
+.	PUNCT	O
+
+Assigning	VERB	O
+this	DET	O
+liability	NOUN	B	Legal_liability
+has	AUX	O
+added	VERB	O
+complexity	NOUN	B	Complexity
+because	SCONJ	O
+,	PUNCT	O
+while	SCONJ	O
+attributing	VERB	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+is	AUX	O
+possible	ADJ	B	Logical_possibility
+(	PUNCT	O
+and	CCONJ	O
+demonstrated	VERB	O
+in	ADP	O
+this	DET	O
+research	NOUN	B	Research
+)	PUNCT	O
+,	PUNCT	O
+linking	VERB	O
+specific	ADJ	B	Sensitivity_and_specificity
+climate	NOUN	B	Loss_and_damage_(climate_change)
+L&D	NOUN	I	Loss_and_damage_(climate_change)
+events	NOUN	O
+to	ADP	O
+individual	ADJ	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+is	AUX	O
+an	DET	O
+emerging	VERB	B	Emergence
+science	NOUN	B	Science
+;	PUNCT	O
+however	ADV	O
+,	PUNCT	O
+feedback	NOUN	B	Feedback
+mechanisms	NOUN	I	Feedback
+are	AUX	O
+necessary	ADJ	B	Need
+to	PART	O
+change	VERB	O
+behavior	NOUN	B	Behavior
+that	PRON	O
+results	VERB	O
+in	ADP	O
+GHG	NOUN	B	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+Assignment	NOUN	O
+of	ADP	O
+liability	NOUN	B	Legal_liability
+may	AUX	O
+be	AUX	O
+necessary	ADJ	B	Need
+to	PART	O
+create	VERB	O
+new	ADJ	O
+legal	ADJ	B	Legal_doctrine
+frameworks	NOUN	I	Legal_doctrine
+to	PART	O
+change	VERB	O
+behavior	NOUN	B	Behavior
+that	PRON	O
+leads	VERB	O
+to	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+as	ADV	O
+well	ADV	O
+as	ADP	O
+create	VERB	O
+funding	NOUN	B	Funding
+mechanisms	NOUN	I	Funding
+for	ADP	O
+L&D	NOUN	B	Loss_and_damage_(climate_change)
+compensation	NOUN	O
+.	PUNCT	O
+
+There	PRON	O
+are	VERB	O
+various	ADJ	O
+techniques	NOUN	B	Technology
+to	PART	O
+attribute	VERB	O
+and	CCONJ	O
+estimate	VERB	B	Approximation
+liability	NOUN	B	Legal_liability
+across	ADP	O
+different	ADJ	O
+geographic	ADJ	B	Geography
+extents	NOUN	O
+,	PUNCT	O
+time	NOUN	O
+periods	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+entities	NOUN	B	Legal_person
+,	PUNCT	O
+which	PRON	O
+we	PRON	O
+will	AUX	O
+discuss	VERB	O
+in	ADP	O
+this	DET	O
+paper	NOUN	B	Paper
+.	PUNCT	O
+

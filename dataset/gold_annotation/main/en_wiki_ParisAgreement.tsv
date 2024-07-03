@@ -1,0 +1,1430 @@
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+(	PUNCT	O
+French	PROPN	B	French_language
+:	PUNCT	I	French_language
+Accord	X	B	Paris_Agreement
+de	X	I	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+)	PUNCT	O
+,	PUNCT	O
+often	ADV	O
+referred	VERB	O
+to	ADP	O
+as	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Accords	PROPN	I	Paris_Agreement
+or	CCONJ	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Climate	PROPN	I	Paris_Agreement
+Accords	PROPN	I	Paris_Agreement
+,	PUNCT	O
+is	AUX	O
+an	DET	O
+international	ADJ	B	Treaty
+treaty	NOUN	I	Treaty
+on	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+.	PUNCT	O
+
+Adopted	VERB	O
+in	ADP	O
+2015	NUM	B	2015
+,	PUNCT	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+covers	VERB	O
+climate	NOUN	B	Climate_change_mitigation
+change	NOUN	I	Climate_change_mitigation
+mitigation	NOUN	I	Climate_change_mitigation
+,	PUNCT	O
+adaptation	NOUN	B	Climate_change_adaptation
+,	PUNCT	O
+and	CCONJ	O
+finance	NOUN	B	Climate_finance
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+negotiated	VERB	O
+by	ADP	O
+196	NUM	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+at	ADP	O
+the	DET	O
+2015	NUM	B	2015_United_Nations_Climate_Change_Conference
+United	VERB	I	2015_United_Nations_Climate_Change_Conference
+Nations	PROPN	I	2015_United_Nations_Climate_Change_Conference
+Climate	PROPN	I	2015_United_Nations_Climate_Change_Conference
+Change	PROPN	I	2015_United_Nations_Climate_Change_Conference
+Conference	PROPN	I	2015_United_Nations_Climate_Change_Conference
+near	ADP	O
+Paris	PROPN	B	Paris
+,	PUNCT	I	Paris
+France	PROPN	I	Paris
+.	PUNCT	O
+
+As	ADP	O
+of	ADP	O
+February	PROPN	B	February
+2023	NUM	B	2023
+,	PUNCT	O
+195	NUM	O
+members	NOUN	B	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+of	ADP	O
+the	DET	O
+United	VERB	B	United_Nations_Framework_Convention_on_Climate_Change
+Nations	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+Framework	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+Convention	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+on	ADP	I	United_Nations_Framework_Convention_on_Climate_Change
+Climate	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+Change	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+(	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+UNFCCC	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+)	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+are	AUX	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+to	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+Of	ADP	O
+the	DET	O
+four	NUM	O
+UNFCCC	PROPN	B	United_Nations_Framework_Convention_on_Climate_Change
+member	NOUN	B	Sovereign_state
+states	NOUN	I	Sovereign_state
+which	PRON	O
+have	AUX	O
+not	PART	O
+ratified	VERB	B	Ratification
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+,	PUNCT	O
+the	DET	O
+only	ADJ	O
+major	ADJ	O
+emitter	NOUN	O
+is	AUX	O
+Iran	PROPN	B	Iran
+.	PUNCT	O
+
+The	DET	B	United_States
+United	ADJ	I	United_States
+States	PROPN	I	United_States
+withdrew	VERB	O
+from	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+in	ADP	O
+2020	NUM	B	2020
+,	PUNCT	O
+but	CCONJ	O
+rejoined	VERB	O
+in	ADP	O
+2021	NUM	B	2021
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+opened	VERB	O
+for	ADP	O
+signature	NOUN	B	Signature
+on	ADP	O
+22	NUM	B	Earth_Day
+April	PROPN	I	Earth_Day
+2016	NUM	B	2016
+(	PUNCT	O
+Earth	PROPN	B	Earth_Day
+Day	PROPN	I	Earth_Day
+)	PUNCT	O
+at	ADP	O
+a	DET	O
+ceremony	NOUN	B	Ceremony
+in	ADP	O
+New	ADJ	B	New_York_City
+York	PROPN	I	New_York_City
+.	PUNCT	O
+
+After	SCONJ	O
+the	DET	B	European_Union
+European	ADJ	I	European_Union
+Union	PROPN	I	European_Union
+ratified	VERB	B	Ratification
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+,	PUNCT	O
+sufficient	ADJ	O
+countries	NOUN	B	Sovereign_state
+had	AUX	O
+ratified	VERB	B	Ratification
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+responsible	ADJ	B	Attribution_of_recent_climate_change
+for	ADP	O
+enough	ADJ	O
+of	ADP	O
+the	DET	B	Earth
+world	NOUN	I	Earth
+'s	PART	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+for	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+to	PART	O
+enter	VERB	B	Entry_into_force
+into	ADP	I	Entry_into_force
+force	NOUN	I	Entry_into_force
+on	ADP	O
+4	NUM	B	November_4
+November	PROPN	I	November_4
+2016	NUM	B	2016
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+'s	PART	O
+long	ADJ	O
+-	PUNCT	O
+term	NOUN	O
+temperature	NOUN	B	Temperature
+goal	NOUN	B	Goal
+is	AUX	O
+to	PART	O
+keep	VERB	O
+the	DET	B	Climate_change
+rise	NOUN	I	Climate_change
+in	ADP	O
+mean	ADJ	B	Mean
+global	ADJ	B	Global_temperature_record
+temperature	NOUN	I	Global_temperature_record
+to	ADP	O
+well	ADV	O
+below	ADP	O
+2	NUM	O
+°C	NOUN	B	Celsius
+(	PUNCT	O
+3.6	NUM	O
+°F	NOUN	B	Fahrenheit
+)	PUNCT	O
+above	ADP	O
+pre-industrial	ADJ	B	Industrial_Revolution
+levels	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+preferably	ADV	O
+limit	VERB	B	Climate_change_mitigation
+the	DET	O
+increase	NOUN	B	Climate_change
+to	ADP	O
+1.5	NUM	B	1.5
+°C	NOUN	B	Celsius
+(	PUNCT	O
+2.7	NUM	O
+°F	NOUN	B	Fahrenheit
+)	PUNCT	O
+,	PUNCT	O
+recognizing	VERB	O
+that	SCONJ	O
+this	PRON	O
+would	AUX	O
+substantially	ADV	O
+reduce	VERB	B	Climate_change_mitigation
+the	DET	O
+effects	NOUN	B	Effects_of_climate_change
+of	ADP	I	Effects_of_climate_change
+climate	NOUN	I	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+.	PUNCT	O
+
+Emissions	NOUN	B	Greenhouse_gas_emissions
+should	AUX	O
+be	AUX	O
+reduced	VERB	B	Climate_change_mitigation
+as	ADV	O
+soon	ADV	O
+as	SCONJ	O
+possible	ADJ	O
+and	CCONJ	O
+reach	VERB	O
+net	NOUN	B	Carbon_neutrality
+-	PUNCT	I	Carbon_neutrality
+zero	NUM	I	Carbon_neutrality
+by	ADP	O
+the	DET	O
+middle	NOUN	O
+of	ADP	O
+the	DET	O
+21st	ADJ	B	21st_century
+century	NOUN	I	21st_century
+.	PUNCT	O
+
+To	PART	O
+stay	VERB	O
+below	ADP	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+of	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+,	PUNCT	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+need	VERB	O
+to	PART	O
+be	AUX	O
+cut	VERB	O
+by	ADP	O
+roughly	ADV	O
+50	NUM	B	One_half
+%	SYM	I	One_half
+by	ADP	O
+2030	NUM	B	2030s
+.	PUNCT	O
+
+This	PRON	O
+is	AUX	O
+an	DET	O
+aggregate	NOUN	O
+of	ADP	O
+each	DET	O
+country	NOUN	B	Sovereign_state
+'s	PART	O
+nationally	ADV	B	Nationally_determined_contribution
+determined	VERB	I	Nationally_determined_contribution
+contributions	NOUN	I	Nationally_determined_contribution
+.	PUNCT	O
+
+It	PRON	O
+aims	VERB	O
+to	PART	O
+help	VERB	O
+countries	NOUN	B	Sovereign_state
+adapt	VERB	B	Climate_change_adaptation
+to	ADP	I	Climate_change_adaptation
+climate	NOUN	I	Climate_change_adaptation
+change	NOUN	I	Climate_change_adaptation
+effects	NOUN	B	Effects_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+mobilize	VERB	O
+enough	ADJ	O
+finance	NOUN	B	Finance
+.	PUNCT	O
+
+Under	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+,	PUNCT	O
+each	DET	O
+country	NOUN	B	Sovereign_state
+must	AUX	O
+determine	VERB	O
+,	PUNCT	O
+plan	VERB	O
+,	PUNCT	O
+and	CCONJ	O
+regularly	ADV	O
+report	VERB	O
+on	ADP	O
+its	PRON	O
+contributions	NOUN	B	Nationally_determined_contribution
+.	PUNCT	O
+
+No	DET	O
+mechanism	NOUN	B	Mechanism_(philosophy)
+forces	VERB	O
+a	DET	O
+country	NOUN	B	Sovereign_state
+to	PART	O
+set	VERB	O
+specific	ADJ	B	Sensitivity_and_specificity
+emissions	NOUN	B	Climate_target
+targets	NOUN	I	Climate_target
+,	PUNCT	O
+but	CCONJ	O
+each	DET	O
+target	NOUN	B	Climate_target
+should	AUX	O
+go	VERB	O
+beyond	ADP	O
+previous	ADJ	O
+targets	NOUN	B	Climate_target
+.	PUNCT	O
+
+In	ADP	O
+contrast	NOUN	O
+to	ADP	O
+the	DET	O
+1997	NUM	B	Kyoto_Protocol
+Kyoto	PROPN	I	Kyoto_Protocol
+Protocol	PROPN	I	Kyoto_Protocol
+,	PUNCT	O
+the	DET	O
+distinction	NOUN	B	Distinction_(philosophy)
+between	ADP	O
+developed	ADJ	B	Developed_country
+and	CCONJ	O
+developing	VERB	B	Developing_country
+countries	NOUN	I	Developing_country
+is	AUX	O
+blurred	ADJ	O
+,	PUNCT	O
+so	SCONJ	O
+that	SCONJ	O
+the	DET	O
+latter	ADJ	B	Developing_country
+also	ADV	O
+have	VERB	O
+to	PART	O
+submit	VERB	O
+plans	NOUN	B	Nationally_determined_contribution
+for	ADP	O
+emission	NOUN	B	Climate_change_mitigation
+reductions	NOUN	I	Climate_change_mitigation
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+lauded	VERB	O
+by	ADP	O
+world	NOUN	B	List_of_current_heads_of_state_and_government
+leaders	NOUN	I	List_of_current_heads_of_state_and_government
+,	PUNCT	O
+but	CCONJ	O
+criticized	VERB	B	Criticism
+as	ADP	O
+insufficiently	ADV	O
+binding	NOUN	B	Precedent
+by	ADP	O
+some	DET	O
+environmentalists	NOUN	B	Environmentalist
+and	CCONJ	O
+analysts	NOUN	B	Analyst
+.	PUNCT	O
+
+There	PRON	O
+is	VERB	O
+debate	NOUN	B	Debate
+about	ADP	O
+the	DET	O
+effectiveness	NOUN	B	Efficacy
+of	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+While	SCONJ	B	While
+current	ADJ	O
+pledges	NOUN	O
+under	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+are	AUX	O
+insufficient	ADJ	O
+for	SCONJ	O
+reaching	VERB	O
+the	DET	O
+set	NOUN	O
+temperature	NOUN	B	Temperature
+goals	NOUN	B	Goal
+,	PUNCT	O
+there	PRON	O
+is	VERB	O
+a	DET	O
+mechanism	NOUN	B	Mechanism_(philosophy)
+of	ADP	O
+increased	VERB	O
+ambition	NOUN	B	Motivation
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+has	AUX	O
+been	AUX	O
+successfully	ADV	O
+used	VERB	O
+in	ADP	O
+climate	NOUN	B	Climate_change_litigation
+litigation	NOUN	I	Climate_change_litigation
+forcing	VERB	B	Force
+countries	NOUN	B	Sovereign_state
+and	CCONJ	O
+an	DET	O
+oil	NOUN	B	Petroleum_industry
+company	NOUN	I	Petroleum_industry
+to	PART	O
+strengthen	VERB	O
+climate	NOUN	B	Climate_action
+action	NOUN	I	Climate_action
+.	PUNCT	O
+
+On	ADP	O
+4	NUM	B	July_4
+July	PROPN	I	July_4
+2022	NUM	B	2022
+,	PUNCT	O
+the	DET	O
+Supreme	ADJ	B	Supreme_Federal_Court
+Federal	ADJ	I	Supreme_Federal_Court
+Court	PROPN	I	Supreme_Federal_Court
+of	ADP	I	Supreme_Federal_Court
+Brazil	PROPN	I	Supreme_Federal_Court
+recognized	VERB	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+as	ADP	O
+a	DET	O
+human	ADJ	B	Human_rights
+rights	NOUN	I	Human_rights
+treaty	NOUN	I	Human_rights
+.	PUNCT	O
+
+Development	NOUN	O
+
+Lead	VERB	O
+-	PUNCT	O
+up	ADV	O
+
+The	DET	O
+UN	PROPN	B	United_Nations_Framework_Convention_on_Climate_Change
+Framework	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+Convention	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+on	ADP	I	United_Nations_Framework_Convention_on_Climate_Change
+Climate	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+Change	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+(	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+UNFCCC	PROPN	I	United_Nations_Framework_Convention_on_Climate_Change
+)	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+,	PUNCT	O
+adopted	VERB	B	Adoption
+at	ADP	O
+the	DET	O
+1992	NUM	B	Earth_Summit
+Earth	PROPN	I	Earth_Summit
+Summit	PROPN	I	Earth_Summit
+is	AUX	O
+one	NUM	O
+of	ADP	O
+the	DET	O
+first	ADJ	O
+international	ADJ	B	Treaty
+treaties	NOUN	I	Treaty
+on	ADP	O
+the	DET	O
+topic	NOUN	B	Climate_change
+.	PUNCT	O
+
+It	PRON	O
+stipulates	VERB	O
+that	SCONJ	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+should	AUX	O
+meet	VERB	O
+regularly	ADV	O
+to	PART	O
+address	VERB	B	Climate_change_mitigation
+climate	NOUN	I	Climate_change_mitigation
+change	NOUN	I	Climate_change_mitigation
+,	PUNCT	O
+at	ADP	O
+the	DET	O
+Conference	PROPN	B	Conference_of_the_parties
+of	ADP	I	Conference_of_the_parties
+Parties	PROPN	I	Conference_of_the_parties
+or	CCONJ	O
+COP	NOUN	B	United_Nations_Climate_Change_conference
+.	PUNCT	O
+
+It	PRON	O
+forms	VERB	O
+the	DET	O
+foundation	NOUN	O
+to	ADP	O
+future	ADJ	O
+climate	NOUN	B	Climate_change_mitigation
+agreements	NOUN	B	Treaty
+.	PUNCT	O
+
+The	DET	B	Kyoto_Protocol
+Kyoto	PROPN	I	Kyoto_Protocol
+Protocol	PROPN	I	Kyoto_Protocol
+,	PUNCT	O
+adopted	VERB	B	Adoption
+in	ADP	O
+1997	NUM	B	1997
+,	PUNCT	O
+regulated	VERB	O
+greenhouse	NOUN	B	Climate_change_mitigation
+gas	NOUN	I	Climate_change_mitigation
+reductions	NOUN	I	Climate_change_mitigation
+for	ADP	O
+a	DET	O
+limited	ADJ	O
+set	NOUN	O
+of	ADP	O
+countries	NOUN	B	Sovereign_state
+from	ADP	O
+2008	NUM	B	2008
+to	ADP	O
+2012	NUM	B	2012
+.	PUNCT	O
+
+The	DET	B	Kyoto_Protocol
+protocol	NOUN	I	Kyoto_Protocol
+was	AUX	O
+extended	VERB	O
+until	ADP	O
+2020	NUM	O
+with	ADP	O
+the	DET	O
+Doha	PROPN	B	Kyoto_Protocol
+Amendment	NOUN	I	Kyoto_Protocol
+in	ADP	O
+2012	NUM	B	2012
+.	PUNCT	O
+
+The	DET	B	United_States
+United	ADJ	I	United_States
+States	PROPN	I	United_States
+decided	VERB	O
+not	PART	O
+to	PART	O
+ratify	VERB	B	Ratification
+the	DET	O
+Protocol	PROPN	B	Kyoto_Protocol
+,	PUNCT	O
+mainly	ADV	O
+because	ADP	O
+of	ADP	O
+its	PRON	O
+legally	ADV	B	Legal_liability
+-	PUNCT	I	Legal_liability
+binding	VERB	I	Legal_liability
+nature	NOUN	O
+.	PUNCT	O
+
+This	PRON	O
+,	PUNCT	O
+and	CCONJ	O
+distributional	ADJ	B	Environmental_conflict
+conflict	NOUN	I	Environmental_conflict
+,	PUNCT	O
+led	VERB	O
+to	ADP	O
+failures	NOUN	O
+of	ADP	O
+subsequent	ADJ	O
+international	ADJ	O
+climate	NOUN	B	Politics_of_climate_change
+negotiations	NOUN	I	Politics_of_climate_change
+.	PUNCT	O
+
+The	DET	O
+2009	NUM	B	2009
+negotiations	NOUN	B	Politics_of_climate_change
+were	AUX	O
+intended	VERB	B	Intention
+to	PART	O
+produce	VERB	O
+a	DET	O
+successor	NOUN	O
+treaty	NOUN	B	Treaty
+of	ADP	O
+Kyoto	PROPN	B	Kyoto_Protocol
+,	PUNCT	O
+but	CCONJ	O
+the	DET	O
+negotiations	NOUN	B	Politics_of_climate_change
+collapsed	VERB	O
+and	CCONJ	O
+the	DET	O
+resulting	VERB	O
+Copenhagen	PROPN	B	Copenhagen_Accord
+Accord	NOUN	I	Copenhagen_Accord
+was	AUX	O
+not	PART	O
+legally	ADV	B	Legal_liability
+binding	ADJ	I	Legal_liability
+and	CCONJ	O
+did	AUX	O
+not	PART	O
+get	AUX	O
+adopted	VERB	B	Adoption
+universally	ADV	B	Universality_(philosophy)
+.	PUNCT	O
+
+The	DET	B	Copenhagen_Accord
+Accord	NOUN	I	Copenhagen_Accord
+did	AUX	O
+lay	VERB	O
+the	DET	O
+framework	NOUN	B	United_Nations_Framework_Convention_on_Climate_Change
+for	ADP	O
+bottom	NOUN	O
+-	PUNCT	O
+up	ADP	O
+approach	NOUN	O
+of	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+Under	ADP	O
+the	DET	O
+leadership	NOUN	B	Leadership
+of	ADP	O
+UNFCCC	PROPN	B	United_Nations_Framework_Convention_on_Climate_Change
+executive	ADJ	B	Christiana_Figueres
+secretary	NOUN	I	Christiana_Figueres
+Christiana	PROPN	I	Christiana_Figueres
+Figueres	PROPN	I	Christiana_Figueres
+,	PUNCT	O
+negotiation	NOUN	B	Negotiation
+regained	VERB	O
+momentum	NOUN	B	Momentum
+after	ADP	O
+Copenhagen	PROPN	B	Copenhagen_Accord
+'s	PART	O
+failure	NOUN	B	Failure
+.	PUNCT	O
+
+During	ADP	O
+the	DET	O
+2011	NUM	B	2011_United_Nations_Climate_Change_Conference
+United	VERB	I	2011_United_Nations_Climate_Change_Conference
+Nations	PROPN	I	2011_United_Nations_Climate_Change_Conference
+Climate	PROPN	I	2011_United_Nations_Climate_Change_Conference
+Change	PROPN	I	2011_United_Nations_Climate_Change_Conference
+Conference	PROPN	I	2011_United_Nations_Climate_Change_Conference
+,	PUNCT	O
+the	DET	O
+Durban	PROPN	B	Durban
+Platform	PROPN	O
+was	AUX	O
+established	VERB	O
+to	PART	O
+negotiate	VERB	B	Negotiation
+a	DET	O
+legal	ADJ	B	Legal_instrument
+instrument	NOUN	I	Legal_instrument
+governing	VERB	B	Government
+climate	NOUN	B	Climate_change_mitigation
+change	NOUN	I	Climate_change_mitigation
+mitigation	NOUN	I	Climate_change_mitigation
+measures	NOUN	B	Measurement
+from	ADP	O
+2020	NUM	B	2020
+.	PUNCT	O
+
+The	DET	O
+platform	NOUN	O
+had	VERB	O
+a	DET	O
+mandate	NOUN	O
+to	PART	O
+be	AUX	O
+informed	VERB	O
+by	ADP	O
+the	DET	O
+Fifth	ADJ	B	IPCC_Fifth_Assessment_Report
+Assessment	PROPN	I	IPCC_Fifth_Assessment_Report
+Report	NOUN	I	IPCC_Fifth_Assessment_Report
+of	ADP	O
+the	DET	O
+IPCC	PROPN	B	Intergovernmental_Panel_on_Climate_Change
+and	CCONJ	O
+the	DET	O
+work	NOUN	O
+of	ADP	O
+the	DET	O
+subsidiary	NOUN	B	Subsidiary
+bodies	NOUN	O
+of	ADP	O
+the	DET	O
+UNFCCC	PROPN	B	United_Nations_Framework_Convention_on_Climate_Change
+.	PUNCT	O
+
+The	DET	O
+resulting	VERB	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+to	PART	O
+be	AUX	O
+adopted	VERB	O
+in	ADP	O
+2015	NUM	B	2015
+.	PUNCT	O
+
+Negotiations	NOUN	B	Negotiation
+and	CCONJ	O
+adoption	NOUN	B	Adoption
+
+Negotiations	NOUN	B	Negotiation
+in	ADP	O
+Paris	PROPN	B	Paris
+took	VERB	O
+place	NOUN	O
+over	ADP	O
+a	DET	O
+two	NUM	O
+-	PUNCT	O
+week	NOUN	O
+span	NOUN	O
+,	PUNCT	O
+and	CCONJ	O
+continued	VERB	O
+throughout	ADP	O
+the	DET	O
+three	NUM	O
+final	ADJ	O
+nights	NOUN	B	Night
+.	PUNCT	O
+
+Various	ADJ	O
+drafts	NOUN	B	Draft_document
+and	CCONJ	O
+proposals	NOUN	B	Proposal
+had	AUX	O
+been	AUX	O
+debated	VERB	O
+and	CCONJ	O
+streamlined	VERB	O
+in	ADP	O
+the	DET	B	2014
+preceding	VERB	I	2014
+year	NOUN	I	2014
+.	PUNCT	O
+
+According	VERB	O
+to	ADP	O
+one	NUM	O
+commentator	NOUN	B	Pundit
+two	NUM	O
+ways	NOUN	B	Methodology
+in	ADP	O
+which	PRON	O
+the	DET	B	France
+French	PROPN	I	France
+increased	VERB	O
+the	DET	O
+likelihood	NOUN	B	Probability
+of	ADP	O
+success	NOUN	B	Success
+were	AUX	O
+:	PUNCT	O
+firstly	ADV	O
+to	PART	O
+ensure	VERB	O
+that	SCONJ	O
+INDCs	PROPN	B	Nationally_determined_contribution
+were	AUX	O
+completed	VERB	O
+before	ADP	O
+the	DET	O
+start	NOUN	O
+of	ADP	O
+the	DET	O
+negotiations	NOUN	B	Politics_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+secondly	ADV	O
+to	PART	O
+invite	VERB	O
+leaders	NOUN	B	Leadership
+just	ADV	B	Justice
+for	ADP	O
+the	DET	O
+beginning	NOUN	O
+of	ADP	O
+the	DET	B	2014_United_Nations_Climate_Change_Conference
+conference	NOUN	I	2014_United_Nations_Climate_Change_Conference
+.	PUNCT	O
+
+The	DET	O
+negotiations	NOUN	B	Politics_of_climate_change
+almost	ADV	O
+failed	VERB	O
+because	ADP	O
+of	ADP	O
+a	DET	O
+single	ADJ	O
+word	NOUN	B	Word
+when	ADV	O
+the	DET	B	United_States
+US	PROPN	I	United_States
+legal	ADJ	B	Common_law
+team	NOUN	B	Team
+realized	VERB	O
+at	ADP	O
+the	DET	O
+last	ADJ	O
+minute	NOUN	O
+that	SCONJ	O
+"	PUNCT	O
+shall	AUX	O
+"	PUNCT	O
+had	AUX	O
+been	AUX	O
+approved	VERB	O
+,	PUNCT	O
+rather	ADV	O
+than	ADP	O
+"	PUNCT	O
+should	AUX	O
+"	PUNCT	O
+,	PUNCT	O
+meaning	VERB	B	Semantics
+that	SCONJ	O
+developed	ADJ	B	Developed_country
+countries	NOUN	I	Developed_country
+would	AUX	O
+have	AUX	O
+been	AUX	O
+legally	ADV	B	De_jure
+obliged	VERB	O
+to	PART	O
+cut	VERB	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+:	PUNCT	O
+the	DET	B	France
+French	PROPN	I	France
+solved	VERB	B	Problem_solving
+the	DET	I	Problem_solving
+problem	NOUN	I	Problem_solving
+by	SCONJ	O
+changing	VERB	O
+it	PRON	O
+as	ADP	O
+a	DET	O
+"	PUNCT	O
+typographical	ADJ	B	Typographical_error
+error	NOUN	I	Typographical_error
+"	PUNCT	O
+.	PUNCT	O
+
+At	ADP	O
+the	DET	O
+conclusion	NOUN	O
+of	ADP	O
+COP21	PROPN	B	2015_United_Nations_Climate_Change_Conference
+(	PUNCT	I	2015_United_Nations_Climate_Change_Conference
+the	DET	I	2015_United_Nations_Climate_Change_Conference
+21st	ADJ	I	2015_United_Nations_Climate_Change_Conference
+meeting	NOUN	I	2015_United_Nations_Climate_Change_Conference
+of	ADP	I	2015_United_Nations_Climate_Change_Conference
+the	DET	I	2015_United_Nations_Climate_Change_Conference
+Conference	PROPN	I	2015_United_Nations_Climate_Change_Conference
+of	ADP	I	2015_United_Nations_Climate_Change_Conference
+the	DET	I	2015_United_Nations_Climate_Change_Conference
+Parties	PROPN	I	2015_United_Nations_Climate_Change_Conference
+)	PUNCT	I	2015_United_Nations_Climate_Change_Conference
+,	PUNCT	O
+on	ADP	O
+12	NUM	B	December_12
+December	PROPN	I	December_12
+2015	NUM	B	2015
+,	PUNCT	O
+the	DET	O
+final	ADJ	O
+wording	NOUN	O
+of	ADP	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+adopted	VERB	B	Adoption
+by	ADP	B	Consensus_decision-making
+consensus	NOUN	I	Consensus_decision-making
+by	ADP	O
+the	DET	B	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+195	NUM	I	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+UNFCCC	PROPN	I	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+participating	VERB	I	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+member	NOUN	I	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+states	NOUN	I	List_of_parties_to_the_United_Nations_Framework_Convention_on_Climate_Change
+and	CCONJ	O
+the	DET	B	European_Union
+European	ADJ	I	European_Union
+Union	PROPN	I	European_Union
+.	PUNCT	O
+
+Nicaragua	PROPN	B	Nicaragua
+indicated	VERB	O
+they	PRON	O
+had	AUX	O
+wanted	VERB	O
+to	PART	O
+object	VERB	O
+to	ADP	O
+the	DET	O
+adoption	NOUN	B	Adoption
+as	SCONJ	O
+they	PRON	O
+denounced	VERB	O
+the	DET	O
+weakness	NOUN	B	Weakness
+of	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+,	PUNCT	O
+but	CCONJ	O
+were	AUX	O
+not	PART	O
+given	VERB	O
+a	DET	O
+chance	NOUN	B	Probability
+.	PUNCT	O
+
+In	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+the	DET	O
+members	NOUN	B	List_of_parties_to_the_Paris_Agreement
+promised	VERB	B	Promise
+to	PART	O
+reduce	VERB	B	Climate_change_mitigation
+their	PRON	O
+carbon	NOUN	B	Greenhouse_gas_emissions
+output	NOUN	I	Greenhouse_gas_emissions
+"	PUNCT	O
+as	ADV	O
+soon	ADV	O
+as	SCONJ	O
+possible	ADJ	B	Logical_possibility
+"	PUNCT	O
+and	CCONJ	O
+to	PART	O
+do	VERB	O
+their	PRON	O
+best	ADJ	O
+to	PART	O
+keep	VERB	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+"	PUNCT	O
+to	ADP	O
+well	ADV	O
+below	ADP	O
+2	NUM	O
+degrees	NOUN	B	Celsius
+C	PROPN	I	Celsius
+"	PUNCT	O
+(	PUNCT	O
+3.6	NUM	O
+°F	NOUN	B	Fahrenheit
+)	PUNCT	O
+.	PUNCT	O
+
+Signing	VERB	B	Signature
+and	CCONJ	O
+entry	NOUN	B	Entry_into_force
+into	ADP	I	Entry_into_force
+force	NOUN	I	Entry_into_force
+
+The	DET	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+open	ADJ	O
+for	ADP	O
+signature	NOUN	B	Signature
+by	ADP	O
+states	NOUN	B	Sovereign_state
+and	CCONJ	O
+regional	ADJ	O
+economic	ADJ	B	Economic_integration
+integration	NOUN	I	Economic_integration
+organizations	NOUN	B	Organization
+that	PRON	O
+are	AUX	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+to	ADP	O
+the	DET	O
+UNFCCC	PROPN	B	United_Nations_Framework_Convention_on_Climate_Change
+(	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+the	DET	I	United_Nations_Framework_Convention_on_Climate_Change
+convention	NOUN	I	United_Nations_Framework_Convention_on_Climate_Change
+)	PUNCT	I	United_Nations_Framework_Convention_on_Climate_Change
+from	ADP	O
+22	NUM	B	April_22
+April	PROPN	I	April_22
+2016	NUM	B	2016
+to	ADP	O
+21	NUM	B	April_21
+April	PROPN	I	April_21
+2017	NUM	B	April_21
+at	ADP	O
+the	DET	O
+UN	PROPN	B	Headquarters_of_the_United_Nations
+Headquarters	PROPN	I	Headquarters_of_the_United_Nations
+in	ADP	I	Headquarters_of_the_United_Nations
+New	ADJ	I	Headquarters_of_the_United_Nations
+York	PROPN	I	Headquarters_of_the_United_Nations
+.	PUNCT	O
+
+Signing	VERB	B	Signature
+of	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+is	AUX	O
+the	DET	O
+first	ADJ	O
+step	NOUN	O
+towards	ADP	O
+ratification	NOUN	B	Ratification
+,	PUNCT	O
+but	CCONJ	O
+it	PRON	O
+is	AUX	O
+possible	ADJ	B	Logical_possibility
+to	PART	O
+accede	VERB	O
+to	ADP	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+without	SCONJ	O
+signing	VERB	B	Signature
+.	PUNCT	O
+
+It	PRON	O
+binds	VERB	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+to	PART	O
+not	PART	O
+act	VERB	B	Legislation
+in	ADP	O
+contravention	NOUN	B	Contravention
+of	ADP	O
+the	DET	O
+goal	NOUN	B	Goal
+of	ADP	O
+the	DET	B	Paris_Agreement
+treaty	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+On	ADP	O
+1	NUM	B	April_1
+April	PROPN	I	April_1
+2016	NUM	B	2016
+,	PUNCT	O
+the	DET	O
+United	ADJ	B	United_States
+States	PROPN	I	United_States
+and	CCONJ	O
+China	PROPN	B	China
+,	PUNCT	O
+which	PRON	O
+represent	VERB	O
+almost	ADV	O
+40	NUM	O
+%	SYM	O
+of	ADP	O
+global	ADJ	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+confirmed	VERB	O
+they	PRON	O
+would	AUX	O
+sign	VERB	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Climate	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+was	AUX	O
+signed	VERB	O
+by	ADP	O
+175	NUM	B	List_of_parties_to_the_Paris_Agreement
+parties	NOUN	I	List_of_parties_to_the_Paris_Agreement
+(	PUNCT	O
+174	NUM	O
+states	NOUN	B	Sovereign_state
+and	CCONJ	O
+the	DET	B	European_Union
+European	ADJ	I	European_Union
+Union	PROPN	I	European_Union
+)	PUNCT	O
+on	ADP	O
+the	DET	O
+first	ADJ	O
+day	NOUN	O
+it	PRON	O
+was	AUX	O
+opened	VERB	O
+for	ADP	O
+signature	NOUN	B	Signature
+.	PUNCT	O
+
+As	ADP	O
+of	ADP	O
+March	PROPN	B	March
+2021	NUM	B	2021
+,	PUNCT	O
+194	NUM	O
+states	NOUN	B	Sovereign_state
+and	CCONJ	O
+the	DET	B	European_Union
+European	ADJ	I	European_Union
+Union	PROPN	I	European_Union
+have	AUX	O
+signed	VERB	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+The	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+would	AUX	O
+enter	VERB	B	Entry_into_force
+into	ADP	I	Entry_into_force
+force	NOUN	I	Entry_into_force
+(	PUNCT	O
+and	CCONJ	O
+thus	ADV	O
+become	VERB	O
+fully	ADV	O
+effective	ADJ	B	Effectiveness
+)	PUNCT	O
+if	SCONJ	B	If_and_only_if
+55	NUM	O
+countries	NOUN	B	Sovereign_state
+that	PRON	O
+produce	VERB	O
+at	ADP	O
+least	ADJ	O
+55	NUM	O
+%	SYM	B	Percentage_point
+of	ADP	O
+the	DET	B	Earth
+world	NOUN	I	Earth
+'s	PART	O
+greenhouse	NOUN	B	Greenhouse_gas_emissions
+gas	NOUN	I	Greenhouse_gas_emissions
+emissions	NOUN	I	Greenhouse_gas_emissions
+(	PUNCT	O
+according	VERB	O
+to	ADP	O
+a	DET	O
+list	NOUN	O
+produced	VERB	O
+in	ADP	O
+2015	NUM	B	2015
+)	PUNCT	O
+ratify	VERB	B	Ratification
+or	CCONJ	O
+otherwise	ADV	O
+join	VERB	O
+the	DET	B	Paris_Agreement
+treaty	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+Alternative	ADJ	O
+ways	NOUN	B	Methodology
+to	PART	O
+join	VERB	O
+the	DET	B	Paris_Agreement
+treaty	NOUN	I	Paris_Agreement
+are	AUX	O
+acceptance	NOUN	B	Acceptance
+,	PUNCT	O
+approval	NOUN	B	Advice_and_consent
+or	CCONJ	O
+accession	NOUN	O
+.	PUNCT	O
+
+The	DET	O
+first	ADJ	O
+two	NUM	O
+are	AUX	O
+typically	ADV	O
+used	VERB	O
+when	ADV	O
+a	DET	O
+head	NOUN	B	Head_of_state
+of	ADP	I	Head_of_state
+state	NOUN	I	Head_of_state
+is	AUX	O
+not	PART	O
+necessary	ADJ	B	Need
+to	PART	O
+bind	VERB	O
+a	DET	O
+country	NOUN	B	Sovereign_state
+to	ADP	O
+a	DET	O
+treaty	NOUN	B	Treaty
+,	PUNCT	O
+whereas	SCONJ	O
+the	DET	O
+latter	NOUN	B	Treaty
+typically	ADV	O
+happens	VERB	O
+when	ADV	O
+a	DET	O
+country	NOUN	B	Sovereign_state
+joins	VERB	O
+a	DET	O
+treaty	NOUN	B	Treaty
+already	ADV	O
+in	ADP	B	Rule_of_law
+force	NOUN	I	Rule_of_law
+.	PUNCT	O
+
+After	ADP	O
+ratification	NOUN	B	Ratification
+by	ADP	O
+the	DET	B	European_Union
+European	ADJ	I	European_Union
+Union	PROPN	I	European_Union
+,	PUNCT	O
+the	DET	B	Paris_Agreement
+agreement	NOUN	I	Paris_Agreement
+obtained	VERB	O
+enough	ADJ	O
+parties	NOUN	B	List_of_parties_to_the_Paris_Agreement
+to	PART	O
+enter	VERB	B	Entry_into_force
+into	ADP	O
+effect	NOUN	O
+on	ADP	O
+4	NUM	B	November_4
+November	PROPN	I	November_4
+2016	NUM	B	2016
+.	PUNCT	O
+
+Both	CCONJ	O
+the	DET	B	European_Union
+EU	PROPN	I	European_Union
+and	CCONJ	O
+its	PRON	B	Member_state_of_the_European_Union
+member	NOUN	I	Member_state_of_the_European_Union
+states	NOUN	I	Member_state_of_the_European_Union
+are	AUX	O
+individually	ADV	O
+responsible	ADJ	O
+for	SCONJ	O
+ratifying	VERB	B	Ratification
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+A	DET	O
+strong	ADJ	O
+preference	NOUN	B	Preference
+was	AUX	O
+reported	VERB	O
+that	SCONJ	O
+the	DET	B	European_Union
+EU	PROPN	I	European_Union
+and	CCONJ	O
+its	PRON	O
+28	NUM	B	Member_state_of_the_European_Union
+member	NOUN	I	Member_state_of_the_European_Union
+states	NOUN	I	Member_state_of_the_European_Union
+ratify	VERB	B	Ratification
+at	ADP	O
+the	DET	O
+same	ADJ	O
+time	NOUN	O
+to	PART	O
+ensure	VERB	O
+that	SCONJ	O
+they	PRON	O
+do	AUX	O
+not	PART	O
+engage	VERB	O
+themselves	PRON	O
+to	ADP	O
+fulfilling	VERB	O
+obligations	NOUN	B	Obligation
+that	PRON	O
+strictly	ADV	B	Strict
+belong	VERB	B	Belongingness
+to	ADP	O
+the	DET	O
+other	ADJ	O
+,	PUNCT	O
+and	CCONJ	O
+there	PRON	O
+were	VERB	O
+fears	NOUN	B	Fear
+by	ADP	O
+observers	NOUN	O
+that	SCONJ	O
+disagreement	NOUN	B	Controversy
+over	ADP	O
+each	DET	O
+member	NOUN	B	Member_state_of_the_European_Union
+state	NOUN	I	Member_state_of_the_European_Union
+'s	PART	O
+share	NOUN	B	Nationally_determined_contribution
+of	ADP	O
+the	DET	O
+EU	PROPN	O
+-	PUNCT	O
+wide	ADJ	O
+reduction	NOUN	B	Climate_change_mitigation
+target	NOUN	B	Nationally_determined_contribution
+,	PUNCT	O
+as	ADV	O
+well	ADV	O
+as	ADP	O
+Britain	PROPN	B	United_Kingdom
+'s	PART	O
+vote	NOUN	B	Brexit
+to	PART	I	Brexit
+leave	VERB	I	Brexit
+the	DET	I	Brexit
+EU	PROPN	I	Brexit
+might	AUX	O
+delay	VERB	O
+the	DET	O
+Paris	PROPN	B	Paris_Agreement
+pact	NOUN	I	Paris_Agreement
+.	PUNCT	O
+
+However	ADV	O
+,	PUNCT	O
+the	DET	B	European_Union
+EU	PROPN	I	European_Union
+deposited	VERB	O
+its	PRON	O
+instruments	NOUN	O
+of	ADP	O
+ratification	NOUN	B	Ratification
+on	ADP	O
+5	NUM	B	October_5
+October	PROPN	I	October_5
+2016	NUM	B	2016
+,	PUNCT	O
+along	ADP	O
+with	ADP	O
+seven	NUM	O
+EU	PROPN	B	European_Union
+member	NOUN	I	European_Union
+states	NOUN	I	European_Union
+.	PUNCT	O
+

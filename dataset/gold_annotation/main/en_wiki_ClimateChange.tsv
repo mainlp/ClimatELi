@@ -1,0 +1,1408 @@
+Climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+
+In	ADP	O
+common	ADJ	B	Usage_(language)
+usage	NOUN	I	Usage_(language)
+,	PUNCT	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+describes	VERB	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+—	PUNCT	O
+the	DET	O
+ongoing	ADJ	O
+increase	NOUN	O
+in	ADP	O
+global	ADJ	B	Global_temperature_record
+average	ADJ	I	Global_temperature_record
+temperature	NOUN	I	Global_temperature_record
+—	PUNCT	O
+and	CCONJ	O
+its	PRON	B	Effects_of_climate_change
+effects	NOUN	I	Effects_of_climate_change
+on	ADP	O
+Earth	PROPN	B	Climate_system
+'s	PART	I	Climate_system
+climate	NOUN	I	Climate_system
+system	NOUN	I	Climate_system
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+in	ADP	O
+a	DET	O
+broader	ADJ	O
+sense	NOUN	O
+also	ADV	O
+includes	VERB	O
+previous	ADJ	B	Effects_of_climate_change
+long	ADJ	I	Effects_of_climate_change
+-	PUNCT	I	Effects_of_climate_change
+term	NOUN	I	Effects_of_climate_change
+changes	NOUN	I	Effects_of_climate_change
+to	ADP	I	Effects_of_climate_change
+Earth	PROPN	I	Effects_of_climate_change
+'s	PART	I	Effects_of_climate_change
+climate	NOUN	I	Effects_of_climate_change
+.	PUNCT	O
+
+The	DET	O
+current	ADJ	O
+rise	NOUN	O
+in	ADP	O
+global	ADJ	B	Global_temperature_record
+average	ADJ	I	Global_temperature_record
+temperature	NOUN	I	Global_temperature_record
+is	AUX	O
+more	ADV	O
+rapid	ADJ	O
+than	ADP	O
+previous	ADJ	B	Effects_of_climate_change
+changes	NOUN	I	Effects_of_climate_change
+,	PUNCT	O
+and	CCONJ	O
+is	AUX	O
+primarily	ADV	O
+caused	VERB	O
+by	ADP	O
+humans	NOUN	B	Human
+burning	VERB	O
+fossil	NOUN	B	Fossil_fuel
+fuels	NOUN	I	Fossil_fuel
+.	PUNCT	O
+
+Fossil	ADJ	B	Fossil_fuel
+fuel	NOUN	I	Fossil_fuel
+use	NOUN	O
+,	PUNCT	O
+deforestation	NOUN	B	Deforestation
+,	PUNCT	O
+and	CCONJ	O
+some	DET	O
+agricultural	ADJ	B	Agriculture
+and	CCONJ	O
+industrial	ADJ	B	Industry_(economics)
+practices	NOUN	O
+increase	VERB	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+,	PUNCT	O
+notably	ADV	O
+carbon	NOUN	B	Carbon_dioxide
+dioxide	NOUN	I	Carbon_dioxide
+and	CCONJ	O
+methane	NOUN	B	Methane
+.	PUNCT	O
+
+Greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+absorb	VERB	B	Absorption_(chemistry)
+some	DET	O
+of	ADP	O
+the	DET	O
+heat	NOUN	B	Heat
+that	PRON	O
+the	DET	B	Earth
+Earth	PROPN	I	Earth
+radiates	VERB	B	Radiation
+after	SCONJ	O
+it	PRON	O
+warms	VERB	O
+from	ADP	O
+sunlight	NOUN	B	Sunlight
+.	PUNCT	O
+
+Larger	ADJ	O
+amounts	NOUN	O
+of	ADP	O
+these	DET	O
+gases	NOUN	B	Greenhouse_gas
+trap	VERB	O
+more	ADJ	O
+heat	NOUN	B	Heat
+in	ADP	O
+Earth	PROPN	B	Earth
+'s	PART	I	Earth
+lower	ADJ	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+causing	VERB	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+.	PUNCT	O
+
+Due	ADP	O
+to	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+,	PUNCT	O
+deserts	NOUN	B	Desert
+are	AUX	O
+expanding	VERB	O
+,	PUNCT	O
+while	SCONJ	O
+heat	NOUN	B	Heat_wave
+waves	NOUN	I	Heat_wave
+and	CCONJ	O
+wildfires	NOUN	B	Wildfire
+are	AUX	O
+becoming	VERB	O
+more	ADV	O
+common	ADJ	O
+.	PUNCT	O
+
+Increased	VERB	O
+warming	NOUN	B	Climate_change
+in	ADP	O
+the	DET	B	Arctic
+Arctic	PROPN	I	Arctic
+has	AUX	O
+contributed	VERB	O
+to	ADP	O
+melting	VERB	B	Melting
+permafrost	NOUN	B	Permafrost
+,	PUNCT	O
+glacial	ADJ	B	Retreat_of_glaciers_since_1850
+retreat	NOUN	I	Retreat_of_glaciers_since_1850
+and	CCONJ	O
+sea	NOUN	B	Arctic_sea_ice_decline
+ice	NOUN	I	Arctic_sea_ice_decline
+loss	NOUN	I	Arctic_sea_ice_decline
+.	PUNCT	O
+
+Higher	ADJ	O
+temperatures	NOUN	B	Temperature
+are	AUX	O
+also	ADV	O
+causing	VERB	O
+more	ADV	O
+intense	ADJ	B	Fujita_scale
+storms	NOUN	B	Storm
+,	PUNCT	O
+droughts	NOUN	B	Drought
+,	PUNCT	O
+and	CCONJ	O
+other	ADJ	O
+weather	NOUN	B	Extreme_weather
+extremes	NOUN	I	Extreme_weather
+.	PUNCT	O
+
+Rapid	ADJ	O
+environmental	ADJ	B	Climate_change
+change	NOUN	I	Climate_change
+in	ADP	O
+mountains	NOUN	B	Mountain
+,	PUNCT	O
+coral	ADJ	B	Coral_reef
+reefs	NOUN	I	Coral_reef
+,	PUNCT	O
+and	CCONJ	O
+the	DET	B	Arctic
+Arctic	PROPN	I	Arctic
+is	AUX	O
+forcing	VERB	O
+many	ADJ	O
+species	NOUN	B	Species
+to	PART	O
+relocate	VERB	O
+or	CCONJ	O
+become	VERB	O
+extinct	ADJ	B	Extinction
+.	PUNCT	O
+
+Even	ADV	O
+if	SCONJ	O
+efforts	NOUN	O
+to	PART	O
+minimise	VERB	O
+future	ADJ	B	Future
+warming	NOUN	B	Climate_change
+are	AUX	O
+successful	ADJ	B	Success
+,	PUNCT	O
+some	DET	O
+effects	NOUN	B	Effects_of_climate_change
+will	AUX	O
+continue	VERB	O
+for	ADP	O
+centuries	NOUN	B	Century
+.	PUNCT	O
+
+These	PRON	O
+include	VERB	O
+ocean	NOUN	B	Ocean_heat_content
+heating	NOUN	I	Ocean_heat_content
+,	PUNCT	O
+ocean	NOUN	B	Ocean_acidification
+acidification	NOUN	I	Ocean_acidification
+and	CCONJ	O
+sea	NOUN	B	Sea_level_rise
+level	NOUN	I	Sea_level_rise
+rise	NOUN	I	Sea_level_rise
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+threatens	VERB	B	Effects_of_climate_change_on_human_health
+people	NOUN	I	Effects_of_climate_change_on_human_health
+with	ADP	O
+increased	VERB	O
+flooding	NOUN	B	Flood
+,	PUNCT	O
+extreme	ADJ	B	Heat_wave
+heat	NOUN	I	Heat_wave
+,	PUNCT	O
+increased	VERB	O
+food	NOUN	B	Food_security
+and	CCONJ	O
+water	NOUN	B	Water_scarcity
+scarcity	NOUN	I	Water_scarcity
+,	PUNCT	O
+more	ADJ	O
+disease	NOUN	B	Disease
+,	PUNCT	O
+and	CCONJ	O
+economic	ADJ	B	Economic_impacts_of_climate_change
+loss	NOUN	I	Economic_impacts_of_climate_change
+.	PUNCT	O
+
+Human	ADJ	B	Human_migration
+migration	NOUN	I	Human_migration
+and	CCONJ	O
+conflict	NOUN	O
+can	AUX	O
+also	ADV	O
+be	AUX	O
+a	DET	O
+result	NOUN	O
+.	PUNCT	O
+
+The	DET	B	World_Health_Organization
+World	PROPN	I	World_Health_Organization
+Health	PROPN	I	World_Health_Organization
+Organization	PROPN	I	World_Health_Organization
+(	PUNCT	I	World_Health_Organization
+WHO	PROPN	I	World_Health_Organization
+)	PUNCT	I	World_Health_Organization
+calls	VERB	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+the	DET	O
+greatest	ADJ	O
+threat	NOUN	B	Threat
+to	ADP	O
+global	ADJ	B	Global_health
+health	NOUN	I	Global_health
+in	ADP	O
+the	DET	O
+21st	ADJ	B	21st_century
+century	NOUN	I	21st_century
+.	PUNCT	O
+
+Societies	NOUN	B	Society
+and	CCONJ	O
+ecosystems	NOUN	B	Ecosystem
+will	AUX	O
+experience	VERB	O
+more	ADJ	O
+severe	ADJ	O
+risks	NOUN	B	Risk
+without	ADP	O
+action	NOUN	O
+to	PART	O
+limit	VERB	B	Climate_change_mitigation
+warming	NOUN	I	Climate_change_mitigation
+.	PUNCT	O
+
+Adapting	VERB	B	Climate_change_adaptation
+to	ADP	I	Climate_change_adaptation
+climate	NOUN	I	Climate_change_adaptation
+change	NOUN	I	Climate_change_adaptation
+through	ADP	O
+efforts	NOUN	O
+like	ADP	O
+flood	NOUN	B	Flood_control
+control	NOUN	I	Flood_control
+measures	NOUN	B	Measurement
+or	CCONJ	O
+drought	NOUN	B	Xerophyte
+-	PUNCT	I	Xerophyte
+resistant	ADJ	I	Xerophyte
+crops	NOUN	I	Xerophyte
+partially	ADV	O
+reduces	VERB	O
+climate	NOUN	B	Climate_risk
+change	NOUN	I	Climate_risk
+risks	NOUN	I	Climate_risk
+,	PUNCT	O
+although	SCONJ	O
+some	DET	O
+limits	NOUN	O
+to	ADP	O
+adaptation	NOUN	B	Climate_change_adaptation
+have	AUX	O
+already	ADV	O
+been	AUX	O
+reached	VERB	O
+.	PUNCT	O
+
+Poorer	ADJ	O
+countries	NOUN	B	Country
+are	AUX	O
+responsible	ADJ	O
+for	ADP	O
+a	DET	O
+small	ADJ	O
+share	NOUN	O
+of	ADP	O
+global	ADJ	O
+emissions	NOUN	B	Greenhouse_gas_emissions
+,	PUNCT	O
+yet	CCONJ	O
+have	VERB	O
+the	DET	O
+least	ADJ	O
+ability	NOUN	O
+to	PART	O
+adapt	VERB	B	Climate_change_adaptation
+and	CCONJ	O
+are	AUX	O
+most	ADV	O
+vulnerable	ADJ	B	Climate_change_vulnerability
+to	ADP	I	Climate_change_vulnerability
+climate	NOUN	I	Climate_change_vulnerability
+change	NOUN	I	Climate_change_vulnerability
+.	PUNCT	O
+
+Many	ADJ	B	Plural
+climate	NOUN	B	Effects_of_climate_change
+change	NOUN	I	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+are	AUX	O
+already	ADV	O
+felt	VERB	O
+at	ADP	O
+the	DET	O
+current	ADJ	O
+1.2	NUM	O
+°C	NOUN	B	Celsius
+(	PUNCT	O
+2.2	NUM	O
+°F	NOUN	B	Fahrenheit
+)	PUNCT	O
+level	NOUN	O
+of	ADP	O
+warming	NOUN	B	Climate_change
+.	PUNCT	O
+
+Additional	ADJ	O
+warming	NOUN	B	Climate_change
+will	AUX	O
+increase	VERB	O
+these	DET	B	Effects_of_climate_change
+impacts	NOUN	I	Effects_of_climate_change
+and	CCONJ	O
+can	AUX	O
+trigger	VERB	O
+tipping	NOUN	B	Tipping_points_in_the_climate_system
+points	NOUN	I	Tipping_points_in_the_climate_system
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+the	DET	O
+melting	NOUN	B	Melting
+of	ADP	O
+the	DET	O
+Greenland	PROPN	B	Greenland_ice_sheet
+ice	NOUN	I	Greenland_ice_sheet
+sheet	NOUN	I	Greenland_ice_sheet
+.	PUNCT	O
+
+Under	ADP	O
+the	DET	O
+2015	NUM	B	Paris_Agreement
+Paris	PROPN	I	Paris_Agreement
+Agreement	NOUN	I	Paris_Agreement
+,	PUNCT	O
+nations	NOUN	B	Country
+collectively	ADV	O
+agreed	VERB	O
+to	PART	O
+keep	VERB	O
+warming	NOUN	B	Climate_change
+"	PUNCT	O
+well	ADV	O
+under	ADP	O
+2	NUM	O
+°C	NOUN	B	Celsius
+"	PUNCT	O
+.	PUNCT	O
+
+However	ADV	O
+,	PUNCT	O
+with	ADP	O
+pledges	NOUN	O
+made	VERB	O
+under	ADP	O
+the	DET	O
+Agreement	NOUN	B	Paris_Agreement
+,	PUNCT	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+would	AUX	O
+still	ADV	O
+reach	VERB	O
+about	ADV	O
+2.7	NUM	O
+°C	NOUN	B	Celsius
+(	PUNCT	O
+4.9	NUM	O
+°F	NOUN	B	Fahrenheit
+)	PUNCT	O
+by	ADP	O
+the	DET	O
+end	NOUN	O
+of	ADP	O
+the	DET	B	21st_century
+century	NOUN	I	21st_century
+.	PUNCT	O
+
+Limiting	VERB	O
+warming	NOUN	B	Climate_change
+to	ADP	O
+1.5	NUM	O
+°C	NOUN	B	Celsius
+will	AUX	O
+require	VERB	O
+halving	VERB	O
+emissions	NOUN	B	Greenhouse_gas
+by	ADP	O
+2030	NUM	O
+and	CCONJ	O
+achieving	VERB	O
+net	NOUN	B	Net_zero_emissions
+-	PUNCT	I	Net_zero_emissions
+zero	NUM	I	Net_zero_emissions
+emissions	NOUN	I	Net_zero_emissions
+by	ADP	O
+2050	NUM	O
+.	PUNCT	O
+
+Reducing	VERB	O
+emissions	NOUN	B	Greenhouse_gas
+requires	VERB	O
+generating	VERB	B	Electricity_generation
+electricity	NOUN	I	Electricity_generation
+from	ADP	O
+low	ADJ	B	Low-carbon_electricity
+-	PUNCT	I	Low-carbon_electricity
+carbon	NOUN	I	Low-carbon_electricity
+sources	NOUN	I	Low-carbon_electricity
+rather	ADV	O
+than	ADP	O
+burning	VERB	O
+fossil	NOUN	B	Fossil_fuel
+fuels	NOUN	I	Fossil_fuel
+.	PUNCT	O
+
+This	DET	O
+change	NOUN	O
+includes	VERB	O
+phasing	VERB	B	Fossil_fuel_phase-out
+out	ADP	I	Fossil_fuel_phase-out
+coal	NOUN	I	Fossil_fuel_phase-out
+and	CCONJ	I	Fossil_fuel_phase-out
+natural	ADJ	I	Fossil_fuel_phase-out
+gas	NOUN	I	Fossil_fuel_phase-out
+fired	VERB	I	Fossil_fuel_phase-out
+power	NOUN	I	Fossil_fuel_phase-out
+plants	NOUN	I	Fossil_fuel_phase-out
+,	PUNCT	O
+vastly	ADV	O
+increasing	VERB	O
+use	NOUN	O
+of	ADP	O
+wind	NOUN	B	Wind_power
+,	PUNCT	O
+solar	ADJ	B	Solar_energy
+,	PUNCT	O
+nuclear	ADJ	B	Nuclear_power
+and	CCONJ	O
+other	ADJ	O
+types	NOUN	O
+of	ADP	O
+renewable	ADJ	B	Renewable_energy
+energy	NOUN	I	Renewable_energy
+,	PUNCT	O
+and	CCONJ	O
+reducing	VERB	B	Efficient_energy_use
+energy	NOUN	I	Efficient_energy_use
+use	NOUN	I	Efficient_energy_use
+.	PUNCT	O
+
+Electricity	NOUN	B	Electricity_generation
+generated	VERB	I	Electricity_generation
+from	ADP	O
+non-carbon	NOUN	B	Net_zero_emissions
+-	PUNCT	I	Net_zero_emissions
+emitting	VERB	I	Net_zero_emissions
+sources	NOUN	I	Net_zero_emissions
+will	AUX	O
+need	VERB	B	Need
+to	PART	O
+replace	VERB	O
+fossil	NOUN	B	Fossil_fuel
+fuels	NOUN	I	Fossil_fuel
+for	SCONJ	O
+powering	VERB	O
+transportation	NOUN	B	Transport
+,	PUNCT	O
+heating	NOUN	B	Heat
+buildings	NOUN	B	Building
+,	PUNCT	O
+and	CCONJ	O
+operating	VERB	O
+industrial	ADJ	O
+facilities	NOUN	O
+.	PUNCT	O
+
+Carbon	NOUN	B	Carbon
+can	AUX	O
+also	ADV	O
+be	AUX	O
+removed	VERB	B	Carbon_dioxide_removal
+from	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+for	ADP	O
+instance	NOUN	O
+by	SCONJ	O
+increasing	VERB	O
+forest	NOUN	B	Forest_cover
+cover	NOUN	I	Forest_cover
+and	CCONJ	O
+farming	NOUN	B	Agriculture
+with	ADP	O
+methods	NOUN	B	Scientific_method
+that	PRON	O
+capture	VERB	B	Carbon_capture_and_storage
+carbon	NOUN	I	Carbon_capture_and_storage
+in	ADP	O
+soil	NOUN	B	Soil
+.	PUNCT	O
+
+Terminology	NOUN	B	Terminology
+
+Before	ADP	O
+the	DET	O
+1980s	NOUN	B	1980s
+,	PUNCT	O
+when	ADV	O
+it	PRON	O
+was	AUX	O
+unclear	ADJ	O
+whether	SCONJ	O
+the	DET	O
+warming	NOUN	B	Climate_change
+effect	NOUN	O
+of	ADP	O
+increased	VERB	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+were	AUX	O
+stronger	ADJ	O
+than	ADP	O
+the	DET	O
+cooling	NOUN	B	Heat_transfer
+effect	NOUN	O
+of	ADP	O
+airborne	ADJ	B	Particulates
+particulates	NOUN	I	Particulates
+in	ADP	O
+air	NOUN	B	Air_pollution
+pollution	NOUN	I	Air_pollution
+,	PUNCT	O
+scientists	NOUN	B	Scientist
+used	VERB	O
+the	DET	B	Terminology
+term	NOUN	I	Terminology
+inadvertent	ADJ	O
+climate	NOUN	B	Climate
+modification	NOUN	O
+to	PART	O
+refer	VERB	B	Reference
+to	ADP	O
+human	ADJ	B	Human_impact_on_the_environment
+impacts	NOUN	I	Human_impact_on_the_environment
+on	ADP	I	Human_impact_on_the_environment
+the	DET	I	Human_impact_on_the_environment
+climate	NOUN	I	Human_impact_on_the_environment
+.	PUNCT	O
+
+In	ADP	O
+the	DET	O
+1980s	NOUN	B	1980s
+,	PUNCT	O
+the	DET	O
+terms	NOUN	B	Terminology
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+and	CCONJ	I	Climate_change
+climate	NOUN	I	Climate_change
+change	NOUN	I	Climate_change
+became	VERB	O
+more	ADV	O
+common	ADJ	O
+.	PUNCT	O
+
+Though	SCONJ	O
+the	DET	O
+two	NUM	O
+terms	NOUN	B	Terminology
+are	AUX	O
+sometimes	ADV	O
+used	VERB	O
+interchangeably	ADV	O
+,	PUNCT	O
+scientifically	ADV	O
+,	PUNCT	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+refers	VERB	B	Reference
+only	ADV	O
+to	ADP	O
+increased	VERB	O
+surface	NOUN	O
+warming	NOUN	B	Climate_change
+,	PUNCT	O
+while	SCONJ	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+describes	VERB	O
+the	DET	O
+totality	NOUN	B	Effects_of_climate_change
+of	ADP	I	Effects_of_climate_change
+changes	NOUN	I	Effects_of_climate_change
+to	ADP	I	Effects_of_climate_change
+Earth	PROPN	I	Effects_of_climate_change
+'s	PART	I	Effects_of_climate_change
+climate	NOUN	I	Effects_of_climate_change
+system	NOUN	I	Effects_of_climate_change
+.	PUNCT	O
+
+Global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+—	PUNCT	O
+used	VERB	O
+as	ADV	O
+early	ADV	O
+as	ADP	O
+1975	NUM	B	1975
+—	PUNCT	O
+became	VERB	O
+the	DET	O
+more	ADV	O
+popular	ADJ	O
+term	NOUN	O
+after	SCONJ	O
+NASA	PROPN	B	NASA
+climate	NOUN	B	Climatology
+scientist	NOUN	I	Climatology
+James	PROPN	B	James_Hansen
+Hansen	PROPN	I	James_Hansen
+used	VERB	O
+it	PRON	O
+in	ADP	O
+his	PRON	O
+1988	NUM	B	1988
+testimony	NOUN	B	Testimony
+in	ADP	O
+the	DET	O
+U.S.	PROPN	B	United_States_Senate
+Senate	PROPN	I	United_States_Senate
+.	PUNCT	O
+
+Since	ADP	B	21st_century
+the	DET	I	21st_century
+2000s	NOUN	I	21st_century
+,	PUNCT	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+has	AUX	O
+increased	VERB	O
+in	ADP	O
+usage	NOUN	O
+.	PUNCT	O
+
+Climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+can	AUX	O
+also	ADV	O
+refer	VERB	B	Reference
+more	ADV	O
+broadly	ADV	O
+to	ADP	O
+both	CCONJ	O
+human	ADJ	B	Effects_of_climate_change
+-	PUNCT	I	Effects_of_climate_change
+caused	VERB	I	Effects_of_climate_change
+changes	NOUN	I	Effects_of_climate_change
+or	CCONJ	O
+natural	ADJ	B	Effects_of_climate_change
+changes	NOUN	I	Effects_of_climate_change
+throughout	ADP	O
+Earth	PROPN	B	History_of_Earth
+'s	PART	I	History_of_Earth
+history	NOUN	I	History_of_Earth
+.	PUNCT	O
+
+Various	ADJ	O
+scientists	NOUN	B	Scientist
+,	PUNCT	O
+politicians	NOUN	B	Politician
+and	CCONJ	O
+media	NOUN	B	Mass_media
+now	ADV	B	Present
+use	VERB	O
+the	DET	O
+terms	NOUN	B	Terminology
+climate	NOUN	B	Climate_crisis
+crisis	NOUN	I	Climate_crisis
+or	CCONJ	O
+climate	NOUN	B	Climate_crisis
+emergency	NOUN	I	Climate_crisis
+to	PART	O
+talk	VERB	O
+about	ADP	O
+climate	NOUN	B	Climate_change
+change	NOUN	I	Climate_change
+,	PUNCT	O
+and	CCONJ	O
+global	ADJ	B	Climate_change
+heating	NOUN	I	Climate_change
+instead	ADV	O
+of	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+.	PUNCT	O
+
+Observed	VERB	O
+temperature	NOUN	B	Climate_change
+rise	NOUN	I	Climate_change
+
+Multiple	ADJ	O
+independent	ADJ	O
+instrumental	ADJ	B	Instrumental_temperature_record
+datasets	NOUN	I	Instrumental_temperature_record
+show	VERB	O
+that	SCONJ	O
+the	DET	O
+climate	NOUN	B	Climate_system
+system	NOUN	I	Climate_system
+is	AUX	O
+warming	NOUN	B	Climate_change
+.	PUNCT	O
+
+The	DET	O
+2011	NUM	B	2010s
+–	PUNCT	I	2010s
+2020	NUM	I	2010s
+decade	NOUN	I	2010s
+warmed	VERB	O
+to	ADP	O
+an	DET	O
+average	ADJ	O
+1.09	NUM	O
+°C	NOUN	B	Celsius
+(	PUNCT	O
+0.95	NUM	O
+–	PUNCT	O
+1.20	NUM	O
+°C	NOUN	B	Celsius
+)	PUNCT	O
+compared	VERB	O
+to	ADP	O
+the	DET	O
+pre-industrial	ADJ	O
+baseline	NOUN	O
+(	PUNCT	O
+1850	NUM	O
+–	PUNCT	O
+1900	NUM	O
+)	PUNCT	O
+.	PUNCT	O
+
+Surface	NOUN	B	Global_surface_temperature
+temperatures	NOUN	I	Global_surface_temperature
+are	AUX	O
+rising	VERB	O
+by	ADP	O
+about	ADV	O
+0.2	NUM	O
+°C	NOUN	B	Celsius
+per	ADP	O
+decade	NOUN	B	Decade
+,	PUNCT	O
+with	SCONJ	O
+2020	NUM	B	2020
+reaching	VERB	O
+a	DET	O
+temperature	NOUN	B	Temperature
+of	ADP	O
+1.2	NUM	O
+°C	NOUN	B	Celsius
+above	ADP	O
+the	DET	O
+pre-industrial	ADJ	O
+era	NOUN	O
+.	PUNCT	O
+
+Since	ADP	O
+1950	NUM	O
+,	PUNCT	O
+the	DET	O
+number	NOUN	B	Number
+of	ADP	O
+cold	ADJ	B	Cold
+days	NOUN	B	Day
+and	CCONJ	O
+nights	NOUN	B	Night
+has	AUX	O
+decreased	VERB	O
+,	PUNCT	O
+and	CCONJ	O
+the	DET	O
+number	NOUN	B	Number
+of	ADP	O
+warm	ADJ	B	Temperature
+days	NOUN	B	Day
+and	CCONJ	O
+nights	NOUN	B	Night
+has	AUX	O
+increased	VERB	O
+.	PUNCT	O
+
+There	PRON	O
+was	VERB	O
+little	ADJ	O
+net	NOUN	O
+warming	NOUN	B	Climate_change
+between	ADP	O
+the	DET	O
+18th	ADJ	B	18th_century
+century	NOUN	I	18th_century
+and	CCONJ	O
+the	DET	O
+mid	NOUN	O
+-	PUNCT	O
+19th	ADJ	B	19th_century
+century	NOUN	I	19th_century
+.	PUNCT	O
+
+Climate	NOUN	B	Climate
+information	NOUN	B	Information
+for	ADP	O
+that	DET	O
+period	NOUN	O
+comes	VERB	O
+from	ADP	O
+climate	NOUN	B	Proxy_(climate)
+proxies	NOUN	I	Proxy_(climate)
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+trees	NOUN	B	Tree
+and	CCONJ	O
+ice	NOUN	B	Ice_core
+cores	NOUN	I	Ice_core
+.	PUNCT	O
+
+Thermometer	NOUN	B	Global_temperature_record
+records	NOUN	I	Global_temperature_record
+began	VERB	O
+to	PART	O
+provide	VERB	O
+global	ADJ	O
+coverage	NOUN	O
+around	ADP	O
+1850	NUM	B	1850
+.	PUNCT	O
+
+Historical	ADJ	B	History
+patterns	NOUN	B	Pattern
+of	ADP	O
+warming	NOUN	B	Climate_change
+and	CCONJ	O
+cooling	NOUN	B	Heat_transfer
+,	PUNCT	O
+like	ADP	O
+the	DET	O
+Medieval	ADJ	B	Medieval_Warm_Period
+Warm	ADJ	I	Medieval_Warm_Period
+Period	PROPN	I	Medieval_Warm_Period
+and	CCONJ	O
+the	DET	O
+Little	ADJ	B	Little_Ice_Age
+Ice	PROPN	I	Little_Ice_Age
+Age	PROPN	I	Little_Ice_Age
+,	PUNCT	O
+did	AUX	O
+not	PART	O
+occur	VERB	O
+at	ADP	O
+the	DET	O
+same	ADJ	O
+time	NOUN	O
+across	ADP	O
+different	ADJ	B	Difference_(philosophy)
+regions	NOUN	O
+.	PUNCT	O
+
+Temperatures	NOUN	B	Temperature
+may	AUX	O
+have	AUX	O
+reached	VERB	O
+as	ADV	O
+high	ADJ	O
+as	ADP	O
+those	PRON	O
+of	ADP	O
+the	DET	O
+late	ADJ	O
+-	PUNCT	O
+20th	ADJ	B	20th_century
+century	NOUN	I	20th_century
+in	ADP	O
+a	DET	O
+limited	ADJ	O
+set	NOUN	B	Set_theory
+of	ADP	O
+regions	NOUN	O
+.	PUNCT	O
+
+There	PRON	O
+have	AUX	O
+been	VERB	O
+prehistorical	ADJ	B	Prehistory
+episodes	NOUN	B	Episode
+of	ADP	O
+global	ADJ	B	Climate_change
+warming	NOUN	I	Climate_change
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+the	DET	O
+Paleocene	PROPN	B	Paleocene%e2%80%93Eocene_Thermal_Maximum
+–	PUNCT	I	Paleocene%e2%80%93Eocene_Thermal_Maximum
+Eocene	PROPN	I	Paleocene%e2%80%93Eocene_Thermal_Maximum
+Thermal	PROPN	I	Paleocene%e2%80%93Eocene_Thermal_Maximum
+Maximum	NOUN	I	Paleocene%e2%80%93Eocene_Thermal_Maximum
+.	PUNCT	O
+
+However	ADV	O
+,	PUNCT	O
+the	DET	O
+modern	ADJ	O
+observed	VERB	O
+rise	NOUN	B	Climate_change
+in	ADP	I	Climate_change
+temperature	NOUN	I	Climate_change
+and	CCONJ	O
+CO2	NOUN	B	Carbon_dioxide
+concentrations	NOUN	B	Concentration
+has	AUX	O
+been	AUX	O
+so	ADV	O
+rapid	ADJ	O
+that	SCONJ	O
+even	ADV	O
+abrupt	ADJ	B	Abrupt_climate_change
+geophysical	ADJ	I	Abrupt_climate_change
+events	NOUN	I	Abrupt_climate_change
+in	ADP	O
+Earth	PROPN	B	History_of_Earth
+'s	PART	I	History_of_Earth
+history	NOUN	I	History_of_Earth
+do	AUX	O
+not	PART	O
+approach	VERB	O
+current	ADJ	O
+rates	NOUN	O
+.	PUNCT	O
+
+Evidence	NOUN	B	Evidence
+of	ADP	O
+warming	NOUN	B	Climate_change
+from	ADP	O
+air	NOUN	O
+temperature	NOUN	B	Temperature_measurement
+measurements	NOUN	I	Temperature_measurement
+are	AUX	O
+reinforced	VERB	O
+with	ADP	O
+a	DET	O
+wide	ADJ	O
+range	NOUN	O
+of	ADP	O
+other	ADJ	O
+observations	NOUN	B	Observation
+.	PUNCT	O
+
+For	ADP	O
+example	NOUN	O
+,	PUNCT	O
+changes	NOUN	B	Effects_of_climate_change
+to	ADP	O
+the	DET	O
+natural	ADJ	B	Water_cycle
+water	NOUN	I	Water_cycle
+cycle	NOUN	I	Water_cycle
+have	AUX	O
+been	AUX	O
+predicted	VERB	O
+and	CCONJ	O
+observed	VERB	O
+,	PUNCT	O
+such	ADJ	O
+as	ADP	O
+an	DET	O
+increase	NOUN	O
+in	ADP	O
+the	DET	O
+frequency	NOUN	B	Frequency
+and	CCONJ	O
+intensity	NOUN	O
+of	ADP	O
+heavy	ADJ	O
+precipitation	NOUN	B	Precipitation
+,	PUNCT	O
+melting	NOUN	B	Melting
+of	ADP	O
+snow	NOUN	B	Snow
+and	CCONJ	O
+land	NOUN	O
+ice	NOUN	B	Ice
+,	PUNCT	O
+and	CCONJ	O
+increased	VERB	O
+atmospheric	ADJ	B	Humidity
+humidity	NOUN	I	Humidity
+.	PUNCT	O
+
+Flora	PROPN	B	Flora
+and	CCONJ	O
+fauna	NOUN	B	Fauna
+are	AUX	O
+also	ADV	O
+behaving	VERB	O
+in	ADP	O
+a	DET	O
+manner	NOUN	O
+consistent	ADJ	O
+with	ADP	O
+warming	NOUN	B	Climate_change
+;	PUNCT	O
+for	ADP	O
+instance	NOUN	O
+,	PUNCT	O
+plants	NOUN	B	Plant
+are	AUX	O
+flowering	VERB	B	Flower
+earlier	ADV	O
+in	ADP	O
+spring	NOUN	B	Spring_(season)
+.	PUNCT	O
+
+Another	DET	O
+key	ADJ	O
+indicator	NOUN	O
+is	AUX	O
+the	DET	O
+cooling	NOUN	B	Heat_transfer
+of	ADP	O
+the	DET	O
+upper	ADJ	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+which	PRON	O
+demonstrates	VERB	O
+that	SCONJ	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+are	AUX	O
+trapping	VERB	O
+heat	NOUN	B	Heat
+near	ADP	O
+the	DET	O
+Earth	PROPN	B	Earth
+'s	PART	O
+surface	NOUN	O
+and	CCONJ	O
+preventing	VERB	O
+it	PRON	O
+from	SCONJ	O
+radiating	VERB	B	Radiation
+into	ADP	O
+space	NOUN	B	Outer_space
+.	PUNCT	O
+
+Regions	NOUN	O
+of	ADP	O
+the	DET	B	Earth
+world	NOUN	I	Earth
+warm	ADJ	B	Temperature
+at	ADP	O
+differing	VERB	O
+rates	NOUN	O
+.	PUNCT	O
+
+The	DET	O
+pattern	NOUN	B	Pattern
+is	AUX	O
+independent	ADJ	O
+of	ADP	O
+where	ADV	O
+greenhouse	NOUN	B	Greenhouse_gas
+gases	NOUN	I	Greenhouse_gas
+are	AUX	O
+emitted	VERB	B	Greenhouse_gas_emissions
+,	PUNCT	O
+because	SCONJ	O
+the	DET	O
+gases	NOUN	B	Greenhouse_gas
+persist	VERB	O
+long	ADV	O
+enough	ADV	O
+to	PART	O
+diffuse	VERB	B	Diffusion
+across	ADP	O
+the	DET	B	Earth
+planet	NOUN	I	Earth
+.	PUNCT	O
+
+Since	ADP	O
+the	DET	O
+pre-industrial	ADJ	O
+period	NOUN	B	Time
+,	PUNCT	O
+the	DET	O
+average	ADJ	B	Instrumental_temperature_record
+surface	NOUN	I	Instrumental_temperature_record
+temperature	NOUN	I	Instrumental_temperature_record
+over	ADP	O
+land	NOUN	O
+regions	NOUN	O
+has	AUX	O
+increased	VERB	O
+almost	ADV	O
+twice	ADV	O
+as	ADV	O
+fast	ADV	O
+as	ADP	O
+the	DET	O
+global	ADJ	B	Global_temperature_record
+-	PUNCT	I	Global_temperature_record
+average	ADJ	I	Global_temperature_record
+surface	NOUN	I	Global_temperature_record
+temperature	NOUN	I	Global_temperature_record
+.	PUNCT	O
+
+This	PRON	O
+is	AUX	O
+because	ADP	O
+of	ADP	O
+the	DET	O
+larger	ADJ	O
+heat	NOUN	B	Heat_capacity
+capacity	NOUN	I	Heat_capacity
+of	ADP	O
+oceans	NOUN	B	Ocean
+,	PUNCT	O
+and	CCONJ	O
+because	SCONJ	O
+oceans	NOUN	B	Ocean
+lose	VERB	O
+more	ADJ	O
+heat	NOUN	B	Thermal_energy
+by	ADP	O
+evaporation	NOUN	B	Evaporation
+.	PUNCT	O
+
+The	DET	O
+thermal	ADJ	B	Thermal_energy
+energy	NOUN	I	Thermal_energy
+in	ADP	O
+the	DET	O
+global	ADJ	B	Climate_system
+climate	NOUN	I	Climate_system
+system	NOUN	I	Climate_system
+has	AUX	O
+grown	VERB	O
+with	ADP	O
+only	ADV	O
+brief	ADJ	O
+pauses	NOUN	O
+since	ADP	O
+at	ADP	O
+least	ADJ	O
+1970	NUM	B	1970
+,	PUNCT	O
+and	CCONJ	O
+over	ADV	O
+90	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+this	DET	O
+extra	ADJ	O
+energy	NOUN	B	Energy
+has	AUX	O
+been	AUX	O
+stored	VERB	B	Ocean_heat_content
+in	ADP	I	Ocean_heat_content
+the	DET	I	Ocean_heat_content
+ocean	NOUN	I	Ocean_heat_content
+.	PUNCT	O
+
+The	DET	O
+rest	NOUN	O
+has	AUX	O
+heated	VERB	B	Heat
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+melted	VERB	B	Melting
+ice	NOUN	B	Ice
+,	PUNCT	O
+and	CCONJ	O
+warmed	VERB	O
+the	DET	O
+continents	NOUN	B	Continent
+.	PUNCT	O
+
+The	DET	O
+Northern	ADJ	B	Northern_Hemisphere
+Hemisphere	PROPN	I	Northern_Hemisphere
+and	CCONJ	O
+the	DET	B	North_Pole
+North	PROPN	I	North_Pole
+Pole	PROPN	I	North_Pole
+have	AUX	O
+warmed	VERB	O
+much	ADV	O
+faster	ADJ	O
+than	ADP	O
+the	DET	O
+South	PROPN	B	South_Pole
+Pole	PROPN	I	South_Pole
+and	CCONJ	O
+Southern	ADJ	B	Southern_Hemisphere
+Hemisphere	PROPN	I	Southern_Hemisphere
+.	PUNCT	O
+
+The	DET	O
+Northern	ADJ	B	Northern_Hemisphere
+Hemisphere	PROPN	I	Northern_Hemisphere
+not	PART	O
+only	ADV	O
+has	VERB	O
+much	ADV	O
+more	ADJ	O
+land	NOUN	B	Land
+,	PUNCT	O
+but	CCONJ	O
+also	ADV	O
+more	ADJ	O
+seasonal	ADJ	B	Season
+snow	NOUN	B	Snow
+cover	NOUN	O
+and	CCONJ	O
+sea	NOUN	B	Sea_ice
+ice	NOUN	I	Sea_ice
+.	PUNCT	O
+
+As	SCONJ	O
+these	DET	O
+surfaces	NOUN	B	Surface
+flip	VERB	O
+from	SCONJ	O
+reflecting	VERB	B	Reflection_(physics)
+a	DET	O
+lot	NOUN	O
+of	ADP	O
+light	NOUN	B	Light
+to	SCONJ	O
+being	AUX	O
+dark	ADJ	B	Darkness
+after	SCONJ	O
+the	DET	O
+ice	NOUN	B	Sea_ice
+has	AUX	O
+melted	VERB	B	Melting
+,	PUNCT	O
+they	PRON	O
+start	VERB	O
+absorbing	VERB	B	Absorption_(electromagnetic_radiation)
+more	ADJ	O
+heat	NOUN	B	Heat
+.	PUNCT	O
+
+Local	ADJ	O
+black	ADJ	B	Black_carbon
+carbon	NOUN	I	Black_carbon
+deposits	NOUN	O
+on	ADP	O
+snow	NOUN	B	Snow
+and	CCONJ	O
+ice	NOUN	B	Sea_ice
+also	ADV	O
+contribute	VERB	O
+to	ADP	O
+Arctic	ADJ	B	Climate_change_in_the_Arctic
+warming	NOUN	I	Climate_change_in_the_Arctic
+.	PUNCT	O
+
+Arctic	ADJ	B	Climate_of_the_Arctic
+temperatures	NOUN	I	Climate_of_the_Arctic
+are	AUX	O
+increasing	VERB	O
+at	ADP	O
+over	ADV	O
+twice	ADV	O
+the	DET	O
+rate	NOUN	O
+of	ADP	O
+the	DET	O
+rest	NOUN	O
+of	ADP	O
+the	DET	O
+world	NOUN	O
+.	PUNCT	O
+
+Melting	NOUN	B	Melting
+of	ADP	O
+glaciers	NOUN	B	Glacier
+and	CCONJ	O
+ice	NOUN	B	Ice_sheet
+sheets	NOUN	I	Ice_sheet
+in	ADP	O
+the	DET	B	Arctic
+Arctic	PROPN	I	Arctic
+disrupts	VERB	O
+ocean	NOUN	B	Ocean_current
+circulation	NOUN	I	Ocean_current
+,	PUNCT	O
+including	VERB	O
+a	DET	O
+weakened	VERB	O
+Gulf	PROPN	B	Gulf_Stream
+Stream	PROPN	I	Gulf_Stream
+,	PUNCT	O
+further	ADV	O
+changing	VERB	O
+the	DET	O
+climate	NOUN	B	Climate
+.	PUNCT	O
+

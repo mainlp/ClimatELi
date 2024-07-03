@@ -1,0 +1,1145 @@
+How	ADV	O
+Climate	PROPN	B	Climate_change
+Change	NOUN	I	Climate_change
+Actually	ADV	O
+Works	PROPN	O
+...	PUNCT	O
+in	ADP	O
+4	NUM	B	4
+Minutes	NOUN	B	Minute
+
+Good	ADJ	B	Good_morning
+Morning	PROPN	I	Good_morning
+John	PROPN	O
+.	PUNCT	O
+
+So	ADV	O
+probably	ADV	B	Probability
+you	PRON	O
+have	AUX	O
+heard	VERB	B	Hearing
+that	SCONJ	O
+for	ADP	O
+a	DET	O
+long	ADJ	O
+time	NOUN	O
+the	DET	O
+amount	NOUN	B	Amount_of_substance
+of	ADP	O
+energy	NOUN	B	Energy
+entering	VERB	O
+the	DET	O
+earth	NOUN	B	Atmosphere_of_Earth
+'s	PART	I	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+and	CCONJ	O
+the	DET	O
+amount	NOUN	B	Amount_of_substance
+leaving	VERB	O
+the	DET	O
+earth	NOUN	B	Atmosphere_of_Earth
+'s	PART	I	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+was	AUX	O
+about	ADV	O
+the	DET	O
+same	ADJ	O
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+that	PRON	O
+was	AUX	O
+good	ADJ	B	Good
+because	SCONJ	O
+if	SCONJ	B	If_and_only_if
+those	DET	O
+two	NUM	O
+numbers	NOUN	B	Number
+are	AUX	O
+not	PART	O
+equal	ADJ	B	Equality_(mathematics)
+then	ADV	O
+we	PRON	O
+are	AUX	O
+either	CCONJ	O
+getting	VERB	O
+colder	ADJ	O
+every	DET	O
+year	NOUN	B	Year
+or	CCONJ	O
+we	PRON	O
+'re	AUX	O
+getting	VERB	O
+hotter	ADJ	B	Heat
+every	DET	O
+year	NOUN	B	Year
+.	PUNCT	O
+
+But	CCONJ	O
+now	ADV	B	Present
+it	PRON	O
+looks	VERB	O
+like	SCONJ	O
+there	PRON	O
+is	VERB	O
+in	ADP	O
+fact	NOUN	B	Fact
+more	ADJ	O
+energy	NOUN	B	Energy
+coming	VERB	O
+in	ADP	O
+than	ADP	O
+going	VERB	O
+out	ADP	O
+and	CCONJ	O
+that	PRON	O
+results	VERB	B	Result
+in	ADP	O
+basically	ADV	O
+three	NUM	O
+things	NOUN	B	Object_(philosophy)
+.	PUNCT	O
+
+First	ADV	O
+,	PUNCT	O
+more	ADJ	O
+heat	NOUN	B	Heat
+.	PUNCT	O
+
+Which	PRON	B	Which
+is	AUX	O
+what	PRON	B	Interrogative_word
+we	PRON	O
+call	VERB	O
+like	ADP	O
+individual	ADJ	B	Single-molecule_experiment
+molecules	NOUN	I	Single-molecule_experiment
+moving	VERB	I	Single-molecule_experiment
+faster	ADJ	B	Acceleration
+.	PUNCT	O
+
+Which	PRON	B	Which
+is	AUX	O
+wild	ADJ	B	Wildlife
+.	PUNCT	O
+
+Like	INTJ	O
+,	PUNCT	O
+when	ADV	O
+you	PRON	O
+are	AUX	O
+hot	ADJ	B	Heat
+it	PRON	O
+is	AUX	O
+because	SCONJ	O
+the	DET	O
+molecules	NOUN	B	Molecule
+that	PRON	O
+make	VERB	O
+up	ADP	O
+your	PRON	O
+body	NOUN	B	Human_body
+are	AUX	O
+jiggling	VERB	O
+more	ADJ	O
+.	PUNCT	O
+
+Does	AUX	O
+n't	PART	O
+seem	VERB	O
+real	ADJ	B	Reality
+,	PUNCT	O
+but	CCONJ	O
+it	PRON	O
+is	AUX	O
+.	PUNCT	O
+
+Second	ADV	O
+you	PRON	O
+have	VERB	O
+more	ADJ	O
+severe	ADJ	B	Weather
+weather	NOUN	I	Weather
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+when	ADV	O
+a	DET	O
+lot	NOUN	O
+of	ADP	O
+molecules	NOUN	B	Molecule
+together	ADV	O
+move	VERB	O
+around	ADV	O
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+because	ADP	O
+of	ADP	O
+those	DET	O
+two	NUM	O
+you	PRON	O
+have	VERB	O
+number	NOUN	B	Number
+three	NUM	O
+which	PRON	O
+is	AUX	O
+probably	ADV	B	Probability
+the	DET	O
+worst	ADJ	O
+of	ADP	O
+them	PRON	O
+.	PUNCT	O
+
+Things	NOUN	B	Entity
+are	AUX	O
+different	ADJ	B	Difference_(philosophy)
+.	PUNCT	O
+
+That	PRON	O
+does	AUX	O
+n't	PART	O
+sound	VERB	O
+so	ADV	O
+bad	ADJ	O
+except	SCONJ	O
+that	SCONJ	O
+we	PRON	O
+have	AUX	O
+built	VERB	B	Construction
+a	DET	O
+tremendous	ADJ	O
+amount	NOUN	B	Quantity
+of	ADP	O
+our	PRON	B	We
+human	ADJ	B	Human
+infrastructure	NOUN	B	Infrastructure
+designed	VERB	O
+based	VERB	O
+on	ADP	O
+the	DET	O
+idea	NOUN	B	Idea
+that	SCONJ	O
+things	NOUN	B	Entity
+will	AUX	O
+be	AUX	O
+roughly	ADV	O
+the	DET	O
+same	ADJ	B	Identity_(philosophy)
+now	ADV	B	Present
+as	SCONJ	O
+they	PRON	O
+were	AUX	O
+in	ADP	O
+the	DET	B	Past
+past	NOUN	I	Past
+,	PUNCT	O
+with	ADP	O
+regards	NOUN	O
+to	ADP	O
+rainfall	NOUN	B	Rain
+and	CCONJ	O
+temperature	NOUN	B	Temperature
+and	CCONJ	O
+stuff	NOUN	B	Entity
+like	ADP	O
+that	PRON	O
+.	PUNCT	O
+
+When	ADV	O
+that	DET	O
+stuff	NOUN	B	Entity
+changes	VERB	B	Change
+crops	NOUN	B	Crop
+might	AUX	O
+have	AUX	O
+dramatically	ADV	O
+lower	ADJ	O
+yields	NOUN	B	Crop_yield
+,	PUNCT	O
+resulting	VERB	B	Result
+in	ADP	O
+very	ADV	O
+hungry	ADJ	B	Hunger
+people	NOUN	B	People
+.	PUNCT	O
+
+People	NOUN	B	People
+might	AUX	O
+use	VERB	O
+their	PRON	O
+air	NOUN	B	Air_conditioning
+conditioners	NOUN	I	Air_conditioning
+way	ADV	O
+more	ADJ	O
+than	ADP	O
+in	ADP	O
+the	DET	B	Past
+past	NOUN	I	Past
+so	ADV	O
+entire	ADJ	O
+power	NOUN	B	Electrical_grid
+grids	NOUN	I	Electrical_grid
+fail	VERB	B	Failure
+.	PUNCT	O
+
+Forests	NOUN	B	Forest
+that	PRON	O
+grew	VERB	B	Plant_development
+in	ADP	O
+areas	NOUN	B	Area
+that	PRON	O
+once	ADV	O
+had	VERB	O
+shorter	ADJ	O
+dry	ADJ	B	Dry_season
+seasons	NOUN	I	Dry_season
+might	AUX	O
+burn	VERB	B	Burn
+up	ADP	O
+in	ADP	O
+fires	NOUN	B	Fire
+.	PUNCT	O
+
+So	ADV	O
+that	PRON	O
+'s	AUX	O
+bad	ADJ	O
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+always	ADV	O
+the	DET	O
+first	ADJ	O
+thing	NOUN	B	Object_(philosophy)
+you	PRON	O
+should	AUX	O
+ask	VERB	O
+when	ADV	O
+something	PRON	O
+bad	ADJ	O
+is	AUX	O
+happening	VERB	O
+is	AUX	O
+why	ADV	O
+is	AUX	O
+that	PRON	O
+happening	VERB	O
+?	PUNCT	O
+
+So	ADV	O
+you	PRON	O
+know	VERB	B	Knowledge
+when	ADV	O
+you	PRON	O
+go	VERB	B	Go_(verb)
+outside	ADV	O
+wearing	VERB	B	Wear
+a	DET	O
+black	ADJ	O
+t-	PUNCT	B	T-shirt
+shirt	NOUN	I	T-shirt
+you	PRON	O
+get	VERB	O
+hotter	ADJ	B	Heat
+faster	ADJ	B	Acceleration
+then	ADV	O
+when	ADV	O
+you	PRON	O
+'re	AUX	O
+wearing	VERB	B	Wear
+a	DET	O
+white	ADJ	B	White
+t-	PUNCT	B	T-shirt
+shirt	NOUN	I	T-shirt
+.	PUNCT	O
+
+That	PRON	O
+'s	AUX	O
+because	SCONJ	O
+things	NOUN	B	Object_(philosophy)
+only	ADV	O
+look	VERB	O
+black	ADJ	B	Black
+if	SCONJ	B	If_and_only_if
+they	PRON	O
+absorb	VERB	B	Absorption_(electromagnetic_radiation)
+all	DET	O
+of	ADP	O
+the	DET	O
+visible	ADJ	B	Light
+light	NOUN	I	Light
+that	PRON	O
+is	AUX	O
+hitting	VERB	B	Strike_(attack)
+them	PRON	B	Object_(philosophy)
+.	PUNCT	O
+
+If	SCONJ	B	If_(preposition)
+the	DET	O
+light	NOUN	B	Light
+was	AUX	O
+not	PART	O
+being	AUX	O
+absorbed	VERB	B	Absorption_(electromagnetic_radiation)
+it	PRON	O
+would	AUX	O
+either	CCONJ	O
+be	AUX	O
+reflected	VERB	B	Reflection_(physics)
+as	ADP	O
+white	ADJ	B	White
+light	NOUN	B	Light
+or	CCONJ	O
+as	ADP	O
+a	DET	O
+mirror	NOUN	B	Mirror
+.	PUNCT	O
+
+Or	CCONJ	B	Or
+it	PRON	O
+would	AUX	O
+be	AUX	O
+clear	ADJ	O
+,	PUNCT	O
+which	PRON	O
+would	AUX	O
+be	AUX	O
+a	DET	O
+strange	ADJ	B	Strangeness
+choice	NOUN	B	Choice
+for	ADP	O
+a	DET	O
+shirt	NOUN	B	Shirt
+.	PUNCT	O
+
+So	ADV	O
+if	SCONJ	B	If_(preposition)
+you	PRON	O
+'re	AUX	O
+wearing	VERB	B	Wear
+a	DET	O
+white	ADJ	O
+shirt	NOUN	B	Shirt
+the	DET	O
+visible	ADJ	B	Light
+light	NOUN	I	Light
+is	AUX	O
+n't	PART	O
+being	AUX	O
+absorbed	VERB	B	Absorption_(electromagnetic_radiation)
+,	PUNCT	O
+it	PRON	O
+'s	AUX	O
+being	AUX	O
+reflected	VERB	B	Reflection_(physics)
+and	CCONJ	O
+that	PRON	O
+'s	AUX	O
+why	ADV	O
+you	PRON	O
+'re	AUX	O
+less	ADV	O
+hot	ADJ	B	Heat
+.	PUNCT	O
+
+Absorb	VERB	B	Absorption_(electromagnetic_radiation)
+,	PUNCT	O
+reflect	VERB	B	Reflection_(physics)
+,	PUNCT	O
+or	CCONJ	O
+let	VERB	O
+pass	VERB	O
+through	ADP	O
+that	PRON	O
+'s	AUX	O
+basically	ADV	O
+the	DET	O
+only	ADJ	O
+three	NUM	O
+things	NOUN	B	Object_(philosophy)
+that	PRON	O
+a	DET	O
+material	NOUN	B	Material
+can	AUX	O
+do	VERB	O
+with	ADP	O
+light	NOUN	B	Light
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+if	SCONJ	B	If_(preposition)
+the	DET	B	Light
+light	NOUN	I	Light
+is	AUX	O
+being	AUX	O
+absorbed	VERB	B	Absorption_(electromagnetic_radiation)
+,	PUNCT	O
+that	PRON	O
+means	VERB	O
+the	DET	O
+energy	NOUN	B	Energy
+of	ADP	O
+the	DET	B	Light
+light	NOUN	I	Light
+hit	VERB	O
+the	DET	O
+molecule	NOUN	B	Molecule
+in	ADP	O
+such	DET	O
+a	DET	O
+way	NOUN	B	Methodology
+that	SCONJ	O
+it	PRON	O
+'s	AUX	O
+creating	VERB	B	Create
+movement	NOUN	B	Motion
+in	ADP	O
+the	DET	O
+molecule	NOUN	B	Molecule
+.	PUNCT	O
+
+The	DET	B	Light
+light	NOUN	I	Light
+no	ADV	O
+longer	ADV	O
+exists	VERB	O
+the	DET	O
+energy	NOUN	B	Energy
+is	AUX	O
+now	ADV	B	Present
+movement	NOUN	B	Motion
+,	PUNCT	O
+and	CCONJ	O
+the	DET	O
+movement	NOUN	B	Motion
+can	AUX	O
+now	ADV	B	Present
+be	AUX	O
+transferred	VERB	O
+to	ADP	O
+other	ADJ	O
+elements	NOUN	B	Chemical_element
+.	PUNCT	O
+
+Just	ADV	O
+like	ADP	O
+a	DET	O
+cue	NOUN	B	Billiard_ball
+ball	NOUN	I	Billiard_ball
+hitting	VERB	B	Strike_(attack)
+a	DET	O
+pool	NOUN	B	Billiard_ball
+ball	NOUN	I	Billiard_ball
+.	PUNCT	O
+
+There	PRON	O
+are	VERB	O
+basically	ADV	O
+two	NUM	O
+ways	NOUN	B	Methodology
+a	DET	O
+molecule	NOUN	B	Molecule
+can	AUX	O
+heat	VERB	B	Heat
+up	ADP	I	Heat
+and	CCONJ	O
+we	PRON	O
+just	ADV	O
+talked	VERB	O
+about	ADP	O
+both	DET	O
+of	ADP	O
+them	PRON	B	Methodology
+.	PUNCT	O
+
+The	DET	O
+first	ADJ	O
+is	AUX	O
+that	SCONJ	O
+a	DET	O
+photon	NOUN	B	Photon
+travels	VERB	B	Travel
+through	ADP	O
+space	NOUN	B	Space
+and	CCONJ	O
+then	ADV	O
+gets	AUX	O
+absorbed	VERB	B	Absorption_(electromagnetic_radiation)
+by	ADP	O
+a	DET	O
+molecule	NOUN	B	Molecule
+and	CCONJ	O
+speeds	VERB	B	Acceleration
+up	ADP	I	Acceleration
+that	DET	O
+molecule	NOUN	B	Molecule
+.	PUNCT	O
+
+That	PRON	O
+'s	AUX	O
+heat	NOUN	B	Heat
+from	ADP	O
+radiation	NOUN	B	Radiation
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+the	DET	O
+second	ADJ	O
+way	NOUN	B	Methodology
+is	AUX	O
+that	SCONJ	O
+a	DET	O
+particle	NOUN	B	Particle
+that	PRON	O
+'s	AUX	O
+jiggling	VERB	O
+a	DET	O
+lot	NOUN	O
+hits	VERB	B	Strike_(attack)
+a	DET	O
+particle	NOUN	B	Particle
+that	PRON	O
+'s	AUX	O
+jiggling	VERB	O
+less	ADJ	O
+and	CCONJ	O
+transfers	VERB	B	Heat_transfer
+its	PRON	O
+heat	NOUN	B	Heat
+to	ADP	O
+that	DET	O
+other	ADJ	O
+molecule	NOUN	B	Molecule
+.	PUNCT	O
+
+When	ADV	O
+that	PRON	O
+happens	VERB	O
+in	ADP	O
+a	DET	O
+solid	NOUN	B	Solid
+we	PRON	O
+call	VERB	O
+it	PRON	O
+conduction	NOUN	B	Thermal_conduction
+and	CCONJ	O
+when	ADV	O
+it	PRON	O
+happens	VERB	O
+in	ADP	O
+a	DET	B	Fluid
+fluid	NOUN	I	Fluid
+we	PRON	O
+call	VERB	O
+it	PRON	O
+convection	NOUN	B	Convection
+.	PUNCT	O
+
+So	ADV	O
+like	INTJ	O
+when	ADV	O
+we	PRON	O
+are	AUX	O
+in	ADP	O
+the	DET	O
+shade	NOUN	B	Shadow
+99	NUM	O
+%	SYM	B	Percentage
+of	ADP	O
+the	DET	O
+heat	NOUN	B	Heat
+you	PRON	O
+are	AUX	O
+feeling	VERB	O
+is	AUX	O
+convection	NOUN	B	Convection
+.	PUNCT	O
+
+It	PRON	O
+'s	AUX	O
+molecules	NOUN	B	Molecule
+in	ADP	O
+the	DET	O
+air	NOUN	B	Atmosphere_of_Earth
+running	VERB	B	Running
+to	ADP	O
+you	PRON	O
+and	CCONJ	O
+transferring	VERB	B	Heat_transfer
+their	PRON	O
+heat	NOUN	B	Heat
+to	ADP	O
+you	PRON	O
+.	PUNCT	O
+
+But	CCONJ	O
+when	ADV	O
+you	PRON	B	You
+'re	AUX	O
+in	ADP	O
+the	DET	B	Sun
+sun	NOUN	I	Sun
+it	PRON	O
+'s	AUX	O
+a	DET	O
+mix	NOUN	B	Mixture
+of	ADP	O
+both	CCONJ	O
+the	DET	O
+radiation	NOUN	B	Radiation
+and	CCONJ	O
+the	DET	O
+convection	NOUN	B	Convection
+,	PUNCT	O
+which	PRON	O
+is	AUX	O
+why	ADV	O
+it	PRON	O
+'s	AUX	O
+hotter	ADJ	B	Heat
+in	ADP	O
+the	DET	B	Sun
+sun	NOUN	I	Sun
+.	PUNCT	O
+
+Now	ADV	B	Present
+,	PUNCT	O
+different	ADJ	B	Difference_(philosophy)
+molecules	NOUN	B	Molecule
+absorb	VERB	B	Absorption_(electromagnetic_radiation)
+different	ADJ	B	Difference_(philosophy)
+wavelengths	NOUN	B	Wavelength
+of	ADP	O
+light	NOUN	B	Light
+.	PUNCT	O
+
+Like	ADP	O
+this	DET	O
+book	NOUN	B	Book_cover
+cover	NOUN	I	Book_cover
+is	AUX	O
+mostly	ADV	O
+absorbing	VERB	B	Absorption_(electromagnetic_radiation)
+everything	PRON	B	Everything
+but	CCONJ	O
+yellow	ADJ	B	Yellow
+,	PUNCT	O
+and	CCONJ	O
+this	DET	O
+one	NOUN	O
+is	AUX	O
+mostly	ADV	O
+absorbing	VERB	B	Absorption_(electromagnetic_radiation)
+everything	PRON	B	Everything
+but	CCONJ	O
+red	ADJ	B	Red
+,	PUNCT	O
+and	CCONJ	O
+the	DET	O
+red	NOUN	B	Red
+and	CCONJ	O
+the	DET	O
+yellow	NOUN	B	Yellow
+are	AUX	O
+being	AUX	O
+reflected	VERB	B	Reflection_(physics)
+back	ADV	O
+.	PUNCT	O
+
+And	CCONJ	B	And
+this	PRON	O
+can	AUX	O
+also	ADV	O
+happen	VERB	O
+with	ADP	O
+gasses	NOUN	B	Gas
+.	PUNCT	O
+
+There	PRON	O
+can	AUX	O
+be	VERB	O
+green	ADJ	B	Green
+gasses	NOUN	B	Gas
+and	CCONJ	O
+yellow	ADJ	B	Yellow
+gasses	NOUN	B	Gas
+and	CCONJ	O
+brown	ADJ	B	Brown
+gasses	NOUN	B	Gas
+.	PUNCT	O
+
+But	CCONJ	O
+the	DET	O
+two	NUM	O
+molecules	NOUN	B	Molecule
+of	ADP	O
+interest	NOUN	B	Attention
+here	ADV	O
+,	PUNCT	O
+carbon	NOUN	B	Carbon_dioxide
+dioxide	NOUN	I	Carbon_dioxide
+and	CCONJ	O
+methane	NOUN	B	Methane
+,	PUNCT	O
+they	PRON	O
+do	AUX	O
+n't	PART	O
+absorb	VERB	B	Absorption_(electromagnetic_radiation)
+any	DET	O
+light	NOUN	B	Light
+in	ADP	O
+the	DET	O
+visible	ADJ	B	Visible_spectrum
+spectrum	NOUN	I	Visible_spectrum
+,	PUNCT	O
+which	PRON	O
+means	VERB	O
+that	SCONJ	O
+they	PRON	O
+are	AUX	O
+clear	ADJ	B	Transparency_and_translucency
+.	PUNCT	O
+
+We	PRON	O
+ca	AUX	O
+n't	PART	O
+see	VERB	B	Visual_perception
+them	PRON	O
+.	PUNCT	O
+
+One	NUM	O
+of	ADP	O
+the	DET	O
+problems	NOUN	B	Problem_solving
+with	ADP	O
+methane	NOUN	B	Methane
+,	PUNCT	O
+actually	ADV	O
+.	PUNCT	O
+
+If	SCONJ	B	If_(preposition)
+your	PRON	O
+house	NOUN	B	House
+is	AUX	O
+filling	VERB	B	Stuffing
+up	ADP	I	Stuffing
+with	ADP	O
+it	PRON	O
+you	PRON	O
+need	VERB	B	Need
+to	PART	O
+make	VERB	O
+sure	ADJ	O
+that	SCONJ	O
+you	PRON	O
+know	VERB	B	Knowledge
+that	SCONJ	O
+that	PRON	O
+'s	AUX	O
+happening	VERB	O
+,	PUNCT	O
+but	CCONJ	O
+you	PRON	O
+ca	AUX	O
+n't	PART	O
+see	VERB	B	Visual_perception
+it	PRON	O
+.	PUNCT	O
+
+But	CCONJ	O
+,	PUNCT	O
+at	ADP	O
+certain	ADJ	B	Certainty
+infrared	ADJ	B	Infrared
+wavelengths	NOUN	B	Wavelength
+,	PUNCT	O
+which	PRON	O
+the	DET	B	Sun
+sun	NOUN	I	Sun
+creates	VERB	B	Creativity
+a	DET	O
+lot	NOUN	O
+of	ADP	O
+,	PUNCT	O
+they	PRON	O
+are	AUX	O
+black	ADJ	B	Black
+.	PUNCT	O
+
+And	CCONJ	O
+when	ADV	O
+we	PRON	O
+put	VERB	O
+more	ADJ	O
+of	ADP	O
+them	PRON	B	Wavelength
+in	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+,	PUNCT	O
+our	PRON	B	We
+atmosphere	NOUN	B	Atmosphere
+is	AUX	O
+a	DET	O
+little	ADJ	O
+less	ADV	O
+clear	ADJ	B	Transparency_and_translucency
+in	ADP	O
+the	DET	O
+wavelengths	NOUN	B	Wavelength
+and	CCONJ	O
+a	DET	O
+little	ADJ	O
+more	ADV	O
+black	ADJ	B	Black
+.	PUNCT	O
+
+Those	DET	O
+molecules	NOUN	B	Molecule
+absorb	VERB	B	Absorption_(electromagnetic_radiation)
+photons	NOUN	B	Photon
+they	PRON	O
+start	VERB	O
+to	PART	O
+move	VERB	O
+around	ADV	O
+faster	ADJ	B	Acceleration
+,	PUNCT	O
+they	PRON	O
+knock	VERB	B	Strike_(attack)
+into	ADP	O
+other	ADJ	O
+molecules	NOUN	B	Molecule
+,	PUNCT	O
+which	PRON	O
+also	ADV	O
+start	VERB	O
+to	PART	O
+move	VERB	O
+around	ADV	O
+faster	ADJ	B	Acceleration
+.	PUNCT	O
+
+They	PRON	B	Molecule
+push	VERB	O
+on	ADP	O
+each	DET	O
+other	ADJ	O
+more	ADJ	O
+and	CCONJ	O
+more	ADJ	O
+until	SCONJ	O
+they	PRON	B	Molecule
+have	VERB	O
+lower	ADJ	O
+pressure	NOUN	B	Pressure
+and	CCONJ	O
+that	SCONJ	O
+hot	ADJ	B	Heat
+air	NOUN	I	Heat
+starts	VERB	O
+to	PART	O
+rise	VERB	O
+.	PUNCT	O
+
+Cooler	ADJ	B	Temperature
+denser	ADJ	B	Density
+air	NOUN	B	Atmosphere
+rushes	VERB	O
+into	ADP	O
+take	VERB	O
+its	PRON	O
+place	NOUN	B	Toponymy
+and	CCONJ	O
+that	PRON	O
+'s	PART	O
+weather	NOUN	B	Weather
+now	ADV	B	Present
+.	PUNCT	O
+
+Those	DET	O
+hot	ADJ	B	Heat
+air	NOUN	B	Atmosphere
+molecules	NOUN	B	Molecule
+might	AUX	O
+remove	VERB	O
+more	ADJ	O
+moisture	NOUN	B	Moisture
+from	ADP	O
+the	DET	O
+soil	NOUN	B	Soil
+resulting	VERB	O
+in	ADP	O
+more	ADJ	O
+wildfires	NOUN	B	Wildfire
+.	PUNCT	O
+
+It	PRON	O
+might	AUX	O
+evaporate	VERB	B	Evaporation
+more	ADJ	O
+water	NOUN	B	Water
+from	ADP	O
+the	DET	B	Ocean
+ocean	NOUN	I	Ocean
+resulting	VERB	O
+in	ADP	O
+bigger	ADJ	O
+storms	NOUN	B	Storm
+.	PUNCT	O
+
+We	PRON	O
+know	VERB	O
+that	SCONJ	O
+this	PRON	O
+happens	VERB	O
+,	PUNCT	O
+we	PRON	O
+know	VERB	O
+how	ADV	O
+this	PRON	O
+happens	VERB	O
+,	PUNCT	O
+we	PRON	O
+know	VERB	O
+why	ADV	O
+this	PRON	O
+happens	VERB	O
+and	CCONJ	O
+we	PRON	O
+know	VERB	O
+what	PRON	B	Interrogative_word
+the	DET	O
+effects	NOUN	B	Effects_of_climate_change
+are	AUX	O
+.	PUNCT	O
+
+And	CCONJ	O
+we	PRON	O
+know	VERB	O
+that	SCONJ	O
+the	DET	O
+only	ADJ	O
+way	NOUN	B	Methodology
+to	PART	O
+stop	VERB	O
+it	PRON	O
+is	AUX	O
+for	SCONJ	O
+there	PRON	O
+to	PART	O
+be	VERB	O
+more	ADJ	O
+co2	NOUN	B	Carbon_dioxide
+and	CCONJ	O
+methane	NOUN	B	Methane
+from	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+.	PUNCT	O
+
+But	CCONJ	O
+that	PRON	O
+is	AUX	O
+a	DET	O
+very	ADV	O
+hard	ADJ	O
+thing	NOUN	B	Entity
+to	PART	O
+do	VERB	O
+.	PUNCT	O
+
+It	PRON	O
+'s	AUX	O
+very	ADV	O
+hard	ADJ	O
+and	CCONJ	O
+expensive	ADJ	B	Cost
+to	PART	O
+remove	VERB	B	Carbon_dioxide_removal
+those	DET	O
+things	NOUN	B	Carbon_dioxide
+from	ADP	O
+the	DET	B	Atmosphere_of_Earth
+atmosphere	NOUN	I	Atmosphere_of_Earth
+.	PUNCT	O
+
+It	PRON	O
+'s	AUX	O
+very	ADV	O
+hard	ADJ	O
+and	CCONJ	O
+expensive	ADJ	B	Cost
+to	PART	O
+replace	VERB	O
+the	DET	O
+agriculture	NOUN	B	Agriculture
+and	CCONJ	O
+energy	NOUN	B	Energy
+and	CCONJ	O
+transportation	NOUN	B	Transport
+infrastructure	NOUN	I	Transport
+that	PRON	O
+results	VERB	O
+in	ADP	O
+the	DET	O
+release	NOUN	B	Greenhouse_gas_emissions
+of	ADP	I	Greenhouse_gas_emissions
+those	DET	I	Greenhouse_gas_emissions
+gasses	NOUN	I	Greenhouse_gas_emissions
+.	PUNCT	O
+
+It	PRON	O
+is	AUX	O
+not	PART	O
+an	DET	O
+easy	ADJ	O
+problem	NOUN	B	Problem_solving
+to	PART	O
+solve	VERB	B	Problem_solving
+.	PUNCT	O
+
+But	CCONJ	O
+we	PRON	O
+have	VERB	O
+a	DET	O
+very	ADV	O
+strong	ADJ	O
+grip	NOUN	O
+on	SCONJ	O
+what	PRON	B	Interrogative_word
+the	DET	O
+problem	NOUN	B	Problem_solving
+is	AUX	O
+.	PUNCT	O
+
+And	CCONJ	B	Logical_conjunction
+I	PRON	O
+think	VERB	O
+people	NOUN	O
+can	AUX	O
+basically	ADV	O
+solve	VERB	B	Problem_solving
+any	DET	O
+problem	NOUN	B	Problem_solving
+if	SCONJ	B	If_(preposition)
+only	ADV	I	If_(preposition)
+we	PRON	O
+can	AUX	O
+agree	VERB	B	Consensus
+that	SCONJ	O
+it	PRON	O
+exists	VERB	B	Existence
+.	PUNCT	O
+
+John	PROPN	O
+,	PUNCT	O
+I	PRON	O
+'ll	AUX	O
+see	VERB	B	Visual_perception
+you	PRON	O
+on	ADP	O
+Tuesday	PROPN	B	Tuesday
+.	PUNCT	O
+
